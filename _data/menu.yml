@@ -1,0 +1,14 @@
+- title: Home
+  link: "/index.html"
+
+- title: About
+  link: "/about.html"
+
+- title: Resources
+  link: "/resources.html"
+
+- title: Volunteer
+  link: "/volunteer.html"
+
+- title: 'Support Us <i class="fa"> &#xf35d; </i>'
+  link: "/gofundme-external.html"

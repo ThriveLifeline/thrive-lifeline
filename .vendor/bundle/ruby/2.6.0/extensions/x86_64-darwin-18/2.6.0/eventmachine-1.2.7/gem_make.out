@@ -1,0 +1,16 @@
+current directory: /Users/Owner/Documents/Activities/THRIVE/THRIVE_website/THRIVE_master/.vendor/bundle/ruby/2.6.0/gems/eventmachine-1.2.7/ext/fastfilereader
+/Users/Owner/.rvm/rubies/ruby-2.6.1/bin/ruby -I /Users/Owner/.rvm/rubies/ruby-2.6.1/lib/ruby/site_ruby/2.6.0 -r ./siteconf20200615-65637-3ccevf.rb extconf.rb
+creating Makefile
+
+current directory: /Users/Owner/Documents/Activities/THRIVE/THRIVE_website/THRIVE_master/.vendor/bundle/ruby/2.6.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make "DESTDIR=" clean
+
+current directory: /Users/Owner/Documents/Activities/THRIVE/THRIVE_website/THRIVE_master/.vendor/bundle/ruby/2.6.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make "DESTDIR="
+compiling mapper.cpp
+compiling rubymain.cpp
+linking shared-object fastfilereaderext.bundle
+
+current directory: /Users/Owner/Documents/Activities/THRIVE/THRIVE_website/THRIVE_master/.vendor/bundle/ruby/2.6.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make "DESTDIR=" install
+/usr/local/opt/coreutils/bin/ginstall -c -m 0755 fastfilereaderext.bundle ./.gem.20200615-65637-bu1tna
