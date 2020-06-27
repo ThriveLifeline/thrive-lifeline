@@ -26,7 +26,7 @@ general:
 - Resource: <a href="https://ostem.org/305556/Page/Show?ClassCode=Page&Slug=crisis-hotlines" target="_blank">oSTEM Crisis Resources (Quick Link)</a>
   Resource Description: "A list of LGBTQIA+ support resources, including crisis hotlines and other services"
 
-- Resource: <a href="http://bit.ly/ostemsquad" target="_blank">oSTEM Squad Slack</a>
+- Resource: <a href="https://tinyurl.com/ostemsquadslack" target="_blank">oSTEM Squad Slack</a>
   Resource Description: oSTEM's virtual community which includes a multitude of resources and channels
 
 - Resource: <a href="https://pflag.org" target="_blank">PFLAG</a>
@@ -35,12 +35,12 @@ general:
 
 hotlines:
 - Resource: <a href="http://fenwayhealth.org/care/wellness-resources/help-lines/" target="_blank">Fenway Health Helpline</a>
-  Hotline: "Ages 25+: 1.61.267.9001 or Ages 25 and under: 1.617.267.2535"
+  Hotline: "Ages 25+: 1.617.267.9001 or Ages 25 and under: 1.617.267.2535"
   Resource Description: "Not 24/7! 25+ M-Sa 6pm-11pm ET; <25 M-Sa 5p-11pm. Fenway Health provides information, help, and referrals to LGBT callers. They also have a peer listening line."
 
-- Resource: <a href="http://glbtnationalhelpcenter.org" target="_blank">The GLBT National Help Center</a>
+- Resource: <a href="http://glbtnationalhelpcenter.org" target="_blank">The LGBT National Help Center</a>
   Hotline: 1.888.843.4564
-  Resource Description: "The GLBT National Help Center provides telephone, online chat, and email peer-support. They speak with callers of all ages about bullying, workplace issues, HIV/AIDS anxiety, coming out, relationships, safer sex, and more."
+  Resource Description: "The LGBT National Help Center provides telephone, online chat, and email peer-support. They speak with callers of all ages about bullying, workplace issues, HIV/AIDS anxiety, coming out, relationships, safer sex, and more."
 
 - Resource: <a href="http://www.translifeline.org/" target="_blank">Trans Lifeline</a>
   Hotline: 1.877.565.8860
@@ -88,6 +88,9 @@ gender:
 
 - Resource: <a href="https://transgenderlegal.org/work_show.php?id=7" target="_blank">Transgender Legal - Name Change Project</a>
   Resource Description: "TLDEF's Name Change Project provides pro bono legal name change services to low-income transgender, gender non-conforming, and non-binary people through partnerships with some of the nation’s most prestigious law firms and corporate law departments."
+
+- Resource: <a href="https://www.tgncmedfund.org/" target="_blank">TGNC Medical Relief Fund</a>
+  Resource Description: A crowdfunded organization providing cash relief to trans and gendernonconforming individuals for help with medical costs.
 
 legal:
 - Resource: <a href="https://www.lambdalegal.org" target="_blank">Lambda Legal</a>
@@ -138,6 +141,9 @@ edu:
 
 - Resource: <a href="https://www.thetrevorproject.org/resources/trevor-support-center/a-guide-to-being-an-ally-to-transgender-and-nonbinary-youth/" target="_blank">Trevor - Guide to Being an Ally for T/Enby Youth</a>
   Resource Description: A guide for supporting trans and non-binary youth.
+
+- Resource: <a href="https://learn.truecolorsunited.org/courses/lgbt-youth-homelessness-101/" target="_blank">True Colors: LGBTQ Youth Homelessness 101 Course</a>
+  Resource Description: A free, online course that covers oppression, facts about LGBTQ youth homelessness, gender pronouns, unique experiences of transgender youth, and creating inclusive environments.
 
 health:
 - Resource: <a href="https://www.ftmsurgery.net/" target="_blank">FTM Surgery Guide (Trans)</a>
