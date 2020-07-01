@@ -10,7 +10,7 @@ Source: [Start Bootstrap - Business Frontpage](https://startbootstrap.com/templa
 
 ## Copyright and License
 
-Copyright 2013-2019 Blackrock Digital LLC. Code released under the 
+Copyright 2013-2019 Blackrock Digital LLC. Code released under the
 [MIT](https://github.com/BlackrockDigital/startbootstrap-business-frontpage/blob/gh-pages/LICENSE) license.
 
 # Use Information - THRIVE Lifeline
@@ -18,25 +18,33 @@ Copyright 2013-2019 Blackrock Digital LLC. Code released under the
 ## Dealing with Jekyll
 Install Jekyll by following their [instructions](https://jekyllrb.com/docs/installation/).
 
-Once instealled, you can build the site locally by running: `$ bundle exec jekyll serve`
+Once installed, you can build the site locally by running: `$ bundle exec jekyll serve`
 in the base directory.
 Note: If you encounter issues, try `bundle install` to install the required gems.
 
-The `serve` command will deploy a local "test" server that updates as you save files--super 
-helpful for building!
+The `serve` command will deploy a local "test" server that updates as you
+save files--super helpful for building!
+
+To build the site for upload to a domain server, use `bundle exec jekyll build`.
+Then, copy the entire contents of the `_site` folder to the website.
 
 ## About the Layout
 The landing page is in the base directory and labeled `index.md`.
 Additional pages are stored as MD or HTML files in `_pages`.
 Each page is marked with a header in the YAML format. The pages themselves
-can be a mix of Liquid, Markdown, and HTML. Really, whatever makes the page look right!
+can be a mix of Liquid, Markdown, and HTML. Really, whatever makes the page
+look right!
 
 ## Deployment
 From the main folder (with `index.md`), build the site through `jekyll build`.
 Copy everything from the `_site` directory into the webserver folder.
-You will need to delete any current files from that, because, annoyingly, the files don't get overwritten. 
-Or if there is a way to overwrite them, I didn't spend enough time learning how to do that.
+You will need to delete any current files from that, because, annoyingly, the
+files don't get overwritten.
+Or if there is a way to overwrite them, I didn't spend enough time learning how
+to do that.
 Check that it looks right!
-Note: There may be a way to use GitHub to push commits to the page, depending on the domain provider.
+Note: There may be a way to use GitHub to push commits to the page, depending
+on the domain provider.
 
-The [Jekyll website](https://jekyllrb.com/docs/deployment/) has more information about deployment.
+The [Jekyll website](https://jekyllrb.com/docs/deployment/) has more
+information about deployment.
