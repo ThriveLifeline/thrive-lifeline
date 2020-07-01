@@ -62,6 +62,9 @@ gender:
 - Resource: <a href="https://www.genderspectrum.org/resources/parenting-and-family-2/" target="_blank">Gender Spectrum - Parents and Families</a>
   Resource Description: "A comprehensive collection of research, resources, and stories to help any parent, family member, or guardian learn more about gender diversity."
 
+- Resource: <a href="https://www.transstudent.org/gender" target="_blank">The Gender Unicorn</a>
+  Resource Description: "The gender unicorn is a graphic that visually distinguishes the following terms: gender identity, gender expression, sex assigned at birth, physical attraction, and emotional attraction"
+
 - Resource: <a href="http://neutrois.com/" target="_blank">Neutrois</a>
   Resource Description: Information about non-binary neutrois gender identities
 
@@ -76,9 +79,6 @@ gender:
 
 - Resource: <a href="https://www.amazon.com/Reflective-Workbook-Partners-Transgender-People/dp/1785927728" target="_blank">Reflective Workbook</a>
   Resource Description: Workbook for partners of trans folx
-
-- Resource: <a href="https://www.transstudent.org/gender" target="_blank">The Gender Unicorn</a>
-  Resource Description: "The gender unicorn is a graphic that visually distinguishes the following terms: gender identity, gender expression, sex assigned at birth, physical attraction, and emotional attraction"
 
 - Resource: <a href="https://www.translifeline.org/" target="_blank">Trans Lifeline</a>
   Resource Description: "A 24/7 hotline available in the U.S. and Canada staffed by transgender people for transgender people. Trans Lifeline is primarily for transgender people in a crisis, from struggling with gender identity to thoughts of self-harm."
@@ -96,33 +96,37 @@ gender:
   Resource Description: A crowdfunded organization providing cash relief to trans and gendernonconforming individuals for help with medical costs.
 
 legal:
+- Resource: <a href="https://www.hrc.org/state-maps" target="_blank">HRC State maps of laws and policies</a>
+  Resource Description: All LGBTQIA+ laws / policies broken down by state
+
 - Resource: <a href="https://www.lambdalegal.org" target="_blank">Lambda Legal</a>
   Resource Description: Provides information about legal rights for LGBTQIA+ people and their families on a national and state-by-state basis.
 
 - Resource: <a href="https://www.lambdalegal.org/know-your-rights/article/youth-ferpa-faq" target="_blank">LL - Updating and Amending School Records</a>
   Resource Description: "An FAQ on how FERPA requires schools to keep accurate records, enabling transgender students to update their information after a legal name/gender marker change, even after graduated"
 
+
 - Resource: <a href="https://srlp.org/" target="_blank">Sylvia Rivera Law Project</a>
   Resource Description: "Legal-aid organization serving low-income or people of color that are transgender, intersex, or gender non-conforming"
-
-- Resource: <a href="https://transgenderlegal.org/work_show.php?id=7" target="_blank">Transgender Legal - Name Change Project</a>
-  Resource Description: "TLDEF's Name Change Project provides pro bono legal name change services to low-income transgender, gender non-conforming, and non-binary people through partnerships with some of the nation’s most prestigious law firms and corporate law departments."
 
 - Resource: <a href="https://transequality.org/know-your-rights" target="_blank">Trans Equality - Know Your Rights</a>
   Resource Description: "The NTEC's topic-based legal information, including for employment, health care, housing, and immigration"
 
-- Resource: <a href="https://www.hrc.org/state-maps" target="_blank">HRC State maps of laws and policies</a>
-  Resource Description: All LGBTQIA+ laws / policies broken down by state
+- Resource: <a href="https://transgenderlegal.org/work_show.php?id=7" target="_blank">Transgender Legal - Name Change Project</a>
+  Resource Description: "TLDEF's Name Change Project provides pro bono legal name change services to low-income transgender, gender non-conforming, and non-binary people through partnerships with some of the nation’s most prestigious law firms and corporate law departments."
 
 edu:
-- Resource: <a href="https://asexuality.org/" target="_blank">Asexual Visibility and Education Network</a>
-  Resource Description: "Resources on asexuality, including FAQs for family and friends."
+- Resource: <a href="https://www.keshetonline.org/" target="_blank">Keshet</a>
+  Resource Description: Organization for LGBTQ+ equality in Jewish life
+
+- Resource: <a href="https://community.qchristian.org" target="_blank">QChristian</a>
+  Resource Description: Online forum for queer people of Christian faiths
 
 - Resource: <a href="https://www.thetrevorproject.org/trvr_support_center/lgbtq-religion/" target="_blank">Trevor LGBTQ + Religion (Faith)</a>
   Resource Description: "Some commonly asked questions from queer believers about faith and LGBTQ+ identities, plus a few resource links"
 
-- Resource: <a href="https://community.qchristian.org" target="_blank">QChristian</a>
-  Resource Description: Online forum for queer people of Christian faiths
+- Resource: <a href="https://asexuality.org/" target="_blank">Asexual Visibility and Education Network</a>
+  Resource Description: "Resources on asexuality, including FAQs for family and friends."
 
 - Resource: <a href="https://www.thetrevorproject.org/wp-content/uploads/2019/10/Coming-Out-Handbook.pdf" target="_blank">Coming Out Handbook</a>
   Resource Description: Book about exploring identity and think through how to share their identities with others
@@ -130,17 +134,14 @@ edu:
 - Resource: <a href="https://www.genderspectrum.org/resources/parenting-and-family-2/" target="_blank">Gender Spectrum</a>
   Resource Description: "A comprehensive collection of research, resources, and stories to help any parent, family member, or guardian learn more about gender diversity."
 
-- Resource: <a href="https://www.keshetonline.org/" target="_blank">Keshet</a>
-  Resource Description: Organization for LGBTQ+ equality in Jewish life
-
-- Resource: <a href="https://pflag.org/sites/default/files/Our%20Trans%20Loved%20Ones.pdf" target="_blank">Our Trans Loved Ones</a>
-  Resource Description: "A Q&A-style book about transgender and gender expansive people for parents, families, and friends"
+- Resource: <a href="https://www.transstudent.org/gender" target="_blank">The Gender Unicorn</a>
+  Resource Description: "The gender unicorn is a graphic that visually distinguishes the following terms: gender identity, gender expression, sex assigned at birth, physical attraction, and emotional attraction"
 
 - Resource: <a href="https://ostem.blob.core.windows.net/webfiles/Resources/ostem_pronounguide_legal.pdf" target="_blank">oSTEM - Pronouns and Why They Matter</a>
   Resource Description: This guide is designed to be shared with those who may not be familiar with pronouns and the different pronouns that people might use.
 
-- Resource: <a href="https://www.transstudent.org/gender" target="_blank">The Gender Unicorn</a>
-  Resource Description: "The gender unicorn is a graphic that visually distinguishes the following terms: gender identity, gender expression, sex assigned at birth, physical attraction, and emotional attraction"
+- Resource: <a href="https://pflag.org/sites/default/files/Our%20Trans%20Loved%20Ones.pdf" target="_blank">Our Trans Loved Ones</a>
+  Resource Description: "A Q&A-style book about transgender and gender expansive people for parents, families, and friends"
 
 - Resource: <a href="https://www.thetrevorproject.org/resources/trevor-support-center/a-guide-to-being-an-ally-to-transgender-and-nonbinary-youth/" target="_blank">Trevor - Guide to Being an Ally for T/Enby Youth</a>
   Resource Description: A guide for supporting trans and non-binary youth.
@@ -149,6 +150,9 @@ edu:
   Resource Description: A free, online course that covers oppression, facts about LGBTQ youth homelessness, gender pronouns, unique experiences of transgender youth, and creating inclusive environments.
 
 health:
+- Resource: <a href="https://www.reproductiveaccess.org/wp-content/uploads/2018/06/bc-across-gender-spectrum.pdf" target="_blank">Birth Control Across the Gender Spectrum</a>
+  Resource Description: A PDF guide comparing and contrasting different birth control methods using gender-inclusive language
+
 - Resource: <a href="https://www.ftmsurgery.net/" target="_blank">FTM Surgery Guide (Trans)</a>
   Resource Description: Directory of surgeons and describes differences between surgical procedures for trans masculine folks
 
@@ -176,17 +180,14 @@ health:
 - Resource: <a href="https://www.topsurgery.net/" target="_blank">Top Surgery Guide (Trans)</a>
   Resource Description: Directory of surgeons and describes differences between surgical procedures for trans masculine folks
 
+- Resource: <a href="https://fenwayhealth.org/wp-content/uploads/MG-6_TransHealth_InjectionGuide.pdf" target="_blank">Transgender Health Injection Guide (Trans)</a>
+  Resource Description: A PDF booklet containing text and image-based descriptions of how to use injectable medication
+
 - Resource: <a href="https://prevention.ucsf.edu/transhealth" target="_blank">UCSF Center of Excellence for Transgender Health (Trans)</a>
   Resource Description: "Educational resources, best practices, and guidelines for transgender medicine"
 
 - Resource: <a href="https://www.wpath.org/" target="_blank">WPATH (Trans)</a>
   Resource Description: World Professional Association for Transgender Health
-
-- Resource: <a href="https://www.reproductiveaccess.org/wp-content/uploads/2018/06/bc-across-gender-spectrum.pdf" target="_blank">Birth Control Across the Gender Spectrum</a>
-  Resource Description: A PDF guide comparing and contrasting different birth control methods using gender-inclusive language
-
-- Resource: <a href="https://fenwayhealth.org/wp-content/uploads/MG-6_TransHealth_InjectionGuide.pdf" target="_blank">Transgender Health Injection Guide (Trans)</a>
-  Resource Description: A PDF booklet containing text and image-based descriptions of how to use injectable medication
 
 
 # - Resource: <a href="" target="_blank">Test</a>
