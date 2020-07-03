@@ -29,7 +29,6 @@ THRIVE Lifeline offers 24/7 judgement-free, confidential text messaging to indiv
 
 # Together, we THRIVE
 
-
 <br/>
 <br/>
 

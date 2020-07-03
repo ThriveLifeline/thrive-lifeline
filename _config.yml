@@ -1,6 +1,9 @@
 title: THRIVE Lifeline Homepage
 description: The homepage for THRIVE Lifeline a crisis text line for marginalized individuals in STEM
 
+#analytics
+google_analytics_code: UA-175574779-1
+
 #baseurl: /
 color-scheme: "#8f73aa" # the scheme can be any HEX code like "#00aa55"
 
