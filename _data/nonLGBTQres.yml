@@ -63,6 +63,9 @@ mental:
 - Resource: <a href="https://my3app.org/" target="_blank">My3 (app for suicide safety planning)</a>
   Resource Description: "MY3 is for individuals who may be having thoughts of suicide, or who have a history of suicidal behavior. It is designed to help these individuals stay safe during when they are experiencing thoughts of suicide."
 
+- Resource: <a href="https://my.life/" target="_blank">MyLife app (guided meditation)</a>
+  Resource Description: "Check in with how you’re feeling, and try short activities tuned to your emotions."
+
 - Resource: <a href="http://www.selfinjury.bctr.cornell.edu/perch/resources/distraction-techniques-pm-2.pdf" target="_blank">Self-harm Distraction Techniques</a>
   Resource Description: A list of potential coping/distraction techniques separated out by the motivation behind self-harm
 
@@ -72,24 +75,24 @@ mental:
 - Resource: <a href="https://www.smartrecovery.org/" target="_blank">SMART Recovery</a>
   Resource Description: Self-help program for addiction recovery
 
-- Resource: <a href="https://my.life/" target="_blank">MyLife app (guided meditation)</a>
-  Resource Description: "Check in with how you’re feeling, and try short activities tuned to your emotions."
-
 - Resource: <a href="https://woebot.io" target="_blank">Woebot</a>
   Resource Description: Free app (iOS/Android) for conversations and cognitive behavioral therapy (CBT).
 
 coronavirus:
-- Resource: <a href="https://blacktrans.org/coronavirus-grant/" target="_blank">Black Trans COVID-19 Community Response Grant</a>
-  Resource Description: Micro grants for trans people of color
-
 - Resource: <a href="https://blacktrans.org/services/care-package/" target="_blank">Black Trans Free COVID-19 Care Packages</a>
   Resource Description: Care packages with personal protective equipment for trans people of color
+
+- Resource: <a href="https://blacktrans.org/coronavirus-grant/" target="_blank">Black Trans COVID-19 Community Response Grant</a>
+  Resource Description: Micro grants for trans people of color
 
 - Resource: <a href="https://www.cdc.gov/" target="_blank">Centers for Disease Control</a>
   Resource Description: Publishes the guidelines people should adhere to and maintains up-to-date information about current health threats.
 
 - Resource: <a href="https://c19check.com/start" target="_blank">Coronavirus Checker</a>
   Resource Description: Screening tool for COVID-19 symptoms based on CDC guidelines and gives recommendations for care.
+
+- Resource: <a href="http://www.distanttogether.org/" target="_blank">Distant Together</a>
+  Resource Description: Mental health resources during COVID-19
 
 - Resource: <a href="https://www.usa.gov/help-with-bills" target="_blank">Help with Bills</a>
   Resource Description: Information about government programs for temporary assistance
@@ -106,15 +109,12 @@ coronavirus:
 - Resource: <a href="https://www.who.int/" target="_blank">World Health Organization</a>
   Resource Description: Addresses health topics to inform individuals.
 
-- Resource: <a href="http://www.distanttogether.org/" target="_blank">Distant Together</a>
-  Resource Description: Mental health resources during COVID-19
-
 sex-health:
-- Resource: <a href="https://saa-recovery.org/" target="_blank">Sex Addicts Anonymous</a>
-  Resource Description: 12 step program for overcoming sex addiction -- steps involve G-d
-
 - Resource: <a href="https://www.pornaddictsanonymous.org/" target="_blank">Porn Addicts Anonymous</a>
   Resource Description: 12 step program for overcoming porn addition -- steps involve G-d
+
+- Resource: <a href="https://saa-recovery.org/" target="_blank">Sex Addicts Anonymous</a>
+  Resource Description: 12 step program for overcoming sex addiction -- steps involve G-d
 
 - Resource: <a href="https://sexetc.org/" target="_blank">Sex, etc. (sex ed)</a>
   Resource Description: "Sex education by teens, for teens"
