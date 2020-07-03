@@ -4,6 +4,9 @@ description: The homepage for THRIVE Lifeline a crisis text line for marginalize
 #baseurl: /
 color-scheme: "#68368D" # the scheme can be any HEX code like "#00aa55"
 
+#Build settings
+remote_theme:Phlow/feeling-responsive
+
 sass:
   sass_dir: /assets/css/_sass
   style: compressed
