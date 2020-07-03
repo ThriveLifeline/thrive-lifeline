@@ -35,3 +35,5 @@ THRIVE Lifeline offers 24/7 judgement-free, confidential text messaging to indiv
 
 <!-- The below line will pull up contact info -->
 {% include sidebar.html %}
+
+#### Your contributions help THRIVE Lifeline to continue providing life-saving and life-affirming crisis hotline support to marginalized individuals in STEM. Please consider <a href="https://www.gofundme.com/f/thrive-lifeline">**giving today**</a>.
