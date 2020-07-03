@@ -1,11 +1,11 @@
 general:
-- Resource: <a href="http://211.org/" target="_blank">211 (identify local resources)</a>
+- Resource: <a href="https://www.211.org/" target="_blank">211 (identify local resources)</a>
   Resource Description: "A comprehensive source of locally curated social services information in the US and Canada. Includes helping find assistance with food, housing, disaster relief, employment, education, veteran services, healthcare, etc."
 
 - Resource: <a href="https://www.auntbertha.com/" target="_blank">Aunt Bertha (free/reduced cost resources)</a>
   Resource Description: "Search for free or reduced cost services like medical care, food, job training, and more"
 
-- Resource: <a href="http://www.mentalhealthamerica.net/im-looking-mental-health-help-someone-else" target="_blank">Finding Help for Someone Else</a>
+- Resource: <a href="https://www.mentalhealthamerica.net/im-looking-mental-health-help-someone-else" target="_blank">Finding Help for Someone Else</a>
   Resource Description: Resource guide for people who are looking for mental health help for someone else
 
 - Resource: <a href="https://www.goodrx.com/" target="_blank">GoodRx</a>
@@ -72,15 +72,18 @@ mental:
 - Resource: <a href="https://www.smartrecovery.org/" target="_blank">SMART Recovery</a>
   Resource Description: Self-help program for addiction recovery
 
-- Resource: <a href="Test" target="_blank">Stop, Breathe, Think app (guided meditation)</a>
+- Resource: <a href="https://my.life/" target="_blank">MyLife app (guided meditation)</a>
   Resource Description: "Check in with how you’re feeling, and try short activities tuned to your emotions."
 
 - Resource: <a href="https://woebot.io" target="_blank">Woebot</a>
   Resource Description: Free app (iOS/Android) for conversations and cognitive behavioral therapy (CBT).
 
 coronavirus:
-- Resource: <a href="https://blacktrans.org/covid19-grant-application/?fbclid=IwAR1GcXyhuadssXZ18xRV_uxZnzifclX0dvGgfxywq8u_vZOn7osZJyPcKsk" target="_blank">Black Trans COVID-19 Community Response Grant</a>
+- Resource: <a href="https://blacktrans.org/coronavirus-grant/" target="_blank">Black Trans COVID-19 Community Response Grant</a>
   Resource Description: Micro grants for trans people of color
+
+- Resource: <a href="https://blacktrans.org/services/care-package/" target="_blank">Black Trans Free COVID-19 Care Packages</a>
+  Resource Description: Care packages with personal protective equipment for trans people of color
 
 - Resource: <a href="https://www.cdc.gov/" target="_blank">Centers for Disease Control</a>
   Resource Description: Publishes the guidelines people should adhere to and maintains up-to-date information about current health threats.
@@ -97,11 +100,14 @@ coronavirus:
 - Resource: <a href="https://www.mrelief.com/" target="_blank">mRelief</a>
   Resource Description: A simplified process for determining food stamp qualification and registration
 
-- Resource: <a href="https://pointofpride.org/covid-19-emergency-fund/?fbclid=IwAR3uawbtt8umoo9Mw_bXX4LSjgDYKZ2sFAsjeSbdRIc0wbbKn6JaRP8GW4A" target="_blank">Point of Pride</a>
+- Resource: <a href="https://pointofpride.org/covid-19-emergency-fund/" target="_blank">Point of Pride</a>
   Resource Description: Funding for trans people to cover trans community needs
 
 - Resource: <a href="https://www.who.int/" target="_blank">World Health Organization</a>
   Resource Description: Addresses health topics to inform individuals.
+
+- Resource: <a href="http://www.distanttogether.org/" target="_blank">Distant Together</a>
+  Resource Description: Mental health resources during COVID-19
 
 sex-health:
 - Resource: <a href="https://saa-recovery.org/" target="_blank">Sex Addicts Anonymous</a>
@@ -112,3 +118,6 @@ sex-health:
 
 - Resource: <a href="https://sexetc.org/" target="_blank">Sex, etc. (sex ed)</a>
   Resource Description: "Sex education by teens, for teens"
+
+# - Resource: <a href="" target="_blank">Test</a>
+#   Resource Description: Test

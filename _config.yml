@@ -2,7 +2,10 @@ title: THRIVE Lifeline Homepage
 description: The homepage for THRIVE Lifeline a crisis text line for marginalized individuals in STEM
 
 #baseurl: /
-color-scheme: "#68368D" # the scheme can be any HEX code like "#00aa55"
+color-scheme: "#8f73aa" # the scheme can be any HEX code like "#00aa55"
+
+#Build settings
+remote_theme: Phlow/feeling-responsive
 
 sass:
   sass_dir: /assets/css/_sass
@@ -24,20 +27,20 @@ plugins:
 
 ## User-Defined Definitions to make less HTML changes
 # For "HOME" return link and copyright
-org_name: T.H.R.I.V.E. Inc.
+org_name: Need Help? Text Us Anytime +1(313)662-8209  #T.H.R.I.V.E. Inc.
 
 # For header on home page
 group_name: THRIVE Lifeline
 
-group_description: "<b>T</b>hriving <b>H</b>arnesses <b>R</b>espect,
-<b>I</b>nclusion, and <b>V</b>ested <b>E</b>mpathy: a crisis line staffed by
-marginalized individuals in STEM."
+group_description: "A crisis line staffed by
+marginalized individuals in STEM."   #<b>T</b>hriving <b>H</b>arnesses <b>R</b>espect,
+#<b>I</b>nclusion, and <b>V</b>ested <b>E</b>mpathy: 
 
 
 # Copyright year
 cr_year: 2020
 
-crisis_phone: +1 (313) 662-8209
+crisis_phone: <a href="tel:+13136628209">+1(313)662-8209</a>
 contact_email: info@thrivelifeline.org
 
 # Social Media Accounts (NO AT SYMBOL)
