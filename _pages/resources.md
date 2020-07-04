@@ -106,6 +106,25 @@ permalink: /resources.html
   {% endfor %}
 </table>
 
+### Religious
+
+{:class="table table-striped table-bordered"}
+<table>
+  {% for row in site.data.LGBTQres.religion %}
+    {% if forloop.first %}
+    <tr>
+      {% for pair in row %}
+        <th>{{ pair[0] }}</th>
+      {% endfor %}
+    </tr>
+    {% endif %}
+
+    {% tablerow pair in row %}
+      {{ pair[1] }}
+    {% endtablerow %}
+  {% endfor %}
+</table>
+
 ### Health
 
 {:class="table table-striped table-bordered"}
