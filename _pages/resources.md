@@ -7,7 +7,7 @@ permalink: /resources.html
 * TOC
 {:toc}
 
-## LGBTQIA+ Specific Resources
+## LGBTQIA+-Specific Resources
 
 ### General
 
@@ -144,7 +144,7 @@ permalink: /resources.html
   {% endfor %}
 </table>
 
-## Non-LGBTQIA+ Specific Resources
+## Non-LGBTQIA+-Specific Resources
 
 ### General
 
@@ -227,6 +227,48 @@ permalink: /resources.html
 {:class="table table-striped table-bordered"}
 <table>
   {% for row in site.data.nonLGBTQres.sex-health %}
+    {% if forloop.first %}
+    <tr>
+      {% for pair in row %}
+        <th>{{ pair[0] }}</th>
+      {% endfor %}
+    </tr>
+    {% endif %}
+
+    {% tablerow pair in row %}
+      {{ pair[1] }}
+    {% endtablerow %}
+  {% endfor %}
+</table>
+
+## STEM-Specific Resources
+
+### Mentorship and Research
+
+<!-- {:class="table table-bordered"} -->
+
+{:class="table table-striped table-bordered"}
+<table>
+  {% for row in site.data.STEMres.mentoring %}
+    {% if forloop.first %}
+    <tr>
+      {% for pair in row %}
+        <th>{{ pair[0] }}</th>
+      {% endfor %}
+    </tr>
+    {% endif %}
+
+    {% tablerow pair in row %}
+      {{ pair[1] }}
+    {% endtablerow %}
+  {% endfor %}
+</table>
+
+### Funding
+
+{:class="table table-striped table-bordered"}
+<table>
+  {% for row in site.data.STEMres.funding %}
     {% if forloop.first %}
     <tr>
       {% for pair in row %}
