@@ -116,15 +116,6 @@ legal:
   Resource Description: "TLDEF's Name Change Project provides pro bono legal name change services to low-income transgender, gender non-conforming, and non-binary people through partnerships with some of the nation’s most prestigious law firms and corporate law departments."
 
 edu:
-- Resource: <a href="https://www.keshetonline.org/" target="_blank">Keshet</a>
-  Resource Description: Organization for LGBTQ+ equality in Jewish life
-
-- Resource: <a href="https://community.qchristian.org" target="_blank">QChristian</a>
-  Resource Description: Online forum for queer people of Christian faiths
-
-- Resource: <a href="https://www.thetrevorproject.org/trvr_support_center/lgbtq-religion/" target="_blank">Trevor LGBTQ + Religion (Faith)</a>
-  Resource Description: "Some commonly asked questions from queer believers about faith and LGBTQ+ identities, plus a few resource links"
-
 - Resource: <a href="https://asexuality.org/" target="_blank">Asexual Visibility and Education Network</a>
   Resource Description: "Resources on asexuality, including FAQs for family and friends."
 
@@ -137,6 +128,12 @@ edu:
 - Resource: <a href="https://www.transstudent.org/gender" target="_blank">The Gender Unicorn</a>
   Resource Description: "The gender unicorn is a graphic that visually distinguishes the following terms: gender identity, gender expression, sex assigned at birth, physical attraction, and emotional attraction"
 
+- Resource: <a href="https://guidetoallyship.com/" target="_blank">Guide to Allyship</a>
+  Resource Description: An open-source guide to being an ally to any community
+
+- Resource: <a href="https://ilga.org/maps-sexual-orientation-laws" target="_blank">ILGA Sexual Orientation Travel Maps</a>
+  Resource Description: "World maps that highlight different legal restrictions for LGBTQ+ people."
+
 - Resource: <a href="https://ostem.blob.core.windows.net/webfiles/Resources/ostem_pronounguide_legal.pdf" target="_blank">oSTEM - Pronouns and Why They Matter</a>
   Resource Description: This guide is designed to be shared with those who may not be familiar with pronouns and the different pronouns that people might use.
 
@@ -148,6 +145,22 @@ edu:
 
 - Resource: <a href="https://learn.truecolorsunited.org/courses/lgbt-youth-homelessness-101/" target="_blank">True Colors LGBTQ Youth Homelessness 101 Course</a>
   Resource Description: A free, online course that covers oppression, facts about LGBTQ youth homelessness, gender pronouns, unique experiences of transgender youth, and creating inclusive environments.
+
+religion:
+- Resource: <a href="https://www.believeoutloud.com/" target="_blank">Believe Out Loud</a>
+  Resource Description: A community that affirms that ALL people are worthy of G-d’s love, with resources for finding affirming faith communties.
+
+- Resource: <a href="https://www.keshetonline.org/" target="_blank">Keshet</a>
+  Resource Description: Organization for LGBTQ+ equality in Jewish life
+
+- Resource: <a href="http://www.muslimalliance.org/" target="_blank">Muslim Alliance for Sexual and Gender Diversity</a>
+  Resource Description: A working group to support, empower and connect LGBTQ Muslims
+
+- Resource: <a href="https://community.qchristian.org" target="_blank">QChristian</a>
+  Resource Description: Online forum for queer people of Christian faiths
+
+- Resource: <a href="https://www.thetrevorproject.org/trvr_support_center/lgbtq-religion/" target="_blank">Trevor LGBTQ + Religion (Faith)</a>
+  Resource Description: "Some commonly asked questions from queer believers about faith and LGBTQ+ identities, plus a few resource links"
 
 health:
 - Resource: <a href="https://www.reproductiveaccess.org/wp-content/uploads/2018/06/bc-across-gender-spectrum.pdf" target="_blank">Birth Control Across the Gender Spectrum</a>
