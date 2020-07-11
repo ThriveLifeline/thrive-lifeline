@@ -4,6 +4,8 @@ description: The homepage for THRIVE Lifeline a crisis text line for marginalize
 #analytics
 google_analytics_code: UA-175574779-1
 
+logo: images/THRIVE_logo.jpeg
+
 #baseurl: /
 color-scheme: "#65427D" # the scheme can be any HEX code like "#00aa55"
 
