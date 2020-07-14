@@ -175,8 +175,20 @@ health:
 - Resource: <a href="https://wwwn.cdc.gov/hivrisk/" target="_blank">HIV Risk Reduction Tool</a>
   Resource Description: Information on behaviors that increase or decrease HIV transmission risk
 
+- Resource: <a href="https://www.inclusivetherapists.com/" target="_blank">Inclusive Therapists</a>
+  Resource Description: "Online directory of professionals that affirm all intersectional identities and strive to be anti-discrimination, anti-oppression, anti-stigma, anti-racist & anti-ableist."
+
 - Resource: <a href="https://www.mtfsurgery.net/" target="_blank">MTF Surgery Guide (Trans)</a>
   Resource Description: Directory of surgeons and describes differences between surgical procedures for trans feminine folks
+
+- Resource: <a href="https://mytranshealth.com/" target="_blank">MyTransHealth (Trans)</a>
+  Resource Description: Online directory of trans-affirming healthcare providers.
+
+- Resource: <a href="https://www.nqttcn.com/" target="_blank">National Queer and Trans Therapists of Color Network</a>
+  Resource Description: Online directory of queer and trans therapists of color that provide mental health services for other queer and trans people of color.
+
+# - Resource: <a href="" target="_blank">Test</a>
+#   Resource Description: Test
 
 - Resource: <a href="https://www.cdc.gov/hiv/pdf/library/factsheets/cdc-hiv-pep101.pdf" target="_blank">PEP 101</a>
   Resource Description: English and Spanish CDC fact sheet on post-exposure prophylaxis (PEP) [start within 3 days after HIV exposure]
@@ -196,12 +208,14 @@ health:
 - Resource: <a href="https://fenwayhealth.org/wp-content/uploads/MG-6_TransHealth_InjectionGuide.pdf" target="_blank">Transgender Health Injection Guide (Trans)</a>
   Resource Description: A PDF booklet containing text and image-based descriptions of how to use injectable medication
 
+- Resource: <a href="https://trueuclinic.com/" target="_blank">True U Clinic (Trans)</a>
+  Resource Description: Online transgender and non-binary informed consent clinic serving patients in AZ, CO, IA, ID, ME, MD, MT, NM, NV, OR, and WA. Costs are clearly listed on their website.
+
 - Resource: <a href="https://prevention.ucsf.edu/transhealth" target="_blank">UCSF Center of Excellence for Transgender Health (Trans)</a>
   Resource Description: "Educational resources, best practices, and guidelines for transgender medicine"
 
 - Resource: <a href="https://www.wpath.org/" target="_blank">WPATH (Trans)</a>
   Resource Description: World Professional Association for Transgender Health
-
 
 # - Resource: <a href="" target="_blank">Test</a>
 #   Resource Description: Test

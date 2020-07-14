@@ -17,7 +17,20 @@ general:
 - Resource: <a href="https://www.plannedparenthood.org/" target="_blank">Planned Parenthood</a>
   Resource Description: Reproductive healthcare. Many offer HRT for trans people.
 
+- Resource: <a href="https://www.amnestyusa.org/pdfs/SafeyDuringProtest_F.pdf" target="_blank">Safety During Protests (Amnesty USA)</a>
+  Resource Description: An infographic about safely planning for and participating in protests.
+
+- Resource: <a href="https://sexetc.org/" target="_blank">Sex, etc. (sex ed)</a>
+  Resource Description: Sex education by teens, for teens
+
+- Resource: <a href="https://unitedwedream.org/" target="_blank">United We Dream</a>
+  Resource Description: Organization with tools and resource guides for people covered by DACA (DREAMers)."
+
 hotlines:
+- Resource: <a href="https://www.callblackline.com/frequently-asked-questions" target="_blank">BlackLine</a>
+  Hotline: 1.800.604.5841
+  Resource Description: A 24/7 hotline dedicated to people in crisis or who have an interaction with law enforcement or vigilantes.
+
 - Resource: <a href="https://www.crisistextline.org" target="_blank">Crisis Text Line</a>
   Hotline: Text LGBTQ to 741-741
   Resource Description: "Crisis Text Line is a global not-for-profit organization providing free confidential crisis intervention via SMS message. The organization's services are available 24 hours a day, every day, throughout the US, UK, and Canada"
@@ -55,7 +68,10 @@ mental:
   Resource Description: A list of 99 different coping skills
 
 - Resource: <a href="https://d3mh72llnfrpe6.cloudfront.net/wp-content/uploads/2018/02/09210135/asw-english.pdf" target="_blank">Anti-depressant skills workbook</a>
-  Resource Description: This book teaches you about depression and about antidepressant skills you can use to manage depression
+  Resource Description: This book teaches you about depression and about antidepressant skills you can use to manage depression.
+
+- Resource: <a href="https://www.beam.community/" target="_blank">Black Emotional and Mental Health Collective</a>
+  Resource Description: Resources, tool kits, and training dedicated to the emotional and mental health and healing of Black communities.
 
 - Resource: <a href="https://calmharm.co.uk/" target="_blank">Calm Harm app (self-harm coping)</a>
   Resource Description: Calm Harm provides tasks to help you resist or manage the urge to self-harm. Calm Harm is an app developed for teenage mental health using the basic principles of an evidence-based therapy called Dialectical Behavioral Therapy (DBT).
@@ -65,6 +81,12 @@ mental:
 
 - Resource: <a href="https://my.life/" target="_blank">MyLife app (guided meditation)</a>
   Resource Description: "Check in with how you’re feeling, and try short activities tuned to your emotions."
+
+- Resource: <a href="https://www.nowmattersnow.org/about" target="_blank">Now Matters Now (DBT)</a>
+  Resource Description: Skills and support for coping with suicidal thoughts based on Dialectical Behavior Therapy.
+
+- Resource: <a href="https://www.opencounseling.com/" target="_blank">Open Counseling</a>
+  Resource Description: Online directory for finding local, affordable counseling.
 
 - Resource: <a href="http://www.selfinjury.bctr.cornell.edu/perch/resources/distraction-techniques-pm-2.pdf" target="_blank">Self-harm Distraction Techniques</a>
   Resource Description: A list of potential coping/distraction techniques separated out by the motivation behind self-harm
