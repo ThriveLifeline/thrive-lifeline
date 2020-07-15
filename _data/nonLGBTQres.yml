@@ -27,6 +27,10 @@ general:
   Resource Description: Organization with tools and resource guides for people covered by DACA (DREAMers)."
 
 hotlines:
+- Resource: <a href="https://avp.org/get-help/call-our-hotline/" target="_blank">Anti-Violence Project (AVP)</a>
+  Hotline: 1.212.714.1141
+  Resource Description: A 24/7 hotline for those who have experienced or witnessed violence personally, or are worried about someone else who has. Also offers support in Spanish.
+
 - Resource: <a href="https://www.callblackline.com/frequently-asked-questions" target="_blank">BlackLine</a>
   Hotline: 1.800.604.5841
   Resource Description: A 24/7 hotline dedicated to people in crisis or who have an interaction with law enforcement or vigilantes.
