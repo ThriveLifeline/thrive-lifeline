@@ -38,6 +38,11 @@ hotlines:
   Hotline: "Ages 25+: 1.617.267.9001 or Ages 25 and under: 1.617.267.2535"
   Resource Description: "Not 24/7! 25+ M-Sa 6pm-11pm ET; <25 M-Sa 5p-11pm. Fenway Health provides information, help, and referrals to LGBT callers. They also have a peer listening line."
 
+- Resource: <a href="http://www.npaihb.org/2slgbtq/" target="_blank">NPAIHB Text Line</a>
+  Hotline: "Northwest Portland Area Indian Health Board. Text LGBTQ2S to 97779 to receive resources via text message."
+  Resource Description: "Text to learn more about Two Spirit and LGBTQ+ Health"
+
+
 - Resource: <a href="http://glbtnationalhelpcenter.org" target="_blank">The LGBT National Help Center</a>
   Hotline: 1.888.843.4564
   Resource Description: "The LGBT National Help Center provides telephone, online chat, and email peer-support. They speak with callers of all ages about bullying, workplace issues, HIV/AIDS anxiety, coming out, relationships, safer sex, and more."
@@ -59,11 +64,17 @@ hotlines:
 #   Resource Description: Test
 
 gender:
+- Resource: <a href="https://www.facebook.com/pages/category/Charity-Organization/2-Spirited-People-of-the-1st-Nations-1841697149379183/" target="_blank">2 Spirited People of the 1st Nations</a>
+  Resource Description: "Online community group offering resources and virtual events."
+
 - Resource: <a href="https://www.genderspectrum.org/resources/parenting-and-family-2/" target="_blank">Gender Spectrum - Parents and Families</a>
   Resource Description: "A comprehensive collection of research, resources, and stories to help any parent, family member, or guardian learn more about gender diversity."
 
 - Resource: <a href="https://www.transstudent.org/gender" target="_blank">The Gender Unicorn</a>
   Resource Description: "The gender unicorn is a graphic that visually distinguishes the following terms: gender identity, gender expression, sex assigned at birth, physical attraction, and emotional attraction"
+
+- Resource: <a href="https://www.samhsa.gov/sites/default/files/nc-lgbtq2s-resources.pdf">LGBTQ2S Resources</a>
+  Resource Description: "Downloadable PDF that includes a directory submitted by Lori King (Project Director at Tribal Tech, LLC) and Margaret Springe (Deputy Project Manager, Tribal Tech, LLC)."
 
 - Resource: <a href="http://neutrois.com/" target="_blank">Neutrois</a>
   Resource Description: Information about non-binary neutrois gender identities
@@ -80,6 +91,12 @@ gender:
 - Resource: <a href="https://www.amazon.com/Reflective-Workbook-Partners-Transgender-People/dp/1785927728" target="_blank">Reflective Workbook</a>
   Resource Description: Workbook for partners of trans folx
 
+- Resource: <a href="https://https://www.translanguageprimer.org/">Trans Language Primer</a>
+  Resource Description: "A guide to the language of gender, sexuality, accessibility, and acceptance."
+
+- Resource: <a href="https://www.tgncmedfund.org/" target="_blank">TGNC Medical Relief Fund</a>
+  Resource Description: A crowdfunded organization providing cash relief to trans and gendernonconforming individuals for help with medical costs.
+
 - Resource: <a href="https://www.translifeline.org/" target="_blank">Trans Lifeline</a>
   Resource Description: "A 24/7 hotline available in the U.S. and Canada staffed by transgender people for transgender people. Trans Lifeline is primarily for transgender people in a crisis, from struggling with gender identity to thoughts of self-harm."
 
@@ -92,8 +109,13 @@ gender:
 - Resource: <a href="https://transgenderlegal.org/work_show.php?id=7" target="_blank">Transgender Legal - Name Change Project</a>
   Resource Description: "TLDEF's Name Change Project provides pro bono legal name change services to low-income transgender, gender non-conforming, and non-binary people through partnerships with some of the nation’s most prestigious law firms and corporate law departments."
 
-- Resource: <a href="https://www.tgncmedfund.org/" target="_blank">TGNC Medical Relief Fund</a>
-  Resource Description: A crowdfunded organization providing cash relief to trans and gendernonconforming individuals for help with medical costs.
+- Resource: <a href="https://twospiritjournal.com/wp-content/uploads/2016/07/Two-Spirit-Resource-Directory-May-2016.pdf">Two-Spirit Resource Directory</a>
+  Resource Description: "Downloadable PDF that includes a directory prepared by Harlan Pruden (Nehiyawe/First Nations Cree), Managing Editor of the Two-Spirit Journal."
+
+- Resource: <a href="https://lgbtqhealth.ca/projects/two-spiritedpodcasts.php">Two-Spirited Podcasts</a>
+  Resource Description: "Podcasts recorded by Margaret Robinson during a post-doctoral fellowship in Aboriginal Methodologies."
+
+
 
 legal:
 - Resource: <a href="https://www.hrc.org/state-maps" target="_blank">HRC State maps of laws and policies</a>
