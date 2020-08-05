@@ -69,8 +69,8 @@ If crisis response is not a good fit, we are additionally seeking:
 - **Contribute**: We are currently raising $60,000 to purchase and integrate a
 professional SMS platform that will allow us to increase our call volume while
 providing optimal service to our texters.
-We are additionally seeking funds to train 20 individuals new suicide
-interveners in the upcoming year.
+We are additionally seeking funds to train 20 new suicide interveners in the
+upcoming year.
    - [**GoFundMe**](http://tinyurl.com/thrive-support).
 <br/>
 - **Share**: If you or anyone that you know is in need of support, THRIVE
