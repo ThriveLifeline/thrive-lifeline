@@ -32,4 +32,4 @@ Ready to sign up? [**Apply Here**](https://form.jotform.com/201655418668059). We
 [**Questions? Contact us**](mailto:info@thrivelifeline.org)
 
 
-<iframe src="https://docs.google.com/viewer?url=https://thrivelifeline.org/images/Volunteer.pdf&embedded=true" style="width:600px; height:500px;" frameborder="0"></iframe>
+<iframe src="https://docs.google.com/viewer?url=https://thrivelifeline.org/images/Volunteer_Thrive.pdf&embedded=true" style="width:600px; height:500px;" frameborder="0"></iframe>
