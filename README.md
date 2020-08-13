@@ -48,3 +48,17 @@ on the domain provider.
 
 The [Jekyll website](https://jekyllrb.com/docs/deployment/) has more
 information about deployment.
+
+## Resource List
+The resource list is saved under `_data/thrive-resources.csv`. 
+The CSV should have UTF-8 formatting, but sometimes Excel gets angsty. 
+Just resave it if that's the case. It uses an octothorpe (`#`) for comments.
+
+Before the Jekyll build (AKA before making a commit) run `Rscript generate-resources.R`.
+This will build the data table that gets embedded into the resource page.
+It's super hacky, but this was how the data table could keep its formatting.
+
+The Rscript should have the following dependencies (there may be more...):
+- `rmarkdown`
+- `tidyverse`
+- `DT`
