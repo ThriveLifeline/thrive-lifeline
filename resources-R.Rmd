@@ -1,0 +1,34 @@
+---
+title: "Crisis Resources"
+layout: default
+permalink: /resources-R.html
+output:
+  html_document
+---
+
+```{r, include=FALSE}
+library(tidyverse)
+library(DT)
+```
+
+```{r, echo=FALSE, message=FALSE}
+## Load resource list
+## Note: If you encounter issues with characters, try resaving the
+## CSV as a UTF-8 CSV. Excel... does not like interpreting as UTF-8
+data <- read_csv("_data/thrive_resources.csv", comment = "#")
+
+## Change to factor-based data for "tagged" search
+data$Category <-as.factor(data$Category)
+data$Type <-as.factor(data$Type)
+
+#data %>%
+#  datatable(extensions = 'Buttons',
+#            options = list(dom = 'Blfrtip',
+#                           buttons = c('copy', 'csv', 'excel', 'pdf', 'print'),
+#                           lengthMenu = list(c(10,25,50,-1),
+#                                             c(10,25,50,"All"))))
+
+datatable(data, options = list(), rownames=FALSE, filter = "top", escape = FALSE,
+    )
+
+```
