@@ -28,7 +28,11 @@ data$Type <-as.factor(data$Type)
 #                           lengthMenu = list(c(10,25,50,-1),
 #                                             c(10,25,50,"All"))))
 
-datatable(data, options = list(), rownames=FALSE, filter = "top", escape = FALSE,
+datatable(data,
+    options = list(), 
+    rownames=FALSE,
+#    filter = "top",
+    escape = FALSE,
     )
 
 ```
