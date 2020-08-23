@@ -18,8 +18,8 @@ library(DT)
 data <- read_csv("_data/thrive_resources.csv", comment = "#")
 
 ## Change to factor-based data for "tagged" search
-data$Category <-as.factor(data$Category)
-data$Type <-as.factor(data$Type)
+# data$Category <-as.factor(data$Category)
+# data$Type <-as.factor(data$Type)
 
 #data %>%
 #  datatable(extensions = 'Buttons',
@@ -29,10 +29,22 @@ data$Type <-as.factor(data$Type)
 #                                             c(10,25,50,"All"))))
 
 datatable(data,
-    options = list(), 
+    options = list(),
     rownames=FALSE,
 #    filter = "top",
     escape = FALSE,
     )
+
+## The download butons don't save the HTML...
+#datatable(data,
+#    rownames=FALSE,
+##    filter = "top",
+#    escape = FALSE,
+#    extensions = 'Buttons',
+#            options = list(dom = 'Blfrtip',
+#                buttons = c('copy', 'csv', 'excel', 'pdf', 'print'),
+#                lengthMenu = list(c(10,25,50,-1),
+#                c(10,25,50,"All")))
+#    )
 
 ```
