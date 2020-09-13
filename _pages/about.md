@@ -23,8 +23,6 @@ personal crises, including being sent to unsupportive and/or dangerous home
 environments, greater health risks, job, food, and home insecurity, and the
 inability to access what may be their only safe community.
 
-![Animated image of Crisis Responders at a Desk]
-(https://github.com/ThriveLifeline/thrive-lifeline/tree/main/images/pp_2_desk.png)
 
 ## Who Are We? 
 THRIVE Lifeline is Trans-led and operated. We are a group of certified suicide interventionists 
