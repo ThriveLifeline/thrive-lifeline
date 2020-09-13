@@ -36,7 +36,6 @@ while accessing education. Many of us are individuals who have navigated accommo
 processes during our academic journeys as a result of neurodivergence, living with disabilities, 
 and/or facing trauma.
 
-<br/>
 ## Mission
 THRIVE Lifeline’s mission is to end stigma and close access gaps for underrepresented 
 individuals who seek educational and professional opportunities. Particularly, we 
