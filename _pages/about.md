@@ -12,28 +12,60 @@ THRIVE Lifeline is a grassroots response to COVID-19, organized by experienced
 crisis managers who personally understand the significance of displacement,
 isolation, and financial loss, especially for marginalized individuals in STEM.
 
-The events of 2020 caused large-scale collective and ongoing trauma, bringing
-to the public dialogue the need for self care and mental wellness.
+The summer of 2020 was particularly tumultuous for minority students due to 
+a variety of reasons including, but not limited to: racist acts against Asian-Americans; 
+police brutality, protests, and national discussions of systemic racism; removal 
+of healthcare protections for transgender people, and the devastating impact and 
+associated uncertainties of the COVID-19 pandemic.
 
 Amid a crisis of global scale, many marginalized individuals face greater
 personal crises, including being sent to unsupportive and/or dangerous home
 environments, greater health risks, job, food, and home insecurity, and the
 inability to access what may be their only safe community.
 
-Recognizing the particular vulnerabilities within our intersecting communities
-and the breadth of needs, we used our existing crisis team to open a
-small-scale crisis hotline.
-THRIVE Lifeline began as a grassroots crisis text line targeting marginalized
-people in STEM, or STEM-adjacent, and remains
-accessible to all who need it.
+## Who Are We? 
+THRIVE Lifeline is Trans-led and operated. We are a group of certified suicide interventionists 
+whose identities are marginalized, and who are students and early career professionals 
+trained across the breadth of STEMM fields. 
 
-Within three months, our team became convinced that we must scale up and
-sustain this crisis hotline resource and partner with other entities and
-individuals in STEM as we partner together to improve mental health access and
-support in STEM.
-In June 2020, we officially registered T.H.R.I.V.E., Inc., a nonprofit
-organization dedicated to the management of THRIVE Lifeline as well as to
-training, consultation, and event accessibility and crisis management services.
+We are made up of individuals with the following identities: LGBTQIA+ (95%), women and 
+nonbinary (75%), Persons of Color (70%), transgender (65%), living with disabilities (50%), 
+and immigrants (15%). Our backgrounds include familial rejection due to our identities, 
+homelessness, poverty, and working multiple jobs before being able to access and/or 
+while accessing education. Many of us are individuals who have navigated accommodations 
+processes during our academic journeys as a result of neurodivergence, living with disabilities, 
+and/or facing trauma.
+
+<br/>
+## Mission
+THRIVE Lifeline’s mission is to end stigma and close access gaps for underrepresented 
+individuals who seek educational and professional opportunities. Particularly, we 
+believe that equity and inclusion begins with person-centered and whole-human support, 
+including access to crisis intervention, validation, and resources. 
+
+We fulfill our mission by:
+- Providing texters with free 24/7 hotline support by trained, non-judgmental Crisis 
+Responders who share underrepresented identities and backgrounds.
+- Reducing suicide risk through literature-based deescalation practices and by connecting 
+texters with life-saving and life-affirming resources.
+- Using anonymized data to train leaders and advocate for representation in more welcoming 
+and inclusive educational and professional spaces. 
+
+## Vision
+We envision academic and professional spaces that actively and equitably include everyone, 
+removing stigma and minimizing underrepresentation.
+
+## Core Values
+- Accessibility: THRIVE Lifeline remains 100% free to texters. We believe that access to 
+life-affirming and life-saving resources is crucial.
+- Connection: Often, our texters are ‘the only one’ in their families, in their departments, 
+in their labs, in their classrooms. When a texter reaches out to THRIVE Lifeline, they are not alone.
+- Inclusion: Representation matters. Being recognized at the core of who you are is the center of 
+inclusion. Whoever you are, wherever you are from, THRIVE welcomes you. 
+- Integrity: We uphold the highest standards of communications, support, and confidentiality, 
+knowing that the heart of our work involves people at their most vulnerable times.
+
+
 <br/>
 <br/>
 
@@ -46,8 +78,8 @@ You can help by **volunteering, contributing**, and **sharing**.
 - **Volunteer**: No prior experience is necessary. We are looking for active
 listeners with a passion for underrepresented individuals and a willingness to
 learn.
-We are especially seeking responders who are **persons of color, persons living
-with disabilities, and/or transgender/nonbinary individuals**.
+We are especially seeking responders who are **persons of color, persons living with disabilities, Two Spirit, trans-femme and/or femme nonbinary individuals, and/or veterans.**
+.
 If crisis response is not a good fit, we are additionally seeking:
    - Resource Manager: This volunteer will manage the vetting and addition of
    new resources to our database.
