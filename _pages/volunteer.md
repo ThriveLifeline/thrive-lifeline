@@ -18,7 +18,7 @@ Requirements:
 Note: No prior experience is necessary. We promise mentoring all along the way, as well as high quality, empathetic training, and team collaboration.
 - Our training is centered in Whole-Human, empathetic support, cross-identity affirmation, trauma-informed care, and skillful deescalation 
 - Volunteers can work from any location: all that is required is a computer with reliable internet and a private space. 
-- We are especially seeking responders who are persons of color, persons living with disabilities, Two Spirit, trans-femme and/or femme nonbinary individuals, and/or veterans.
+- We are especially seeking responders who are **persons of color, persons living with disabilities, Two Spirit, trans-femme and/or femme nonbinary individuals, and/or veterans.**
 
 <br/>
 We have the following volunteer positions available:
