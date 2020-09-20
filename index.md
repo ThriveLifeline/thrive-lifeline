@@ -1,6 +1,6 @@
 ---
 layout: default
-tags: LGBTQ, lesbian, gay, bisexual, transgender, queer, trans, asexual, crisis, hotline, help, suicide, depression, depressed, anxiety, anxious, stress, stressed, isolation, STEM, science, technology, mathematics, engineering, math, eng, tech, biology, bio, physics, phys, chemistry, chem, biochem, biochemistry, chem eng, chemical engineering, mech eng, mechanical engineering, civil engineering, civ eng, comp sci, computer science, env sci, environmental science, identity, marginalized, underrepresented, disability, disabled, BIPOC, alone
+tags: LGBTQ, LGBTQ crisis resources, LGBTQ crisis hotline, lesbian, gay, bisexual, transgender, queer, trans, asexual, resources, crisis, hotline, help, suicide, depression, depressed, anxiety, anxious, stress, stressed, self harm, isolation, STEM, science, technology, mathematics, engineering, math, eng, tech, biology, bio, physics, phys, chemistry, chem, biochem, biochemistry, chem eng, chemical engineering, mech eng, mechanical engineering, civil engineering, civ eng, comp sci, computer science, env sci, environmental science, identity, marginalized, underrepresented, disability, disabled, BIPOC, QTBIPOC, Two Spirit, 2 Spirirt, alone
 ---
 
 # Welcome to THRIVE
