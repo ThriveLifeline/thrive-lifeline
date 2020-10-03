@@ -24,3 +24,8 @@ Juanita, [ISBN: 9781620148372](https://www.goodreads.com/book/show/39987021-when
 - *It Feels Good to Be Yourself: A Book About Gender Identity* by Theresa Thorn
 and illustrated by Noah Grigni, [ISBN: 9781250302953](https://www.goodreads.com/book/show/40864913-it-feels-good-to-be-yourself)
     - A book that explains gender identity to people of all ages.
+
+### Non-fiction
+- *Raising Them: Our Adventure in Gender Creative Parenting* by Kyl Myers,
+[ISBN: 9781542003681](https://www.goodreads.com/book/show/49974828-raising-them)
+    - A book about raising a child without ascribing "girl" or "boy" unto them.
