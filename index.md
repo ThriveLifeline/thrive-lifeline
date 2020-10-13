@@ -13,8 +13,6 @@ living with disabilities, and/or other marginalized identities), and
 experiencing obstacles because of (or simply have questions about) your
 identity, we want to help you navigate those.
 
-{% include image.html file="Only_One.png" alt="Texter: I'm sick of being the only one." max-width="200" %}
-
 <br/>
 
 Please text "THRIVE" 24/7/365, from anywhere:
