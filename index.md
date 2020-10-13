@@ -15,7 +15,7 @@ identity, we want to help you navigate those.
 
 <br/>
 
-Please text "THRIVE" 24/7/365, from anywhere:
+Please text "THRIVE" to begin your conversation with us 24/7/365, from anywhere:
 # <a href="tel:+13136628209">+1.313.662.8209</a>
 
 <br/>
