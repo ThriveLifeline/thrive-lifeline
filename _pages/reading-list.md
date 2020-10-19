@@ -23,6 +23,9 @@ permalink: /reading-list.html
 - *The Gender Quest Workbook: A Guide for Teens and Young Adults Exploring
 Gender Identity* by Rylan Jay Testa, Deborah Coolhart, and Jayme Peta,
 [ISBN: 9781626252974](https://www.goodreads.com/book/show/23845906-the-gender-quest-workbook)
+- *The Reflective Workbook for Partners of Transgender People: Your Transition
+as Your Partner Transitions* by D.M. Maynard,
+[ISBN: 9781785927720](https://www.goodreads.com/book/show/43610689-the-reflective-workbook-for-partners-of-transgender-people)
 
 ### Children's and Illustrated Books
 - *The Secret Lives of Scientists, Engineers, and Doctors: Volume 1* by Faisal
