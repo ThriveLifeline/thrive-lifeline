@@ -1,4 +1,5 @@
 ---
+title: THRIVE Crisis Resources
 layout: default
 permalink: /resources.html
 ---

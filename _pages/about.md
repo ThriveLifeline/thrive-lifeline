@@ -1,4 +1,5 @@
 ---
+title: About THRIVE
 layout: default
 permalink: /about.html
 ---
@@ -6,11 +7,11 @@ permalink: /about.html
 ## About THRIVE
 
 **T**hriving **H**arnesses **R**espect, **I**nclusion, and **V**ested
-**E**mpathy: A crisis text line staffed by marginalized individuals in STEM.
+**E**mpathy: A crisis text line staffed by marginalized individuals in STEMM.
 
 THRIVE Lifeline is a grassroots response to COVID-19, organized by experienced
 crisis managers who personally understand the significance of displacement,
-isolation, and financial loss, especially for marginalized individuals in STEM.
+isolation, and financial loss, especially for marginalized individuals in STEMM.
 
 The summer of 2020 was particularly tumultuous for minority students due to
 a variety of reasons including, but not limited to: racist acts against
@@ -22,7 +23,6 @@ Amid a crisis of global scale, many marginalized individuals face greater
 personal crises, including being sent to unsupportive and/or dangerous home
 environments, greater health risks, job, food, and home insecurity, and the
 inability to access what may be their only safe community.
-
 
 ## Who Are We?
 THRIVE Lifeline is Trans-led and operated. We are a group of certified suicide
@@ -122,19 +122,21 @@ If at any time you would like to stop a text-based conversation, please text STO
 Conversations are 100% confidential.
 
 ## Under 18?
-For general support, please reach out to [**Boys Town National Hotline**](https://www.boystown.org/hotline/Pages/default.aspx).
+For general support, please reach out to
+[**Boys Town National Hotline**](https://www.boystown.org/hotline/Pages/default.aspx).
 Despite the name, this hotline is for people of all genders.
 
 24/7 call-based support:
-- +1(800)448-3000.
+- <a href="tel:+18004483000">+1.800.448.3000</a>.
 
 Text-based support:
-- Text VOICE to 20121.
+- Text VOICE to <a href="sms:20121&body=VOICE">20121</a>.
 
-For LGBTQ+ support, please reach out to [**The Trevor Project**](https://www.thetrevorproject.org/).
+For LGBTQ+ support, please reach out to
+[**The Trevor Project**](https://www.thetrevorproject.org/).
 
 24/7 call-based support:
-- +1(866)488-7386.
+- <a href="tel:+18664887386">+1.866.488.7386</a>.
 
 Text-based support:
-- Text START to 678-678.
+- Text START to <a href="sms:678678">678-678</a>.

@@ -15,3 +15,6 @@
 
 - title: 'Support Us <i class="fa"> &#xf35d; </i>'
   link: "/gofundme-external.html"
+
+- title: '<navbar-item style="color: #65427D; background-color:#FFFFFF; padding: 6px 6px;">Text Us</navbar-item>'
+  link: "sms:+13136628209&body=THRIVE"

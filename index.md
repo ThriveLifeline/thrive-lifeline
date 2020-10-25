@@ -1,4 +1,5 @@
 ---
+title: THRIVE Lifeline Home
 layout: default
 tags: LGBTQ, LGBTQ crisis resources, LGBTQ crisis hotline, lesbian, gay, bisexual, transgender, queer, trans, asexual, resources, crisis, hotline, help, suicide, depression, depressed, anxiety, anxious, stress, stressed, self harm, isolation, STEM, science, technology, mathematics, engineering, math, eng, tech, biology, bio, physics, phys, chemistry, chem, biochem, biochemistry, chem eng, chemical engineering, mech eng, mechanical engineering, civil engineering, civ eng, comp sci, computer science, env sci, environmental science, identity, marginalized, underrepresented, disability, disabled, BIPOC, QTBIPOC, Two Spirit, 2 Spirirt, alone
 ---
@@ -16,7 +17,7 @@ identity, we want to help you navigate those.
 <br/>
 
 Please text "THRIVE" to begin your conversation with us 24/7/365, from anywhere:
-# <a href="tel:+13136628209">+1.313.662.8209</a>
+# <a href="sms:+13136628209&body=THRIVE">+1.313.662.8209</a>
 
 <br/>
 
@@ -40,4 +41,8 @@ individuals aged 18+.
 <!-- The below line will pull up contact info -->
 {% include sidebar.html %}
 
-### Your contributions help THRIVE Lifeline to continue providing life-saving and life-affirming crisis hotline support to marginalized individuals in STEM. Please consider <a href="https://www.gofundme.com/f/thrive-lifeline">**giving today**</a>.
+<h3> Your contributions help THRIVE Lifeline to continue providing life-saving
+and life-affirming crisis hotline support to marginalized individuals in STEM.
+Please consider
+<a href="https://www.gofundme.com/f/thrive-lifeline"><b>giving today</b></a>.
+</h3>

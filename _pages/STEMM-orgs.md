@@ -1,4 +1,5 @@
 ---
+title: STEMM Orgs List
 layout: default
 permalink: /STEMM-orgs.html
 ---
@@ -46,6 +47,11 @@ permalink: /STEMM-orgs.html
 - [National Postdoctoral Association](https://www.nationalpostdoc.org/)
 - [NSBE (National Society of Black Engineers)](https://www.nsbe.org/home.aspx)
 - [oSTEM (Out in Science, Technology, Engineering, and Mathematics)](https://www.ostem.org/)
+    - [Affinity and Working Groups](https://www.ostem.org/page/affinity-groups):
+    Affinity (community support) groups include: Ace/Aro, (Dis)Ability, InQUEERy,
+    Middle Sexualities, Race and Ethnicity, Trans and Non-Binary, and Womxn.
+    Working Groups include: (Dis)Ability, Beyond the Binary Working Group, and
+    Black and Queer Working Group.
 - [Psi Chi (Psychology Honor Society)](https://www.psichi.org/)
 - [Society of Asian Scientists and Engineers (SASE)](https://www.saseconnect.org/)
 - [SACNAS (Society for Advancement of Chicanos/Hispanics and Native Americans in Science)](https://www.sacnas.org/)

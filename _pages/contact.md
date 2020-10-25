@@ -1,4 +1,5 @@
 ---
+title: Contact THRIVE
 layout: default
 permalink: /contact/
 ---

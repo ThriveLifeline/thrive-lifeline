@@ -1,4 +1,5 @@
 ---
+title: THRIVE Reading List
 layout: default
 permalink: /reading-list.html
 ---

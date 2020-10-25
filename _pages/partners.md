@@ -1,4 +1,5 @@
 ---
+title: THRIVE Partners
 layout: default
 permalink: /partners.html
 ---
