@@ -1,7 +1,7 @@
 ---
 title: THRIVE Lifeline Home
 layout: default
-tags: LGBTQ, LGBTQ crisis resources, LGBTQ crisis hotline, lesbian, gay, bisexual, transgender, queer, trans, asexual, resources, crisis, hotline, help, suicide, depression, depressed, anxiety, anxious, stress, stressed, self harm, isolation, STEM, science, technology, mathematics, engineering, math, eng, tech, biology, bio, physics, phys, chemistry, chem, biochem, biochemistry, chem eng, chemical engineering, mech eng, mechanical engineering, civil engineering, civ eng, comp sci, computer science, env sci, environmental science, identity, marginalized, underrepresented, disability, disabled, BIPOC, QTBIPOC, Two Spirit, 2 Spirirt, alone
+tags: LGBTQ, LGBTQ crisis resources, LGBTQ crisis hotline, lesbian, gay, bisexual, transgender, queer, trans, asexual, resources, crisis, hotline, help, suicide, depression, depressed, anxiety, anxious, stress, stressed, self harm, isolation, STEM, science, technology, mathematics, engineering, math, eng, tech, biology, bio, physics, phys, chemistry, chem, biochem, biochemistry, chem eng, chemical engineering, mech eng, mechanical engineering, civil engineering, civ eng, comp sci, computer science, env sci, environmental science, identity, marginalized, underrepresented, disability, disabled, BIPOC, QTBIPOC, Two Spirit, 2 Spirit, alone
 ---
 
 # Welcome to THRIVE
@@ -14,12 +14,12 @@ living with disabilities, and/or other marginalized identities), and
 experiencing obstacles because of (or simply have questions about) your
 identity, we want to help you navigate those.
 
-<br/>
+<br>
 
 Please text "THRIVE" to begin your conversation with us 24/7/365, from anywhere:
 # <a href="sms:+13136628209&body=THRIVE">+1.313.662.8209</a>
 
-<br/>
+<br>
 
 We are experienced suicide interveners who will help keep you safe during times
 of acute mental health crises. If you are not in an acute crisis, but are
@@ -30,13 +30,13 @@ whole-self and we’re happy to help you during these troubling times.
 THRIVE Lifeline offers 24/7 judgment-free, confidential text messaging to
 individuals aged 18+.
 
-<br/>
-<br/>
+<br>
+<br>
 
 # Together, we THRIVE.
 
-<br/>
-<br/>
+<br>
+<br>
 
 <!-- The below line will pull up contact info -->
 {% include sidebar.html %}

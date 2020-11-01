@@ -7,11 +7,13 @@ permalink: /about.html
 ## About THRIVE
 
 **T**hriving **H**arnesses **R**espect, **I**nclusion, and **V**ested
-**E**mpathy: A crisis text line staffed by marginalized individuals in STEMM.
+**E**mpathy: A crisis text line staffed by people in STEMM with marginalized
+identities.
 
 THRIVE Lifeline is a grassroots response to COVID-19, organized by experienced
 crisis managers who personally understand the significance of displacement,
-isolation, and financial loss, especially for marginalized individuals in STEMM.
+isolation, and financial loss, especially for people in STEMM with marginalized
+identities.
 
 The summer of 2020 was particularly tumultuous for minority students due to
 a variety of reasons including, but not limited to: racist acts against
@@ -71,8 +73,8 @@ confidentiality, knowing that the heart of our work involves people at their
 most vulnerable times.
 
 
-<br/>
-<br/>
+<br>
+<br>
 
 ### We believe that it is together that we THRIVE.
 
@@ -104,19 +106,19 @@ If crisis response is not a good fit, we are additionally seeking:
    - Web Media Manager: This volunteer will manage THRIVES social media presence.
    - [**Apply Here**](https://form.jotform.com/201655418668059)
    - [**Questions? Contact us**](mailto:info@thrivelifeline.org)
-<br/>
+<br>
 - **Contribute**: We are currently raising $60,000 to purchase and integrate a
 professional SMS platform that will allow us to increase our call volume while
 providing optimal service to our texters.
 We are additionally seeking funds to train 20 new suicide interveners in the
 upcoming year.
    - [**GoFundMe**](http://tinyurl.com/thrive-support).
-<br/>
+<br>
 - **Share**: If you or anyone that you know is in need of support, THRIVE
-Lifeline is providing 100% confidential, judgement-free text-based support at
-<a href="tel:+13136628209">**+1(313)662-8209**</a>
+Lifeline is providing 100% confidential, judgment-free text-based support at
+<a href="sms:+13136628209&body=THRIVE">**+1.313.662.8209**</a>
 
-<br/>
+<br>
 ### Please be advised that our text line supports individuals 18+.
 If at any time you would like to stop a text-based conversation, please text STOP.
 Conversations are 100% confidential.
@@ -139,4 +141,4 @@ For LGBTQ+ support, please reach out to
 - <a href="tel:+18664887386">+1.866.488.7386</a>.
 
 Text-based support:
-- Text START to <a href="sms:678678">678-678</a>.
+- Text START to <a href="sms:678678&body=START">678-678</a>.
