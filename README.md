@@ -20,4 +20,4 @@ This will bring up a local preview.
 You can save each file as you go, select `Knit` to rebuild it into the test 
 site, or just `Build Website` again.
 
-[](https://github.com/ThriveLifeline/thrive-lifeline/tree/main/images/RMD_build.png)
+[](https://github.com/ThriveLifeline/thrive-lifeline/blob/main/images/RMD_build.png)
