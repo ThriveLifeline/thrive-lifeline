@@ -20,14 +20,24 @@
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<script src="site_libs/jqueryui-1.11.4/jquery-ui.min.js"></script>
+<link href="site_libs/tocify-1.9.1/jquery.tocify.css" rel="stylesheet" />
+<script src="site_libs/tocify-1.9.1/jquery.tocify.js"></script>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+<link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
+<link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
+<html lang="en">
 <meta name="google-site-verification" content="UNceFcC342EIvSXli_OOnJ4EUtHOA3is0mMLsKINvcY">
 <link rel="shortcut icon" href="images/test2.ico">
 
 <!-- Add icon library -->
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<!-- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"> -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css">
+
+
+
 
 <style type="text/css">code{white-space: pre;}</style>
 <style type="text/css">
@@ -255,6 +265,69 @@ $(document).ready(function () {
 
 
 
+<style type="text/css">
+
+#TOC {
+  margin: 25px 0px 20px 0px;
+}
+@media (max-width: 768px) {
+#TOC {
+  position: relative;
+  width: 100%;
+}
+}
+
+@media print {
+.toc-content {
+  /* see https://github.com/w3c/csswg-drafts/issues/4434 */
+  float: right;
+}
+}
+
+.toc-content {
+  padding-left: 30px;
+  padding-right: 40px;
+}
+
+div.main-container {
+  max-width: 1200px;
+}
+
+div.tocify {
+  width: 20%;
+  max-width: 260px;
+  max-height: 85%;
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  div.tocify {
+    width: 25%;
+  }
+}
+
+@media (max-width: 767px) {
+  div.tocify {
+    width: 100%;
+    max-width: none;
+  }
+}
+
+.tocify ul, .tocify li {
+  line-height: 20px;
+}
+
+.tocify-subheader .tocify-item {
+  font-size: 0.90em;
+}
+
+.tocify .list-group-item {
+  border-radius: 0px;
+}
+
+
+</style>
+
+
 
 </head>
 
@@ -264,17 +337,29 @@ $(document).ready(function () {
 <div class="container-fluid main-container">
 
 
+<!-- setup 3col/9col grid for toc_float and main content  -->
+<div class="row-fluid">
+<div class="col-xs-12 col-sm-4 col-md-3">
+<div id="TOC" class="tocify">
+</div>
+</div>
+
+<div class="toc-content col-xs-12 col-sm-8 col-md-9">
+
 
 
 <div class="navbar navbar-default  navbar-fixed-top" role="navigation">
   <div class="container">
     <div class="navbar-header">
       <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+        <!-- Add me! -->
+        <span class="sr-only">Toggle navigation</span>
+        <!-- End add -->
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand" href="index.html">THRIVE Lifeline</a>
+      <a class="navbar-brand" href="index.html"><span aria-hidden="true"><img id="logo" style="width: 50px;" src="images/test_logo_white_cropped.png" alt="THRIVE Lifeline logo"/></span></a>
     </div>
     <div id="navbar" class="navbar-collapse collapse">
       <ul class="nav navbar-nav">
@@ -285,12 +370,17 @@ $(document).ready(function () {
   <a href="about.html">About</a>
 </li>
 <li class="dropdown">
-  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
-    Crisis Resources
-     
+    <!-- <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false"> -->
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+    Resources
+
     <span class="caret"></span>
   </a>
-  <ul class="dropdown-menu" role="menu">
+  <!-- <ul class="dropdown-menu" role="menu"> -->
+  <ul class="dropdown-menu">
+    <li>
+      <a href="resources.html">Crisis Resources</a>
+    </li>
     <li>
       <a href="reading-list.html">Reading List</a>
     </li>
@@ -306,12 +396,20 @@ $(document).ready(function () {
   <a href="partners.html">Partners</a>
 </li>
 <li>
-  <a href="https://thrivelifeline.org/gofundme-external.html">Support Us</a>
+  <a href="https://thrivelifeline.org/gofundme-external.html">
+    <span class="fa fa-external-link-alt"></span>
+
+    Support Us
+  </a>
 </li>
       </ul>
       <ul class="nav navbar-nav navbar-right">
         <li>
-  <a href="sms:+13136628209&amp;body=THRIVE">Text Us</a>
+  <a href="sms:+13136628209;body=THRIVE">
+    <span class="fa fa-mobile-alt"></span>
+
+    Text Us
+  </a>
 </li>
       </ul>
     </div><!--/.nav-collapse -->
@@ -327,6 +425,8 @@ $(document).ready(function () {
 </div>
 
 
+<div id="professional-organizations" class="section level2">
+<h2>Professional Organizations</h2>
 <ul>
 <li><a href="https://www.alphachisigma.org/">Alpha Chi Sigma (AXS; Professional Chemistry Fraternity)</a></li>
 <li><a href="https://www.acs.org/content/acs/en.html">American Chemical Society (ACS)</a>
@@ -401,6 +501,7 @@ $(document).ready(function () {
 <li><a href="https://www.facebook.com/lgbtqstemberlin">LGBTQ STEM Berlin</a></li>
 </ul>
 </div>
+</div>
 <div id="online-communities-and-resource-groups" class="section level2">
 <h2>Online Communities and Resource Groups</h2>
 <ul>
@@ -419,23 +520,28 @@ $(document).ready(function () {
 </ul>
 </div>
 
-<footer>
-  </br>
+&nbsp;
+<hr />
+
   <center>
   <p> Copyright &copy; T.H.R.I.V.E. Inc. 2020 </p>
   <!-- Add font awesome icons -->
   <p style="text-center;">
-    <a href="https://facebook.com/ThriveLifeline" class="fa fa-facebook fa-3x" style="color:#65427D"></a>
-    <a href="https://twitter.com/ThriveLifeline" class="fa fa-twitter fa-3x" style="color:#65427D"></a>
-    <a href="https://instagram.com/ThriveLifeline" class="fa fa-instagram  fa-3x" style="color:#65427D"></a>
+    <a target="_blank" href="https://facebook.com/ThriveLifeline" aria-label="Facebook"><i class="fab fa-facebook fa-3x" style="color:#65427D" aria-hidden="true"></i></a>
+    <b style="word-space:2em">&nbsp;&nbsp;</b>
+    <a target="_blank" href="https://twitter.com/ThriveLifeline" aria-label="Twitter"><i class="fab fa-twitter fa-3x" style="color:#65427D" aria-hidden="true"></i></a>
+    <b style="word-space:2em">&nbsp;&nbsp;</b>
+    <a target="_blank" href="https://instagram.com/ThriveLifeline" aria-label="Instagram"><i class="fab fa-instagram fa-3x" style="color:#65427D" aria-hidden="true"></i></a>
   </p>
   <p>
-    <a href="https://thrivelifeline.org/privacy.pdf" style="color:#65427D">Terms of Service/Privacy Policy</a>
+    <!-- https://thrivelifeline.org/images/privacy.pdf --> 
+    <a target="_blank" href="images/privacy.pdf" style="color:#65427D">Terms of Service/Privacy Policy</a>
   </p>
   </center>
-</footer>
 
 
+</div>
+</div>
 
 </div>
 
@@ -468,6 +574,32 @@ $(document).ready(function () {
 
 <!-- code folding -->
 
+<script>
+$(document).ready(function ()  {
+
+    // move toc-ignore selectors from section div to header
+    $('div.section.toc-ignore')
+        .removeClass('toc-ignore')
+        .children('h1,h2,h3,h4,h5').addClass('toc-ignore');
+
+    // establish options
+    var options = {
+      selectors: "h1,h2,h3",
+      theme: "bootstrap3",
+      context: '.toc-content',
+      hashGenerator: function (text) {
+        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_');
+      },
+      ignoreSelector: ".toc-ignore",
+      scrollTo: 0
+    };
+    options.showAndHide = true;
+    options.smoothScroll = true;
+
+    // tocify
+    var toc = $("#TOC").tocify(options).data("toc-tocify");
+});
+</script>
 
 <!-- dynamically load mathjax for compatibility with self-contained -->
 <script>

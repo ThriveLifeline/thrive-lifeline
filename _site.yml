@@ -1,5 +1,6 @@
 name: "THRIVE Lifeline"
-output_dir: "."
+#output_dir: "."
+output_dir: "_site"
 navbar: _navbar.html
 #navbar:
 ##  title: "THRIVE Lifeline"
