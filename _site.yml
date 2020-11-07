@@ -1,0 +1,42 @@
+name: "THRIVE Lifeline"
+output_dir: "."
+navbar: _navbar.html
+#navbar:
+##  title: "THRIVE Lifeline"
+#  title: "<img id=\"logo\" style=\"width: 50px;\" src=\"images/test_logo_white_cropped.png\" alt=\"THRIVE Lifeline logo\"/>"
+#  left:
+#    - text: "Home"
+#      href: index.html
+#    - text: "About"
+#      href: about.html
+#    - text: "Resources"
+#      menu:
+#      - text: "Crisis Resources"
+#        href: resources.html
+#      - text: "Reading List"
+#        href: reading-list.html
+#      - text: "STEMM Organizations"
+#        href: STEMM-orgs.html
+#    - text: "Volunteer"
+#      href: volunteer.html
+#    - text: "Partners"
+#      href: partners.html
+#    - text: 'Support Us'
+#      icon: fa-external-link-alt
+#      href: https://thrivelifeline.org/gofundme-external.html
+
+
+#  right:
+#    - text: "Text Us"
+#      icon: fa-mobile-alt
+#      href: sms:+13136628209&body=THRIVE
+
+output:
+  html_document:
+    theme: cosmo
+    css: 'style.css'
+#    highlight: textmate
+    include:
+      in_header: header.html
+      after_body: footer.html
+#    css: styles.css

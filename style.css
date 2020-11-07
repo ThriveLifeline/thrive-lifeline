@@ -1,0 +1,65 @@
+/* Adjust values from Cosmo https://bootswatch.com/4/cosmo/bootstrap.css */
+
+.navbar {
+  background-color: #65427D;
+  border-color: #65427D
+}
+
+/* Change font size */
+
+/* Whole document: */
+body{
+  font-family: Helvetica;
+  font-size: 14pt;
+}
+/* Headers */
+h1,h2,h3,h4,h5,h6{
+  font-size: 18pt;
+}
+
+/* unvisited link */
+a:link {
+  color: #0033FF;
+}
+
+.page-link {
+  position: relative;
+  display: block;
+  padding: 0.5rem 0.75rem;
+  margin-left: -1px;
+  line-height: 1.25;
+  color: #0033FF;
+  background-color: #fff;
+  border: 1px solid #dee2e6;
+}
+
+.list-group-item.active {
+  z-index: 2;
+  color: #fff;
+  background-color: #65427D;
+  border-color: #65427D;
+}
+
+.btn-primary {
+  color: #fff;
+  background-color: #65427D;
+  border-color: #65427D;
+}
+
+.btn-primary.disabled, .btn-primary:disabled {
+  color: #fff;
+  background-color: #65427D;
+  border-color: #65427D;
+}
+
+.dropdown-item.active, .dropdown-item:active {
+  color: #fff;
+  text-decoration: none;
+  background-color: #65427D;
+}
+
+.nav-pills .nav-link.active,
+.nav-pills .show > .nav-link {
+  color: #fff;
+  background-color: #65427D;
+}

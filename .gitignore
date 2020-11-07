@@ -1,6 +1,9 @@
-_site/
-.sass-cache/
-.jekyll-cache/
-.jekyll-metadata
 .DS_STORE
-.vendor
+.Rproj.user
+.Rproj.user/*
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+test-R-site.Rproj
+README.html

@@ -1,0 +1,174 @@
+---
+title: "About THRIVE"
+output:
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+**T**hriving **H**arnesses **R**espect, **I**nclusion, and **V**ested
+**E**mpathy: A crisis text line staffed by people in STEMM with marginalized
+identities.
+
+THRIVE Lifeline is a grassroots response to COVID-19, organized by experienced
+crisis managers who personally understand the significance of displacement,
+isolation, and financial loss, especially for people in STEMM with marginalized
+identities.
+
+The summer of 2020 was particularly tumultuous for minority students due to
+a variety of reasons including, but not limited to: racist acts against
+Asian-Americans; police brutality, protests, and national discussions of
+systemic racism; removal of healthcare protections for transgender people,
+and the devastating impact and associated uncertainties of the COVID-19 pandemic.
+
+Amid a crisis of global scale, many marginalized individuals face greater
+personal crises, including being sent to unsupportive and/or dangerous home
+environments, greater health risks, job, food, and home insecurity, and the
+inability to access what may be their only safe community.
+
+## Who Are We?
+THRIVE Lifeline is Trans-led and operated. We are a group of certified suicide
+interventionists whose identities are marginalized, and who are students and
+early career professionals trained across the breadth of STEMM fields.
+
+<style>
+    .caption {
+        display:none;
+    }
+</style>
+
+```{r, echo=FALSE, message=FALSE, fig.align="center", fig.cap="Barplot of the identities of the THRIVE Lifeline team. LGBTQIA+ makes up 95%, women and non-binary makes up 75%, people of color make up 70%, people with disabilities make up 50%, and immigrants make up 15%."}
+## Use fig.cap to set up caption/alt text. The CSS directly above will silence 
+## The caption
+
+## Reset margins c(bottom, left, top, right)
+## Default is c(5.1, 4.1, 4.1, 2.1)
+par(mar=c(6,4,4,10), xpd=TRUE)
+
+## Set up colors
+colors = c("#65427D", "#FAF4A0") #"#58A4AF", "#EF8254", "#C2C8E5", "#AC8FC0")
+
+# Trait = c(yes, no)
+LGBTQ = c(95, 5)
+WNB = c(75, 25)
+POC = c(70, 30)
+Trans = c(65,35)
+Disability = c(50, 50)
+Immigrant = c(15, 85)
+
+## Create a dataframe with all of these for plotting
+traits = data.frame(LGBTQ, WNB, POC, Trans, Disability, Immigrant)
+
+## Transform the data into %
+traits_percentage <- apply(traits, 2, function(x){x*100/sum(x,na.rm=T)})
+
+## Make a barplot
+barplot(traits_percentage,             ## Use percentage data
+        col=colors,                    ## Use colors from above
+        main="THRIVE's Team",          ## Title Name
+        border="white",                ## Border color for the boxes
+        ylab="Percentage",             ## Y-axis label
+          ## Name the datasets; \n is a linebreak
+        names.arg=c("LGBTQIA+", "Women\n& Non-Binary", "People of\nColor", 
+                    "Transgender", "People with\nDisabilities", "Immigrants"), 
+        legend=c("Yes", "No"),         ## Legend Label
+        las=2,                         ## Turn x-axis 90º
+          ## Force legend outside the plot
+          ## bty is the box around legend (yes = o, no = n)
+        args.legend = list(x ='right', bty='o', inset=c(-0.18,0))
+        )
+```
+
+<br>
+Our backgrounds include familial rejection due to our identities, homelessness,
+poverty, and working multiple jobs before being able to access and/or while
+accessing education. Many of us are individuals who have navigated accommodations
+processes during our academic journeys as a result of neurodivergence,
+living with disabilities, and/or facing trauma.
+
+## Mission
+THRIVE Lifeline’s mission is to end stigma and close access gaps for
+underrepresented individuals who seek educational and professional opportunities.
+Particularly, we believe that equity and inclusion begins with person-centered
+and whole-human support, including access to crisis intervention, validation,
+and resources.
+
+We fulfill our mission by:
+
+* Providing texters with free 24/7 hotline support by trained, non-judgmental
+Crisis Responders who share underrepresented identities and backgrounds.
+* Reducing suicide risk through literature-based deescalation practices and by
+connecting texters with life-saving and life-affirming resources.
+* Using anonymized data to train leaders and advocate for representation in
+more welcoming and inclusive educational and professional spaces.
+
+## Vision
+We envision academic and professional spaces that actively and equitably
+include everyone, removing stigma and minimizing underrepresentation.
+
+## Core Values
+
+* Accessibility: THRIVE Lifeline remains 100% free to texters.
+We believe that access to life-affirming and life-saving resources is crucial.
+* Connection: Often, our texters are ‘the only one’ in their families, in their
+departments, in their labs, in their classrooms.
+When a texter reaches out to THRIVE Lifeline, they are not alone.
+* Inclusion: Representation matters.
+Being recognized at the core of who you are is the center of inclusion.
+Whoever you are, wherever you are from, THRIVE welcomes you.
+* Integrity: We uphold the highest standards of communications, support, and
+confidentiality, knowing that the heart of our work involves people at their
+most vulnerable times.
+
+<br/>
+
+<center>
+<p style="font-size:16pt; font-weight: bolder">We believe that it is together 
+that we THRIVE.</p>
+</center>
+
+We need your help in order to keep THRIVE Lifeline as a vital resource!
+You can help by **volunteering, contributing**, and **sharing**.
+
+- **Volunteer**: Learn more at our [volunteer information](volunteer.html) page.
+<br/>
+- **Contribute**: We are currently raising $60,000 to purchase and integrate a
+professional SMS platform that will allow us to increase our call volume while
+providing optimal service to our texters.
+We are additionally seeking funds to train 20 new suicide interveners in the
+upcoming year.
+   - [**GoFundMe**](http://tinyurl.com/thrive-support).
+<br>
+- **Share**: If you or anyone that you know is in need of support, THRIVE
+Lifeline is providing 100% confidential, judgment-free text-based support at
+<a href="tel:+13136628209">**+1.313.662.8209**</a>
+
+<br>
+
+<center>
+<p style="font-size:16pt; font-weight: bolder">Please be advised that our text 
+line supports individuals 18+.</p>
+</center>
+
+If at any time you would like to stop a text-based conversation, please text STOP.
+Conversations are 100% confidential.
+
+## Under 18?
+
+For general support, please reach out to
+[**Boys Town National Hotline**](https://www.boystown.org/hotline/Pages/default.aspx).
+Despite the name, this hotline is for people of all genders.
+
+* 24/7 call-based support:
+   + <a href="tel:+18004483000">+1.800.448.3000</a>.
+* Text-based support:
+   + Text VOICE to <a href="sms:20121&body=VOICE">20121</a>.
+
+For LGBTQ+ support, please reach out to
+[**The Trevor Project**](https://www.thetrevorproject.org/).
+
+* 24/7 call-based support:
+   + <a href="tel:+18664887386">+1.866.488.7386</a>.
+
+* Text-based support:
+   + Text START to <a href="sms:678678&body=START">678-678</a>.
