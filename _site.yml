@@ -9,7 +9,11 @@ navbar: _navbar.html
 #    - text: "Home"
 #      href: index.html
 #    - text: "About"
-#      href: about.html
+#      menu:
+#      - text: "About Us"
+#        href: about.html
+#      - text: "FAQs"
+#        href: FAQs.html
 #    - text: "Resources"
 #      menu:
 #      - text: "Crisis Resources"

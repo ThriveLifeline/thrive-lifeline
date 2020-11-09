@@ -1,0 +1,49 @@
+---
+title: "Frequently Asked Questions (FAQs)"
+---
+
+<details>
+  <summary>What is THRIVE's 911 policy?</summary>
+  <br>
+  <p>THRIVE Lifeline does not call emergency services for people that are at 
+  risk of harming themselves without their consent. 
+  However, we are obligated to report credible threats of homicide to the 
+  proper authorities if deescalation isn't possible.</p>
+  <br>
+</details>
+
+
+<details>
+  <summary>What is THRIVE's mandatory reporting policy?</summary>
+  <br>
+  <p>We are mandated reporters for child abuse and elder abuse. 
+  Being a mandated reporter means that we will file a report if you share 
+  specific details necessary for filing that report. 
+  Whether or not you share this information is completely voluntary.</p>
+  <br>
+</details>
+
+<details>
+  <summary>What if I'm under 18?</summary>
+  <br>
+  <p>For legal reasons, THRIVE Lifeline serves people that are 18 years of age 
+  or older. If you are under 18 and need support, we recommend reaching out to 
+  [Boys Town National Hotline](https://www.boystown.org/hotline/Pages/default.aspx) 
+  (call <a href="tel:+18004483000">+1.800.448.3000</a> or text VOICE to 
+  <a href="sms:20121&body=VOICE">20121</a>). 
+  If you are a minor and are seeking support for LGBTQ+ issues, we recommend 
+  reaching out to [**The Trevor Project**](https://www.thetrevorproject.org/) 
+  (call <a href="tel:+18664887386">+1.866.488.7386</a> or text START to <a href="sms:678678&body=START">678-678</a>).</p>
+  <br>
+</details>
+
+<details>
+  <summary>How do I end an interaction with THRIVE?</summary>
+  <br>
+  <p>You can text "STOP" to end a conversation at any time. 
+  Our Crisis Responders will not respond further, and there will not be a 
+  message verifying that you have decided to stop messaging us. 
+  If you otherwise share that you're now busy and need to go, we will end the 
+  conversation.</p>
+  <br>
+</details>
