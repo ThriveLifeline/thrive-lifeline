@@ -26,12 +26,14 @@ output:
     -[LGBTQ+ Cell Biologists](https://www.ascb.org/committee/lgbtq-task-force/)
 - [American Society for Microbiology (ASM)](https://asm.org/)
 - [AWIS (Association for Women in Science)](https://www.awis.org/)
+- [AWG (Association for Women Geoscientists)](https://www.awg.org/)
 - [AWM (Association for Women in Mathematics)](https://awm-math.org/)
 - [Association of American Indian Physicians](https://www.aaip.org/)
 - [Association for Computing Machinery (ACM)](https://www.acm.org/)
 - [Association of Black Psychologists](http://www.abpsi.org/)
-- [Beta Beta Beta (TriBeta; National Biological Honor Society)](https://www.tribeta.org/)
 - [Association of Black Women Physicians](https://www.blackwomenphysicians.org/)
+- [Beta Beta Beta (TriBeta; National Biological Honor Society)](https://www.tribeta.org/)
+- [Black Doctoral Network (BDN)](https://www.blackphdnetwork.com/)
 - [Black Girls Code](https://www.blackgirlscode.com/)
 - [Chinese Institute of Engineers](http://www.cie-usa.org/)
 - [GLMA (Health Professionals Advancing LGBTQ Equality)](http://www.glma.org/)
@@ -85,5 +87,19 @@ output:
 ## Science Communication Organizations/Programs
 
 - [Letters to a Pre-Scientist](https://www.prescientist.org/)
+- [Project Biodiversify](https://projectbiodiversify.org/)
 - [Skype a Scientist](https://www.skypeascientist.com/)
 - [Reclaiming STEM](https://twitter.com/Reclaiming_STEM)
+
+## Diversity Lists
+
+- [500 Queer Scientists](https://500queerscientists.com/)
+- [500 Women Scientists](https://500womenscientists.org/)
+- [Astronomy and Astrophysics Outlist](https://astro-outlist.github.io/)
+- [Diverse Geologists](https://www.diversegeologists.org/)
+- [Diversify Chemistry](https://diversifychemistry.com/)
+- [DiversifyEEB (Ecologists and Evolutionary Biologists)](https://diversifyeeb.com/)
+- [DiverisfyImmunology](https://diversifyimmunology.github.io/)
+- [DiversifyMicrobiology](https://diversifymicrobiology.github.io/)
+- [DiversifyPlantSci](https://tinyurl.com/DiversifyPlantSci)
+- [LGBT+ Physicists](https://lgbtphysicists.org/outlist.html)
