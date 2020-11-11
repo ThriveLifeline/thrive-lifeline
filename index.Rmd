@@ -6,6 +6,8 @@ output:
     toc: true
     toc_float: true
 ---
+## Overview
+
 <center>
 
 <img src="images/Only_One.png" alt="One person is texting on a phone in the top 
@@ -45,6 +47,10 @@ individuals aged 18+.
 
 <center>
 <p style="font-size:24pt; font-weight: bolder">Together, we THRIVE.</p>
+
+<img src="images/Test_Logo.png" alt="The THRIVE Lifeline logo." 
+style="width: 50%; height: 50%"/>
+
 </center>
 
 <br><br>

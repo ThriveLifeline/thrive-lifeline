@@ -13,6 +13,9 @@ library(DT)
 ## CSV as a UTF-8 CSV. Excel... does not like interpreting as UTF-8
 data <- read_csv("thrive_resources.csv", comment = "#")
 
+## Remove first resource column, since website includes the same name
+data <- select(data, -c(Resource))
+
 ## Change to factor-based data for "tagged" search
 # data$Category <-as.factor(data$Category)
 # data$Type <-as.factor(data$Type)

@@ -47,3 +47,13 @@ title: "Frequently Asked Questions (FAQs)"
   conversation.</p>
   <br>
 </details>
+
+<br>
+
+<center>
+
+<img src="images/pp_1_desk.png" alt="Two people are sitting at a desk. 
+One person is texting and the other person is on their computer." 
+style="width: 50%; height: 50%"/>
+
+</center>
