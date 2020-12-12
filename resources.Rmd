@@ -29,7 +29,15 @@ datatable(data,
     escape = FALSE,
     extensions = c('Responsive', 'Buttons'), options = list(
     dom = 'Bfrtip',
-    buttons = c('copy', 'csv', 'excel', 'pdf', 'print')),
+#    buttons = c('copy', 'csv', 'excel', 'pdf', 'print')),
+    buttons = list(
+      'copy', 'csv', 'excel',
+      list(extend = 'pdf', 
+           orientation = 'landscape',
+           exportoptions=list(pageSize='A3',
+           customize = JS("function(doc){doc.styles.tableHeader.color='purple';}")
+                )),
+      'print'))
   )
 
 ### ORIGINAL
