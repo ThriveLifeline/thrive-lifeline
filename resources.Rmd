@@ -18,7 +18,7 @@ data <- read_csv("thrive_resources.csv", comment = "#")
 #data <- select(data, -c(ShortLink))
 
 ### Make URLs a hyperlink
-data$ShortLink <- paste0("<a href='",data$ShortLink,"' target='_blank'>",data$ShortLink,"</a>")
+data$ShortLink <- paste0("<a href='https://",data$ShortLink,"' target='_blank'>",data$ShortLink,"</a>")
 
 ### Remove website column, since it's just an explanation for the ShortLink
 data <- select(data, -c(Website))
