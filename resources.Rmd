@@ -14,14 +14,14 @@ library(DT)
 data <- read_csv("thrive_resources.csv", comment = "#")
 
 ## Make website a hyperlink
-data$Website <- paste0("<a href='",data$Website,"' target='_blank'>",data$Website,"</a>")
-data <- select(data, -c(ShortLink))
+#data$Website <- paste0("<a href='",data$Website,"' target='_blank'>",data$Website,"</a>")
+#data <- select(data, -c(ShortLink))
 
 ### Make URLs a hyperlink
-#data$ShortLink <- paste0("<a href='",data$ShortLink,"' target='_blank'>",data$ShortLink,"</a>")
+data$ShortLink <- paste0("<a href='",data$ShortLink,"' target='_blank'>",data$ShortLink,"</a>")
 
 ### Remove website column, since it's just an explanation for the ShortLink
-#data <- select(data, -c(Website))
+data <- select(data, -c(Website))
 
 ## Remove first resource column, since website includes the same name
 #data <- select(data, -c(Resource))
