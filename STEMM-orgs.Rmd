@@ -88,6 +88,10 @@ output:
 - [Queers in STEM](https://twitter.com/QueersInSTEM)
 - [LGBTQ STEM Berlin](https://www.facebook.com/lgbtqstemberlin)
 
+### Relevant Summits
+- [Lesbians Who Tech](https://lesbianswhotech.org/about/)
+- [TransTech](https://www.transtechsocial.org/)
+
 ## Online Communities and Resource Groups
 
 - [We Rep STEM](https://werepstem.com/)
