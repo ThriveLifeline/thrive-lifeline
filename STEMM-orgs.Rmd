@@ -74,6 +74,7 @@ output:
 - [Society of Black Academic Surgeons (SBAS)](https://www.sbas.net/)
 - [Society of Mexican American Engineers and Scientists (Latinos in Science and Engineering) (MAES)](http://mymaes.org/)
 - [Student Osteopathic Medical Association (SOMA)](https://studentdo.org/)
+- [Society of Women Engineers](https://swe.org/)
 - [Women of Color Research Network (WoCRN)](https://womeninscience.nih.gov/women-of-color/)
 
 ### LGBTQ+ STEM Organizations Abroad
