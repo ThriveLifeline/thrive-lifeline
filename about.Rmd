@@ -71,7 +71,7 @@ barplot(traits_percentage,             ## Use percentage data
           ## Name the datasets; \n is a linebreak
         names.arg=c("LGBTQIA+", "Women\n& Non-Binary", "People of\nColor", 
                     "Transgender", "People with\nDisabilities", "Immigrants"), 
-        legend=c("Yes", "No"),         ## Legend Label
+        legend=c("Yes"),               ## Legend Label
         las=2,                         ## Turn x-axis 90º
           ## Force legend outside the plot
           ## bty is the box around legend (yes = o, no = n)

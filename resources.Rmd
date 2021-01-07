@@ -34,11 +34,9 @@ data <- select(data, -c(Website))
 datatable(data,
     rownames=FALSE,
     escape = FALSE,
-    extensions = c('Responsive', 'Buttons'), 
-#    extensions = c('Responsive', 'Buttons', 'SearchBuilder'), 
+    extensions = c('Responsive', 'Buttons', 'SearchBuilder'), 
     options = list(
-    dom = 'Bfrtip',
-#    dom = 'QBfrtip',
+    dom = 'QBfrtip',
 ##    buttons = c('copy', 'csv', 'excel', 'pdf', 'print')),
     buttons = list(
       'copy', 'csv', 'excel',
@@ -47,8 +45,8 @@ datatable(data,
            exportoptions=list(pageSize='A3',
            customize = JS("function(doc){doc.styles.tableHeader.color='purple';}")
                 )),
-      'print'))
-)
+      'print')
+))
 ## Need DT v 0.17
 ## https://datatables.net/extensions/searchbuilder/examples/initialisation/columns.html
 #

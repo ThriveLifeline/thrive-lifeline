@@ -19,6 +19,7 @@ output:
 - [American Indian Science and Engineering Society (AISES)](https://www.aises.org/)
 - [American Mathematical Society (AMS)](https://www.ams.org/home/page)
 - [American Medical Student Association (AMSA)](https://www.amsa.org/)
+- [American Medical Women's Association (AMWA)](https://www.amwa-doc.org/)
 - [American Meteorological Society](https://www.ametsoc.org/index.cfm/ams/)
 - [American Optometric Association](https://www.aoa.org/)
 - [American Optometric Student Association](https://theaosa.org/)
