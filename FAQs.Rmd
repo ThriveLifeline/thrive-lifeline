@@ -3,6 +3,14 @@ title: "Frequently Asked Questions (FAQs)"
 ---
 
 <details>
+  <summary>Where is THRIVE Lifeline located?</summary>
+  <br>
+  <p>The 313 area code is registered to Detroit, MI, but our Crisis Responders are 
+  located across the US, with responders in each time zone.</p>
+  <br>
+</details>
+
+<details>
   <summary>What is THRIVE's 911 policy?</summary>
   <br>
   <p>THRIVE Lifeline does not call emergency services for people that are at 

@@ -71,6 +71,6 @@ Please consider
 <a href="https://www.gofundme.com/f/thrive-lifeline"><b>giving today</b></a>.
 
 You can also share our 
-[business cards](https://thrivelifeline.org/images/Signs_Business_Cards.pdf)
+[business cards](images/Signs_Business_Cards.pdf)
 or talk to your schools and organizations about 
-[becoming a partner](https://thrivelifeline.org/partners.html).
+[becoming a partner](partners.html).
