@@ -2,10 +2,10 @@
 title: "Crisis Resources"
 ---
 
-- Keywords: aid, app, career, coping, COVID-19, disability, education, 
+- **Keywords**: aid, app, career, coping, COVID-19, disability, education, 
 funding, gender identity, general, grief, health, hotline, Indigenous, legal, 
 LGBTQ, mental health, parent, religion, STEMM, support, under 18, veteran
-- Region/Languages: UK, international, Español
+- **Region/Languages**: UK, international, Español
 
 ```{r, include=FALSE}
 library(tidyverse)
