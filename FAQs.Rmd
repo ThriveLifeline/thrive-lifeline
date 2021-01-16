@@ -28,7 +28,7 @@ title: "Frequently Asked Questions (FAQs)"
   <br>
   <p>For legal reasons, THRIVE Lifeline serves people that are 18 years of age 
   or older. If you are under 18 and need support, we recommend reaching out to 
-  [Boys Town National Hotline](https://www.boystown.org/hotline/Pages/default.aspx) 
+  [**Boys Town National Hotline**](https://www.boystown.org/hotline/Pages/default.aspx) 
   (call <a href="tel:+18004483000">+1.800.448.3000</a> or text VOICE to 
   <a href="sms:20121&body=VOICE">20121</a>). 
   If you are a minor and are seeking support for LGBTQ+ issues, we recommend 
