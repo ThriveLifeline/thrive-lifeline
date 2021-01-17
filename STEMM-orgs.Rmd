@@ -153,8 +153,9 @@ If you know of an organization that should be added to this list, please
 - [Queers in STEM](https://twitter.com/QueersInSTEM)
 - [The STEM Village](https://thestemvillage.co.uk/)
 
-### Relevant Summits
+### Relevant Conferences and Summits
 
+- [Annual Biomedical Research Conference for Minority Students (ABRCMS)](https://www.abrcms.org/)
 - [Lesbians Who Tech](https://lesbianswhotech.org/about/)
 - [Out For Undergrad](https://www.outforundergrad.org/)
 - [TransTech](https://www.transtechsocial.org/)
@@ -195,6 +196,7 @@ If you know of an organization that should be added to this list, please
 
 ## Podcasts
 
+* [A OK](https://www.aokpod.com/)
 * [Assigned Scientist at Bachelor’s](https://asabpodcast.com/)
 * [Blk + In Grad School](https://www.blkingradschool.com/)
 * [Conexiones: Historias de Latinos en STEM](https://www.stitcher.com/show/conexiones)
