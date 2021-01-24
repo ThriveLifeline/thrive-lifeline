@@ -109,6 +109,7 @@ If you know of an organization that should be added to this list, please
 - [Infectious Diseases Society of America (IDSA)](https://www.idsociety.org/)
 - [INFORMS (Institute for Operations Research and the Management Sciences)](https://www.informs.org/)
 - [International Association for Geoscience Diversity](https://theiagd.org/)
+- [International Society of Nonbinary Scientists](https://isnbs.org/)
 - [Iota Sigma Pi (National Honor Society for Women in Chemistry)](https://www.iotasigmapi.org/)
 - [Latinas in STEM](http://www.latinasinstem.com/)
 - [LatinxHikers](https://www.latinxhikers.com/)
@@ -218,6 +219,7 @@ If you know of an organization that should be added to this list, please
 - [DiversifyMicrobiology](https://diversifymicrobiology.github.io/)
 - [DiversifyPlantSci](https://tinyurl.com/DiversifyPlantSci)
 - [LGBT+ Physicists](https://lgbtphysicists.org/outlist.html)
+- [Respect Ability: LGBTQ+ People with Disabilities](https://www.respectability.org/resources/lgbtq/)
 
 ## Podcasts
 
@@ -253,3 +255,7 @@ If you know of an organization that should be added to this list, please
 ## Blogs
 
 - [Astronomy in Color](https://astronomyincolor.blogspot.com/)
+- [Autistic Hoya](https://www.autistichoya.com/)
+- [Neuroqueer](http://neuroqueer.blogspot.com/)
+- [Real Social Skills](https://www.realsocialskills.org/)
+- [Yes, That Too](http://yesthattoo.blogspot.com/)
