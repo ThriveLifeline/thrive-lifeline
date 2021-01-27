@@ -60,6 +60,7 @@ If you know of an organization that should be added to this list, please
 - [Association for Computing Machinery (ACM)](https://www.acm.org/)
 - [Association for Psychological Science](https://www.psychologicalscience.org/)
 - [Association for Public Policy Analysis & Management (APPAM)](https://www.appam.org/)
+- [Association for the Advancement of Artificial Intelligence](https://www.aaai.org/)
 - [Association for Women Geoscientists (AWG)](https://www.awg.org/)
 - [Association for Women in Mathematics (AWM)](https://awm-math.org/)
 - [Association for Women in Science (AWIS)](https://www.awis.org/)
@@ -70,6 +71,7 @@ If you know of an organization that should be added to this list, please
 - [Biochemical Society](https://www.biochemistry.org/)
 - [Black Doctoral Network (BDN)](https://www.blackphdnetwork.com/)
 - [Black Girls Code](https://www.blackgirlscode.com/)
+- [Black in AI](https://blackinai.github.io/#/)
 - [Black in Cancer](https://www.blackincancer.com)
 - [Black in Cardio](https://blackincardio.com/)
 - [Black in Chem](https://www.blackinchem.com/)
@@ -95,6 +97,7 @@ If you know of an organization that should be added to this list, please
 - [Boricua Planeteers](https://planettreky.com/boricua-planeteers/)
 - [CASSS - Sharing Science Solutions](https://www.casss.org/)
 - [Chinese Institute of Engineers](http://www.cie-usa.org/)
+- [Ciencia Puerto Rico](https://www.cienciapr.org/en/)
 - [Científico Latino](https://www.cientificolatino.com/)
 - [Color Outside](https://coloroutside.org/)
 - [Council on Undergraduate Research](https://www.cur.org/)
@@ -163,6 +166,7 @@ If you know of an organization that should be added to this list, please
 - [SOLESS (Society of Latinxs/Hispanics in Earth and Space Science)](https://ciresdiversity.colorado.edu/soless)
 - [Student Osteopathic Medical Association (SOMA)](https://studentdo.org/)
 - [The Electrochemical Society](https://www.electrochem.org/)
+- [Women in Cognitive Science](http://womenincogsci.org/)
 - [Women of Color Research Network (WoCRN)](https://womeninscience.nih.gov/women-of-color/)
 
 ### LGBTQ+ STEM Organizations Abroad
