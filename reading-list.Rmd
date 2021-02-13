@@ -7,6 +7,8 @@ output:
 ---
 
 ### Navigating Academia
+* *Academic Ableism: Disability and Higher Education* by Jay T. Dolmage,
+[ISBN: 9780472053711](https://www.goodreads.com/book/show/35069841-academic-ableism)
 * *Black STEM USA: America's Next Civil Rights Movement* by C.M. Williams and 
 Sharon Ewell Foster, [ISBN:9780996870702](https://www.goodreads.com/book/show/31448244-black-stem-usa)
 * *Decolonizing Academia: Poverty, Oppression and Pain* by Clelia O. Rodríguez,
@@ -23,6 +25,8 @@ Sharon Ewell Foster, [ISBN:9780996870702](https://www.goodreads.com/book/show/31
 ### Workbooks and Mental Health Books
 * *Managing Your Mind: The Mental Fitness Guide* by Gillian Butler,
 [ISBN: 9780195314533](https://www.goodreads.com/book/show/883834.Managing_Your_Mind)
+* *The Unapologetic Guide to Black Mental Health: Navigate an Unequal System, Learn Tools for Emotional Wellness, and Get the Help you Deserve* by Rheeda Walker, 
+[ISBN: 9781684034147](https://www.goodreads.com/book/show/51043956-the-unapologetic-guide-to-black-mental-health)
 * *The Queer and Transgender Resilience Workbook* by Anneliese A. Singh,
 [ISBN: 9781626259461](https://www.goodreads.com/book/show/33776101-the-queer-and-transgender-resilience-workbook)
 * *The Gender Quest Workbook: A Guide for Teens and Young Adults Exploring
@@ -83,18 +87,24 @@ and illustrated by Noah Grigni, [ISBN: 9781250302953](https://www.goodreads.com/
     [ISBN: 9781250254337](https://www.goodreads.com/book/show/52190991-any-way-the-wind-blows)
 
 ### Anti-Racist Literature
-* *So You Want to Talk About Race* by Ijeoma Oluo,
-[ISBN: 9781580056779](https://www.goodreads.com/book/show/35099718-so-you-want-to-talk-about-race)
-* *White Fragility: Why It’s So Hard for White People to Talk About Racism* by
-Robin DiAngelo,
-[ISBN: 9780807071168](https://www.goodreads.com/book/show/43708708-white-fragility)
+* *Black Fatigue: How Racism Erodes the Mind, Body, and Spirit* 
+by Mary-Frances Winters, 
+[ISBN: 9781523091300](https://www.goodreads.com/book/show/51773973-black-fatigue)
+* *Caste: The Origins of Our Discontents* by Isabel Wilkerson,
+[ISBN: 9780593230251](https://www.goodreads.com/en/book/show/51152447-caste)
 * *The Color of Law: A Forgotten History of How Our Government Segregated America*
 by Richard Rothstein,
 [ISBN: 9781631492853](https://www.goodreads.com/book/show/32191706-the-color-of-law)
+* *My Grandmother's Hands: Racialized Trauma and the Mending of Our Bodies and Hearts* 
+by Resmaa Menakem, 
+[ISBN: 9781942094470](https://www.goodreads.com/book/show/34146782-my-grandmother-s-hands)
+* *So You Want to Talk About Race* by Ijeoma Oluo,
+[ISBN: 9781580056779](https://www.goodreads.com/book/show/35099718-so-you-want-to-talk-about-race)
 * *Superior: The Return of Race Science* by Angela Saini,
 [ISBN: 9780807076910](https://www.goodreads.com/book/show/42042093-superior)
-* *Caste: The Origins of Our Discontents* by Isabel Wilkerson,
-[ISBN: 9780593230251](https://www.goodreads.com/en/book/show/51152447-caste)
+* *White Fragility: Why It’s So Hard for White People to Talk About Racism* by
+Robin DiAngelo,
+[ISBN: 9780807071168](https://www.goodreads.com/book/show/43708708-white-fragility)
 
 ### Non-fiction
 * *The Autobiography of a Transgender Scientist* by Ben Barres,
@@ -116,7 +126,6 @@ Janet Mock, [ISBN: 9781476709123](https://www.goodreads.com/book/show/18144031-r
 * *Trans\* in College: Transgender Students' Strategies for Navigating Campus
 Life and the Institutional Politics of Inclusion* by Z. Nicolazzo,
 [ISBN: 9781620364574](https://www.goodreads.com/book/show/30148613-trans-in-college)
-
 
 ### Other Books
 * *On Earth We're Briefly Gorgeous* by Ocean Vuong, 
