@@ -3,9 +3,9 @@ title: "Crisis Resources"
 ---
 
 - **Keywords**: aid, app, Black, career, coping, COVID-19, disability, 
-education, funding, gender identity, general, grief, health, hotline, 
-Indigenous, Latinx, legal, LGBTQ, mental health, parent, religion, STEMM, 
-support, under 18, veteran
+education, end-of-life, funding, gender identity, general, grief, health, 
+hotline, Indigenous, Latinx, legal, LGBTQ, mental health, parent, religion, 
+STEMM, support, under 18, veteran
 - **Region/Languages**: UK, international, Español
 
 ```{r, include=FALSE}
