@@ -29,6 +29,13 @@ alt="The oSTEM logo."
 style="width: 50%; height: 50%"/>
 </center>
 
+Our second partner is [THRIVE Resources and Solutions](https://thriversolutions.org/)!
+
+<center>
+<img src="images/partner-logos/THRIVE-NY-Logo.png" 
+alt="The THRIVE Resources and Solutions logo." 
+style="width: 50%; height: 50%"/>
+</center>
 
 <br/>
 
