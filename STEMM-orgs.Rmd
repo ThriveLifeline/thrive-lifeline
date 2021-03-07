@@ -96,6 +96,7 @@ If you know of an organization that should be added to this list, please
 - [Black Women in Technology](https://blackwomenintech.com/)
 - [Boricua Planeteers](https://planettreky.com/boricua-planeteers/)
 - [CASSS - Sharing Science Solutions](https://www.casss.org/)
+- [Chemical Institute of Canada (CIC)](https://www.cheminst.ca/)
 - [Chinese Institute of Engineers](http://www.cie-usa.org/)
 - [Ciencia Puerto Rico](https://www.cienciapr.org/en/)
 - [Científico Latino](https://www.cientificolatino.com/)
@@ -133,6 +134,8 @@ If you know of an organization that should be added to this list, please
 - [National Science Policy Network](https://scipolnetwork.org/)
 - [National Science Teaching Association](https://www.nsta.org/)
 - [National Society of Black Engineers (NSBE)](https://www.nsbe.org/home.aspx)
+- [National Society of Black Physicists (NSBP)](https://nsbp.org/?)
+- 
 - [NOBCChE (National Organization for the Professional Advancement of Black Chemists and Chemical Engineers)](https://www.nobcche.org/)
 - [NOGLSTP (National Organization of Gay and Lesbian Scientists and Technical Professionals)](https://www.noglstp.org)
 - [oSTEM (Out in Science, Technology, Engineering, and Mathematics)](https://www.ostem.org/)
@@ -147,6 +150,8 @@ If you know of an organization that should be added to this list, please
 - [Psi Chi (Psychology Honor Society)](https://www.psichi.org/)
 - [Queer in AI](https://sites.google.com/view/queer-in-ai/home)
 - [Queer Nature](https://www.queernature.org/)
+- [R Community Diversity and Inclusion Working Group](https://github.com/RConsortium/RCDI-WG/tree/master)
+- [R-Ladies Global](https://rladies.org/)
 - [Royal Society of Chemistry (RSC)](https://www.rsc.org/membership-and-community/)
 - [SACNAS (Society for Advancement of Chicanos/Hispanics and Native Americans in Science)](https://www.sacnas.org/)
 - [Sigma Pi Sigma (Physics Honor Society)](https://www.sigmapisigma.org/sigmapisigma)
@@ -167,6 +172,7 @@ If you know of an organization that should be added to this list, please
 - [Student Osteopathic Medical Association (SOMA)](https://studentdo.org/)
 - [The Electrochemical Society](https://www.electrochem.org/)
 - [Women in Cognitive Science](http://womenincogsci.org/)
+- [Women in Medicine](https://womeninmedicine.org/)
 - [Women of Color Research Network (WoCRN)](https://womeninscience.nih.gov/women-of-color/)
 
 ### LGBTQ+ STEM Organizations Abroad
@@ -185,10 +191,13 @@ If you know of an organization that should be added to this list, please
 ### Relevant Conferences and Summits
 
 - [Annual Biomedical Research Conference for Minority Students (ABRCMS)](https://www.abrcms.org/)
+- [LGBTQ+STEM](https://lgbtqplusstem.ca/)
 - [Lesbians Who Tech](https://lesbianswhotech.org/about/)
+- [LOGIC Retreat](https://cwicnetwork.com/logic-retreat/)
 - [Out For Undergrad](https://www.outforundergrad.org/)
 - [STEMNoire](https://www.stemnoire.org/)
 - [TransTech](https://www.transtechsocial.org/)
+- [Women in Medicine Summit](https://www.womeninmedicinesummit.org/)
 
 ## Summer and Internship Programs
 
@@ -234,6 +243,7 @@ If you know of an organization that should be added to this list, please
 * [Blk + In Grad School](https://www.blkingradschool.com/)
 * [Cite Black Women](https://www.citeblackwomencollective.org/our-podcast.html)
 * [Conexiones: Historias de Latinos en STEM](https://www.stitcher.com/show/conexiones)
+- [The Curbsiders (Internal Medicine)](https://thecurbsiders.com/)
 * [Disability After Dark](https://www.stitcher.com/show/disabilityafterdark)
 * [Double Shelix](https://doubleshelix.podomatic.com/)
 * [Full Soul Nutrition](https://soundcloud.com/info-267334292)
@@ -249,9 +259,10 @@ If you know of an organization that should be added to this list, please
 * [The Research Her](https://theresearchher.com/category/podcast/)
 * [SciCurious Podcast](https://www.scicurious.co.uk/)
 * [She Too STEM](http://www.shetoostem.com/)
-* [STEM Equity Network](https://stemequitynetwork.com/)
 * [The Steministas](https://www.thesteministas.com/)
 * [STEM Diversity Podcast](https://www.stitcher.com/show/stem-diversity-podcast)
+* [STEM Equity Network](https://stemequitynetwork.com/)
+- [STEM Everyday](https://podbay.fm/p/stem-everyday)
 * [STEM Fatale Podcast](https://stemfatalepodcast.podbean.com/)
 * [STEMulating Conversations](http://stemulatingconvo.com/)
 * [Therapy for Black Girls](https://therapyforblackgirls.com/podcast/)
