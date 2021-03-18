@@ -1,3 +1,45 @@
+/* THRIVE Lifeline Custom CSS */
+
+/* 
+Main Hex Colors:
+#240C34
+#65427d
+#7B4D9E   
+#cfcbd1
+
+Colors We’ve used in gradients
+#5c3874  
+#74538d
+#7e6098
+#896ca3
+#8f73aa
+
+Colors We’ve used in backgrounds / secondary colors
+Gray:   #a5a29f    
+Gray:   #918e8b   
+Tan:    #ddd2bf  
+Blue:   #C3C9E9
+Purple: #ab8fc0   
+Yellow: #FDF89C   
+Teal:   #74aab3   
+Orange: #f1a685
+
+Fonts
+Rajdhani (Logo--THRIVE; Flyers; Training Materials)
+Kaushan Script (Logo--Lifeline; Flyers)
+League Spartan (Training material)
+Open Sans or PT Sans (Handbook; Partnership memos or outreach letters; 
+Training Materials)
+*/
+
+/* Change the fonts */
+@import url(https://fonts.googleapis.com/css?family=Open+Sans);
+h1, h2, h3 { 
+  font-family: 'Open Sans', sans-serif;
+}
+body { font-family: "Open Sans", "Helvetica", sans-serif; }
+
+
 /* Adjust values from Cosmo https://bootswatch.com/4/cosmo/bootstrap.css */
 
 .navbar {
@@ -9,7 +51,7 @@
 
 /* Whole document: */
 body{
-  font-family: Helvetica;
+  font-family: "Open Sans", Helvetica, sans-serif;
   font-size: 14pt;
 }
 /* Headers */
@@ -62,4 +104,81 @@ a:link {
 .nav-pills .show > .nav-link {
   color: #fff;
   background-color: #65427D;
+}
+
+div.footer a:link, fab:link { color: #65427D;}
+
+/* Dark Mode was #2B2B2B */
+@media (prefers-color-scheme: dark) {
+a:link {
+  color: #CA9BE9;
+}
+
+div.footer a:link { color: #CA9BE9;}
+div.footer a:visted { color: #CA9BE9;}
+div.footer a:hover { color: #fff;}
+div.footer a:tab { color: #fff;}
+div.footer a:focus { color: #fff;}
+
+/* Force Twitter because it's pulling the blue */
+fab-twitter { color: #CA9BE9;}
+
+body {
+    background-color: #1F222A;
+    color: white;
+}
+
+.list-group-item.active, .list-group-item.active:hover,
+.list-group-item.active:focus {
+  background-color: #CA9BE9;
+  color: #1F222A;
+}
+
+.btn-primary {
+  color: #fff;
+  background-color: #240C34;
+  border-color: #240C34;
+}
+
+.btn-primary.disabled, .btn-primary:disabled {
+  color: #fff;
+  background-color: #240C34;
+  border-color: #240C34;
+}
+
+.dropdown-item.active, .dropdown-item:active {
+  color: #fff;
+  text-decoration: none;
+  background-color: #240C34;
+}
+
+.dropdown-menu {
+  background-color: #1F222A;
+  color: #fff;
+}
+
+.dropdown-menu>li>a {
+    color: white;
+}
+
+.nav-pills .nav-link.active {
+  color: #fff;
+  background-color: #240C34;
+}
+.nav-pills .show > .nav-link {
+  color: #fff;
+  background-color: black;
+}
+.tocify-item {
+  color: #fff;
+  background-color: #1F222A;
+}
+.list-group-item-action:hover, .list-group-item-action:focus {
+  color: #fff;
+  background-color: #1F222A;
+}
+.list-group-item.active:active, .list-group-item.active:hover, .list-group-item.active:focus {
+  color: #1F222A;
+  background-color: white;
+}
 }

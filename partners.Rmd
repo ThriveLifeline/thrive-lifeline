@@ -26,7 +26,7 @@ We are pleased to announce our partnership with
 <center>
 <img src="images/partner-logos/oSTEM-Logo-Registered.png" 
 alt="The oSTEM logo." 
-style="width: 50%; height: 50%"/>
+style="width: 50%; height: 50%; background-color: white;"/>
 </center>
 
 Our second partner is [THRIVE Resources and Solutions](https://thriversolutions.org/)!
