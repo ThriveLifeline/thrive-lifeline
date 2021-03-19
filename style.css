@@ -211,6 +211,9 @@ table.dataTable.row-border tbody th, table.dataTable.row-border tbody td, table.
 label {
   color: white;
 }
+input{
+  color: black;
+}
 .dataTables_wrapper .dataTables_paginate .paginate_button {
     color: white !important;
 }
