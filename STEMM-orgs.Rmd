@@ -157,6 +157,7 @@ If you know of an organization that should be added to this list, please
 - [Sigma Pi Sigma (Physics Honor Society)](https://www.sigmapisigma.org/sigmapisigma)
 - [Sigma Xi (Scientific Research Honor Society)](https://www.sigmaxi.org/)
 - [Society for Applied Spectroscopy](https://www.s-a-s.org/)
+- [Society for Biomaterials](https://biomaterials.org/)
 - [Society for Developmental Biology](https://www.sdbonline.org/)
 - [Society for Industrial and Organizational Psychology (SIOP)](https://www.siop.org/)
 - [Society for Neuroscience](https://www.sfn.org/)
@@ -239,6 +240,7 @@ If you know of an organization that should be added to this list, please
 
 * [A OK](https://www.aokpod.com/)
 * [Assigned Scientist at Bachelor’s](https://asabpodcast.com/)
+* [Black Men in White Coats](https://www.blackmeninwhitecoats.org/bmwc-podcast/)
 * [Black Mental Matters](http://blackmentalmatters.com/podcasts/)
 * [Blk + In Grad School](https://www.blkingradschool.com/)
 * [Cite Black Women](https://www.citeblackwomencollective.org/our-podcast.html)
