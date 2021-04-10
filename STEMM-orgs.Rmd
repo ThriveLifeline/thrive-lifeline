@@ -221,6 +221,7 @@ If you know of an organization that should be added to this list, please
 - [SciComm Conference](http://www.scicommcon.org/)
 - [Skype a Scientist](https://www.skypeascientist.com/)
 - [Reclaiming STEM](https://twitter.com/Reclaiming_STEM)
+- [ComSciCon](https://comscicon.com/)
 
 ## Diversity Lists
 
@@ -233,6 +234,7 @@ If you know of an organization that should be added to this list, please
 - [DiverisfyImmunology](https://diversifyimmunology.github.io/)
 - [DiversifyMicrobiology](https://diversifymicrobiology.github.io/)
 - [DiversifyPlantSci](https://tinyurl.com/DiversifyPlantSci)
+- [Diversify STEM Conferences](https://dscnatl.org/)
 - [LGBT+ Physicists](https://lgbtphysicists.org/outlist.html)
 - [Respect Ability: LGBTQ+ People with Disabilities](https://www.respectability.org/resources/lgbtq/)
 
