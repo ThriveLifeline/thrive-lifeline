@@ -48,9 +48,11 @@ We have the following volunteer positions available:
    * Outreach Assistant: This volunteer will assist with outreach, sharing
    THRIVE Lifeline as a resource and broadening the impact of the hotline.
    * Social Media Team Members: This volunteer will assist our Outreach Coordinator
-   and social media team with pointing people to  THRIVE Lifeline in a manner 
+   and social media team with pointing people to THRIVE Lifeline in a manner 
    that uplifts marginalized identities.
       + We are especially seeking science communicators with Twitter experience.
+   * Data Scientist: This volunteer will assist with analyzing trends and 
+   generating reports from interaction data.
    
 <br>
 Ready to sign up? [**Apply Here**](https://form.jotform.com/201655418668059).
