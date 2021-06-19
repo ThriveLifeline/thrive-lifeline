@@ -1,292 +1,63 @@
 ---
 title: "STEMM Organizations"
-output:
-  html_document:
-    toc: true
-    toc_float: true
 ---
 
 This page contains links to various STEMM-related resources. 
 If you know of an organization that should be added to this list, please 
 [contact us](mailto:info@thrivelifeline.org).
 
-## Professional, Diversity, and STEMM Organizations
 
-- [African American Women in Physics](http://aawip.com/)
-- [Alpha Chi Sigma (AXS; Professional Chemistry Fraternity)](https://www.alphachisigma.org/)
-- [American Association for Anatomy](https://www.anatomy.org/)
-- [American Association for the Advancement of Science](https://www.aaas.org/)
-- [American Association of Physics Teachers](https://www.aapt.org/)
-- [American Astronomical Society (AAS)](https://aas.org/)
-- [American Chemical Society (ACS)](https://www.acs.org/content/acs/en.html)
-    - [Chemists with Disabilities](https://acsprof.org/subdivisions/chemists-with-disabilities/)
-    - [Gay and Transgender Chemists and Allies (GTCA)](https://acsprof.org/subdivisions/lgbt-and-allies/)
-    - [International Chemists](https://acsprof.org/subdivisions/international-chemists/)
-    - [Minority Affairs](https://acsprof.org/subdivisions/minority-affairs/)
-- [American Dental Association](https://www.ada.org/en)
-- [American Geophysical Union (AGU)](https://www.agu.org/)
-- [American Geosciences Institute (AGI)](https://www.americangeosciences.org/)
-- [American Indian Science and Engineering Society (AISES)](https://www.aises.org/)
-- [American Institute of Chemical Engineers (AIChE)](https://www.aiche.org/)
-- [American Institue of Physics](https://www.aip.org/)
-- [American Mathematical Society (AMS)](https://www.ams.org/home/page)
-- [American Medical Student Association (AMSA)](https://www.amsa.org/)
-- [American Medical Women's Association (AMWA)](https://www.amwa-doc.org/)
-- [American Meteorological Society](https://www.ametsoc.org/index.cfm/ams/)
-- [American Optometric Association](https://www.aoa.org/)
-- [American Optometric Student Association](https://theaosa.org/)
-- [American Pharmacists Association](https://www.pharmacist.com/)
-- [American Physical Society (APS)](https://www.aps.org/)
-    - [LGBT+ Physicists](https://www.aps.org/programs/lgbt/index.cfm)
-- [American Psychological Association (APA)](https://www.apa.org/)
-    - [Division 35: Society for the Psychology of Women](https://www.apa.org/about/division/div35)
-    - [Division 44: Society for the Psychology of Sexual Orientation and Gender Diversity](https://www.apadivisions.org/division-44)
-    - [Division 45: Society for the Psychological Study of Culture, Ethnicity and Race](https://www.apa.org/about/division/div45)
-- [American Student Dental Association (ASDA)](https://www.asdanet.org/)
-- [American Society for Cell Biology (ASCB)](https://www.ascb.org/)
-    -[LGBTQ+ Cell Biologists](https://www.ascb.org/committee/lgbtq-task-force/)
-- [American Society for Engineering Education](https://www.asee.org/)
-- [American Society for Engineering Management](https://asem.org/)
-- [American Society for Microbiology (ASM)](https://asm.org/)
-- [American Society of Addiction Medicine (ASAM)](https://www.asam.org/)
-- [American Society of Human Genetics](https://www.ashg.org/)
-- [American Society of Mammalogists](https://www.mammalsociety.org/)
-    - [Human Diversity Commitee](https://www.mammalsociety.org/committees/human-diversity)
-- [American Society of Plant Biologists](https://aspb.org/)
-- [American Speech-Language-Hearing Association](https://www.asha.org/)
-- [American Student Dental Association (ASDA)](https://www.asdanet.org/)
-- [American Vacuum Society](https://avs.org/)
-- [American Veterinary Medical Association](https://www.avma.org/)
-- [Asian Americans and Pacific Islanders in Geosciences](https://www.aapigeosci.org/)
-- [Association for Computing Machinery (ACM)](https://www.acm.org/)
-- [Association for Psychological Science](https://www.psychologicalscience.org/)
-- [Association for Public Policy Analysis & Management (APPAM)](https://www.appam.org/)
-- [Association for the Advancement of Artificial Intelligence](https://www.aaai.org/)
-- [Association for Women Geoscientists (AWG)](https://www.awg.org/)
-- [Association for Women in Mathematics (AWM)](https://awm-math.org/)
-- [Association for Women in Science (AWIS)](https://www.awis.org/)
-- [Association of American Indian Physicians (AAIP)](https://www.aaip.org/)
-- [Association of Black Psychologists](https://abpsi.org/)
-- [Association of Black Women Physicians](https://www.blackwomenphysicians.org/)
-- [Association of Out Surgeons and Allies](https://www.outsurgeons.org/)
-- [Beta Beta Beta (TriBeta; National Biological Honor Society)](https://www.tribeta.org/)
-- [Biochemical Society](https://www.biochemistry.org/)
-- [Black Doctoral Network (BDN)](https://www.blackphdnetwork.com/)
-- [Black Girls Code](https://www.blackgirlscode.com/)
-- [Black in AI](https://blackinai.github.io/#/)
-- [Black in Cancer](https://www.blackincancer.com)
-- [Black in Cardio](https://blackincardio.com/)
-- [Black in Chem](https://www.blackinchem.com/)
-- [Black in CMD Bio](https://www.blackincmdbio.com/)
-- [Black in Computing](https://blackincomputing.org/)
-- [Black in Data](https://blkindata.github.io/)
-- [Black in Engineering](https://blackinengineering.org/)
-- [Black in Genetics](https://www.blackingenetics.com/)
-- [Black in Geoscience](https://blackingeoscience.org/)
-- [Black in Gerontology & Geriatrics](https://blackingeron.org/)
-- [Black in Marine Science](https://blackinmarsci.github.io/)
-- [Black in Microbiology](https://blackinmicrobiology.org/)
-- [Black in Neuro](https://www.blackinneuro.com/)
-- [Black in Physics](https://www.blackinphysics.org/)
-- [Black in Physiology](https://blackinphysiology.com/)
-- [Black in Robotics](https://blackinrobotics.org/)
-- [Black in Science Communication](https://www.blackinscicomm.com/)
-- [Black in Stem Education](http://www.blackinstemed.org/)
-- [Black in the Ivory](https://blackintheivory.net/)
-- [Black Mammalogists](https://blackmammalogists.com/)
-- [Black Mental Health Alliance](https://blackmentalhealth.com/)
-- [Black Women in AI](https://www.blackwomeninai.com/)
-- [Black Women in Technology](https://blackwomenintech.com/)
-- [Boricua Planeteers](https://planettreky.com/boricua-planeteers/)
-- [CASSS - Sharing Science Solutions](https://www.casss.org/)
-- [Chemical Institute of Canada (CIC)](https://www.cheminst.ca/)
-- [Chinese Institute of Engineers](http://www.cie-usa.org/)
-- [Ciencia Puerto Rico](https://www.cienciapr.org/en/)
-- [Científico Latino](https://www.cientificolatino.com/)
-- [Color Outside](https://coloroutside.org/)
-- [Council on Undergraduate Research](https://www.cur.org/)
-- [Diversify Outdoors](https://www.diversifyoutdoors.com/)
-- [Ecological Society of America](https://www.esa.org/)
-- [Entomological Society of America](https://www.entsoc.org/)
-- [Fat Girls Hiking](https://fatgirlshiking.com/)
-- [Federation of American Societies for Experimental Biology](https://www.faseb.org/)
-- [GeoLatinas](https://geolatinas.weebly.com/)
-- [GLMA (Health Professionals Advancing LGBTQ Equality)](http://www.glma.org/)
-- [IEEE Computer Society](https://www.computer.org/)
-- [Infectious Diseases Society of America (IDSA)](https://www.idsociety.org/)
-- [INFORMS (Institute for Operations Research and the Management Sciences)](https://www.informs.org/)
-- [International Association for Geoscience Diversity](https://theiagd.org/)
-- [International Society of Nonbinary Scientists](https://isnbs.org/)
-- [Iota Sigma Pi (National Honor Society for Women in Chemistry)](https://www.iotasigmapi.org/)
-- [Latinas in STEM](http://www.latinasinstem.com/)
-- [Latino Surgical Society](https://www.latinosurgicalsociety.org/)
-- [LatinxHikers](https://www.latinxhikers.com/)
-- [LGBTAstro](https://twitter.com/lgbtastro)
-- [Materials Research Society](https://www.mrs.org/)
-- [National Action Council for Minorities in Engineering (NACME)](https://www.nacme.org/)
-- [National Association of Biology Teachers](https://nabt.org/)
-- [National Association of Black Geoscientists (NABG)](http://www.nabg-us.org/)
-- [National Association of Mathematicians (NAM)](https://www.nam-math.org/)
-- [National Association of Medical Minority Educators](https://nammenational.org/)
-- [National Association of Research in Science Teaching (NARST)](https://narst.org/)
-- [National Black Nurses Association, Inc. (NBNA)](https://www.nbna.org/)
-- [National Council of Asian Pacific Islander Physicians](http://ncapip.org/)
-- [National Hispanic Medical Association (NHMA)](https://www.nhmamd.org/)
-- [National Hispanic Science Network](https://www.the-nhsn.org/)
-- [National Medical Association](https://www.nmanet.org/default.aspx)
-- [National Postdoctoral Association](https://www.nationalpostdoc.org/)
-- [National Science Policy Network](https://scipolnetwork.org/)
-- [National Science Teaching Association](https://www.nsta.org/)
-- [National Society of Black Engineers (NSBE)](https://www.nsbe.org/home.aspx)
-- [National Society of Black Physicists (NSBP)](https://nsbp.org/?)
-- [NOBCChE (National Organization for the Professional Advancement of Black Chemists and Chemical Engineers)](https://www.nobcche.org/)
-- [NOGLSTP (National Organization of Gay and Lesbian Scientists and Technical Professionals)](https://www.noglstp.org)
-- [oSTEM (Out in Science, Technology, Engineering, and Mathematics)](https://www.ostem.org/)
-    - [Affinity and Working Groups](https://www.ostem.org/page/affinity-groups):
-    Affinity (community support) groups include: Ace/Aro, (Dis)Ability, InQUEERy,
-    Middle Sexualities, Race and Ethnicity, Trans and Non-Binary, and Womxn.
-    Working Groups include: (Dis)Ability, Beyond the Binary Working Group, and
-    Black and Queer Working Group.
-- [Outdoor Afro](https://outdoorafro.com/)
-- [Outdoor Asian](https://www.outdoorasian.com/)
-- [Phi Delta Epsilon Medical Fraternity](https://phide.org/)
-- [Psi Chi (Psychology Honor Society)](https://www.psichi.org/)
-- [Queer in AI](https://sites.google.com/view/queer-in-ai/home)
-- [Queer Engineers](https://twitter.com/QueerEngineers)
-- [Queer Nature](https://www.queernature.org/)
-- [R Community Diversity and Inclusion Working Group](https://github.com/RConsortium/RCDI-WG/tree/master)
-- [R-Ladies Global](https://rladies.org/)
-- [Royal Society of Chemistry (RSC)](https://www.rsc.org/membership-and-community/)
-- [SACNAS (Society for Advancement of Chicanos/Hispanics and Native Americans in Science)](https://www.sacnas.org/)
-- [Sigma Pi Sigma (Physics Honor Society)](https://www.sigmapisigma.org/sigmapisigma)
-- [Sigma Xi (Scientific Research Honor Society)](https://www.sigmaxi.org/)
-- [Society for Applied Spectroscopy](https://www.s-a-s.org/)
-- [Society for Biomaterials](https://biomaterials.org/)
-- [Society for Developmental Biology](https://www.sdbonline.org/)
-- [Society for Industrial and Organizational Psychology (SIOP)](https://www.siop.org/)
-- [Society for Neuroscience](https://www.sfn.org/)
-- [Society for the Study of Reproduction](https://www.ssr.org/home)
-- [Society of Asian Academic Surgeons (SAAS)](https://www.asiansurgeon.org/)
-- [Society of Asian Scientists and Engineers (SASE)](https://www.saseconnect.org/)
-- [Society of Black Academic Surgeons (SBAS)](https://www.sbas.net/)
-- [Society of Hispanic Professional Engineers (SHPE)](https://www.shpe.org/)
-- [Society of Mexican American Engineers and Scientists (Latinos in Science and Engineering) (MAES)](https://mymaes.org/)
-- [Society of Physics Students](https://www.spsnational.org/)
-- [Society of Women Engineers](https://swe.org/)
-- [Society of Women in Space Exploration](https://www.swise.org/)
-- [SOLESS (Society of Latinxs/Hispanics in Earth and Space Science)](https://ciresdiversity.colorado.edu/soless)
-- [Student Osteopathic Medical Association (SOMA)](https://studentdo.org/)
-- [The Electrochemical Society](https://www.electrochem.org/)
-- [Women in Cognitive Science](http://womenincogsci.org/)
-- [Women in Medicine](https://womeninmedicine.org/)
-- [Women of Color Research Network (WoCRN)](https://womeninscience.nih.gov/women-of-color/)
+Note: Keywords are under development!
 
-### LGBTQ+ STEM Organizations Abroad
+- **Keywords**: AAPI, artificial intelligence, astronomy, audiology, biology, 
+Black, chemistry, computing, data science, dentistry, disability, diversity, 
+ecology, education, engineering, geoscience, honors, Indigenous, international, 
+Latinx, LGBTQ, materials, math, medicine, mental health, meteorology, 
+neuroscience, nursing, optometry, pharmacy, physics, policy, psychology, 
+religion, robotics, science communication, science, students, technology, 
+veterinary
+- **Types**: Organization, LGBTQ+ Abroad, Conferences, Internships, Online, 
+SciComm, DiversityList, Podcast, Blog 
 
-- [EngiQueers Canada](https://www.engiqueers.ca/)
-- [House of STEM](https://houseofstem.org/)
-- [InterEngineering](https://interengineeringlgbt.com/)
-- [LGBT+ Physics](https://twitter.com/lgbt_physics?lang=en)
-- [LGBTQ STEM](https://lgbtstem.wordpress.com/)
-- [LGBTQ STEM Berlin](https://www.facebook.com/lgbtqstemberlin)
-- [Pride in STEM](https://prideinstem.org/)
-- [Queers in Science](https://www.queersinscience.org.au/)
-- [Queers in STEM](https://twitter.com/QueersInSTEM)
-- [The STEM Village](https://thestemvillage.co.uk/)
+```{r, include=FALSE}
+library(tidyverse)
+library(DT)
+```
 
-### Relevant Conferences and Summits
+```{r, echo=FALSE, message=FALSE}
+## Load resource list
+## Note: If you encounter issues with characters, try resaving the
+## CSV as a UTF-8 CSV. Excel... does not like interpreting as UTF-8
+data <- read_csv("stemm_orgs.csv", comment = "#")
 
-- [Annual Biomedical Research Conference for Minority Students (ABRCMS)](https://www.abrcms.org/)
-- [LGBTQ+STEM](https://lgbtqplusstem.ca/)
-- [Lesbians Who Tech](https://lesbianswhotech.org/about/)
-- [LOGIC Retreat](https://cwicnetwork.com/logic-retreat/)
-- [Out For Undergrad](https://www.outforundergrad.org/)
-- [STEMNoire](https://www.stemnoire.org/)
-- [TransTech](https://www.transtechsocial.org/)
-- [Women in Medicine Summit](https://www.womeninmedicinesummit.org/)
+## Make website a hyperlink
+data$Website <- paste0("<a href='",data$Website,"' target='_blank'>",data$Website,"</a>")
 
-## Summer and Internship Programs
+## Need to keep 1st column when doing buttons so the CSV renders properly
+datatable(data,
+    rownames=FALSE,
+    escape = FALSE,
+    extensions = c('Responsive', 'Buttons', 'SearchBuilder'), 
+    options = list(
+    dom = 'QBfrtip',
+##    buttons = c('copy', 'csv', 'excel', 'pdf', 'print')),
+    buttons = list(
+      'copy', 'csv', 'excel',
+      list(extend = 'pdf', 
+           orientation = 'landscape',
+           exportoptions=list(pageSize='A3',
+           customize = JS("function(doc){doc.styles.tableHeader.color='purple';}")
+                )),
+      'print')
+))
+```
 
-- [Abolitionist Youth Organizing Institute (AYO, NYC!)](https://airtable.com/shr2DM7oXDTaAIRIZ)
-- [Banneker Institute (astronomy)](https://bannekerinstitute.fas.harvard.edu/)
-- [NIH Summer Institute Program in Biomedical Research (SIP)](https://www.training.nih.gov/programs/sip)
-
-## Online Communities and Resource Groups
-
-- [We Rep STEM](https://werepstem.com/)
-- [Trans in STEM](https://twitter.com/stemtrans)
-- [PhD Balance](https://www.phdbalance.com/)
-- [National Mentoring Resource Center](https://nationalmentoringresourcecenter.org/index.php)
-
-## Science Communication Organizations/Programs/Workshops
-
-- [Inclusive SciComm Symposium](https://inclusivescicomm.org/)
-- [Letters to a Pre-Scientist](https://www.prescientist.org/)
-- [Project Biodiversify](https://projectbiodiversify.org/)
-- [SciComm Conference](http://www.scicommcon.org/)
-- [Skype a Scientist](https://www.skypeascientist.com/)
-- [Reclaiming STEM](https://twitter.com/Reclaiming_STEM)
-- [ComSciCon](https://comscicon.com/)
-
-## Diversity Lists
-
-- [500 Queer Scientists](https://500queerscientists.com/)
-- [500 Women Scientists](https://500womenscientists.org/)
-- [Astronomy and Astrophysics Outlist](https://astro-outlist.github.io/)
-- [Diverse Geologists](https://www.diversegeologists.org/)
-- [Diversify Chemistry](https://diversifychemistry.com/)
-- [DiversifyEEB (Ecologists and Evolutionary Biologists)](https://diversifyeeb.com/)
-- [DiverisfyImmunology](https://diversifyimmunology.github.io/)
-- [DiversifyMicrobiology](https://diversifymicrobiology.github.io/)
-- [DiversifyPlantSci](https://tinyurl.com/DiversifyPlantSci)
-- [Diversify STEM Conferences](https://dscnatl.org/)
-- [LGBT+ Physicists](https://lgbtphysicists.org/outlist.html)
-- [Respect Ability: LGBTQ+ People with Disabilities](https://www.respectability.org/resources/lgbtq/)
-
-## Podcasts
-
-* [A OK](https://www.aokpod.com/)
-* [Assigned Scientist at Bachelor’s](https://asabpodcast.com/)
-* [Black Men in White Coats](https://www.blackmeninwhitecoats.org/bmwc-podcast/)
-* [Black Mental Matters](http://blackmentalmatters.com/podcasts/)
-* [Blk + In Grad School](https://www.blkingradschool.com/)
-* [Cite Black Women](https://www.citeblackwomencollective.org/our-podcast.html)
-* [Conexiones: Historias de Latinos en STEM](https://www.stitcher.com/show/conexiones)
-- [The Curbsiders (Internal Medicine)](https://thecurbsiders.com/)
-* [Disability After Dark](https://www.stitcher.com/show/disabilityafterdark)
-* [Double Shelix](https://doubleshelix.podomatic.com/)
-* [Full Soul Nutrition](https://soundcloud.com/info-267334292)
-* [Her STEM Story](https://herstemstory.com/)
-* [How to Be a STEMinist](https://podcast.tiffanydawson.co/)
-* [I Don't Do Budgets](https://www.idontdobudgets.com/)
-* [Inside the Match](https://anchor.fm/simone-a-bernstein)
-* [LGBTQ+ STEM Cast](https://anchor.fm/lgbtqstemcast)
-* [MannMukti](https://www.mannmukti.org/podcasts)
-* [Mental Matters Podcast](http://www.mentalmatterspod.com/)
-* [My Fave Queer Chemist](https://www.stitcher.com/show/my-fave-queer-chemist/)
-* [Ologies](https://www.alieward.com/ologies)
-* [Queer STEM History](https://player.whooshkaa.com/shows/queer-stem-history)
-* [The Research Her](https://theresearchher.com/category/podcast/)
-* [SciCurious Podcast](https://www.scicurious.co.uk/)
-* [She Too STEM](http://www.shetoostem.com/)
-* [The Steministas](https://www.thesteministas.com/)
-* [STEM Diversity Podcast](https://www.stitcher.com/show/stem-diversity-podcast)
-* [STEM Equity Network](https://stemequitynetwork.com/)
-- [STEM Everyday](https://podbay.fm/p/stem-everyday)
-* [STEM Fatale Podcast](https://stemfatalepodcast.podbean.com/)
-* [STEMulating Conversations](http://stemulatingconvo.com/)
-* [Therapy for Black Girls](https://therapyforblackgirls.com/podcast/)
-* [The Science of Happiness](https://greatergood.berkeley.edu/podcasts/series/the_science_of_happiness)
-* [The They/Them Podcast](https://theythempodcast.com/episodes)
-* [Two Scientists Walk Into a Bar](https://www.gene.com/stories/two-scientists-walk-into-a-bar)
-* [Two Spirit Talks](https://soundcloud.com/user-511812427)
-* [Yass, Jesus](https://www.yassjesuspod.com/)
-
-## Blogs
-
-- [Asexual Agenda](https://asexualagenda.wordpress.com/)
-- [Astronomy in Color](https://astronomyincolor.blogspot.com/)
-- [Autistic Hoya](https://www.autistichoya.com/)
-- [Neuroqueer](http://neuroqueer.blogspot.com/)
-- [Real Social Skills](https://www.realsocialskills.org/)
-- [Yes, That Too](http://yesthattoo.blogspot.com/)
+## Disclaimer
+This website offers resources and information, and is designed for educational
+purposes only.
+The T.H.R.I.V.E. website may contain links to external websites that are not
+provided or maintained by or in any way affiliated with T.H.R.I.V.E.
+Please note we don't guarantee the accuracy, relevance, timeliness, or
+completeness of any information on these websites.
+You should not rely on this information as a substitute for, nor does it
+replace, professional medical advice, diagnosis or treatment.
