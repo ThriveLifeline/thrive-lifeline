@@ -6,7 +6,7 @@ title: "Crisis Resources"
 education, end-of-life, food, funding, gender identity, general, grief, health, 
 housing, hotline, Indigenous, Latinx, legal, LGBTQ, mental health, mentoring, 
 parent, religion, STEMM, support, under 18, veteran
-- **Region/Languages**: UK, international, Español
+- **Region/Languages**: UK, Canada, international, Español
 
 ```{r, include=FALSE}
 library(tidyverse)

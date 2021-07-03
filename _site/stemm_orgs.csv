@@ -2,10 +2,15 @@
 Organization,Acronym,Website,Keywords,Type
 African American Women in Physics,AAWIP,http://aawip.com/,"physics, Black, women",Organization
 Alpha Chi Sigma,AXS,https://www.alphachisigma.org/,chemistry,Organization
+Alpha Omega Alpha,AOA,https://www.alphaomegaalpha.org/,"medicine, honors",Organization
+American Academy of Family Physicians,AAFP,https://www.aafp.org/home.html,medicine,Organization
 American Academy of Osteopathy,AAO,https://www.academyofosteopathy.org/,medicine,Organization
+American Academy of Pediatrics,AAP,https://www.aap.org/en-us/Pages/Default.aspx,medicine,Organization
 American Association for Anatomy,AAA,https://www.anatomy.org/,medicine,Organization
 American Association for the Advancement of Science,AAAS,https://www.aaas.org/,science,Organization
 American Association of Black Physician Scientists,AABPS,https://www.aablackps.org/,"medicine, Black",Organization
+American Association of Physical Anthropologists,AAPA,https://physanth.org/,anthroplogy,Organization
+gAyAPA - Queer Bioanth,,https://queerbioanth.org/,"anthrophology, LGBTQ",Organization
 American Association of Physics Teachers,AAPT,https://www.aapt.org/,"physics, education",Organization
 American Astronomical Society,AAS,https://aas.org/,astronomy,Organization
 American Chemical Society,ACS,https://www.acs.org/content/acs/en.html,chemistry,Organization
@@ -17,6 +22,7 @@ American College of Osteopathic Family Physicians,ACOFP,https://www.acofp.org/ac
 American College of Osteopathic Obstetricians and Gynecologists,ACOOG,https://www.acoog.org/,medicine,Organization
 American College of Osteopathic Pediatricians,ACOP,https://acopeds.org/,medicine,Organization
 American College of Osteopathic Surgeons,ACOS,https://www.facos.org/,medicine,Organization
+American College of Surgeons,,https://www.facs.org/,medicine,Organization
 American Dental Association,ADA,https://www.ada.org/en,dentistry,Organization
 American Geophysical Union,AGU,https://www.agu.org/,geoscience,Organization
 American Geosciences Institute,AGI,https://www.americangeosciences.org/,geoscience,Organization
@@ -63,6 +69,7 @@ Association for Women Geoscientists,AWG,https://www.awg.org/,"geoscience, women"
 Association for Women in Mathematics,AWM,https://awm-math.org/,"math, women",Organization
 Association for Women in Science,AWIS,https://www.awis.org/,"science, women",Organization
 Association of American Indian Physicians,AAIP,https://www.aaip.org/,"medicine, Indigenous",Organization
+Association of American Medical Colleges,AAMC,https://www.aamc.org/,medicine,Organization
 Association of Black Psychologists,ABPSI,https://abpsi.org/,"psychology, Black",Organization
 Association of Black Women Physicians,ABWP,https://www.blackwomenphysicians.org/,"medicine, Black, women",Organization
 Association of LGBTQ+ Psychiatrists,AGLP,http://www.aglp.org/,"medicine, psychology, LGBTQ",Organization
@@ -106,6 +113,7 @@ Color Outside,,https://coloroutside.org/,,Organization
 Council on Undergraduate Research,,https://www.cur.org/,,Organization
 Diversify Outdoors,,https://www.diversifyoutdoors.com/,,Organization
 Ecological Society of America,,https://www.esa.org/,ecology,Organization
+Endocrine Society,,https://www.endocrine.org/,medicine,Organization
 Entomological Society of America,,https://www.entsoc.org/,,Organization
 Fat Girls Hiking,,https://fatgirlshiking.com/,,Organization
 Federation of American Societies for Experimental Biology,,https://www.faseb.org/,,Organization
@@ -128,6 +136,7 @@ LGBTAstro,,https://twitter.com/lgbtastro,"astronomy, LGBTQ",Organization
 Materials Research Society,,https://www.mrs.org/,materials,Organization
 Medical Students for Choice,,https://msfc.org/,"medicine, students",Organization
 Medical Student Pride Alliance,,https://www.medpride.org/,"medicine, LGBTQ, students",Organization
+Mentoring Physical Oceanography Women to Increase Retention,MPOWIR,https://mpowir.org/,"oceanography, women",Organization
 National Action Council for Minorities in Engineering,NACME,https://www.nacme.org/,,Organization
 National Association of Biology Teachers,NABT,https://nabt.org/,"biology, education",Organization
 National Association of Black Geoscientists,NABG,http://www.nabg-us.org/,"geoscience, Black",Organization
@@ -136,9 +145,10 @@ National Association of Medical Minority Educators,,https://nammenational.org/,,
 National Association of Research in Science Teaching,NARST,https://narst.org,,Organization
 "National Black Nurses Association, Inc.",NBNA,https://www.nbna.org/,"nursing, Black",Organization
 National Council of Asian Pacific Islander Physicians,NCAPIP,http://ncapip.org/,"medicine, AAPI",Organization
+National Dental Association,NDA,https://ndaonline.org/,"dentistry, PoC",Organization
 National Hispanic Medical Association,NHMA,https://www.nhmamd.org/,,Organization
 National Hispanic Science Network,NHSN,https://www.the-nhsn.org/,,Organization
-National Medical Association,,https://www.nmanet.org/default.aspx,medicine,Organization
+National Medical Association,,https://www.nmanet.org/default.aspx,"medicine, Black",Organization
 National Postdoctoral Association,,https://www.nationalpostdoc.org/,,Organization
 National Science Policy Network,,https://scipolnetwork.org/,"science, policy",Organization
 National Science Teaching Association,,https://www.nsta.org/,"science, education",Organization
@@ -183,6 +193,7 @@ Soil Science Society of America,SSSA,https://www.soils.org/,agronomy,Organizatio
 Student National Medical Association,SNMA,https://snma.org/,"medicine, students",Organization
 Student Osteopathic Medical Association,SOMA,https://studentdo.org/,"medicine, students",Organization
 The Electrochemical Society,,https://www.electrochem.org/,,Organization
+The Oceanography Society,TOS,https://tos.org/,oceanography,Organization
 White Coats for Black Lives,,https://whitecoats4blacklives.org/,"medicine, Black",Organization
 Women in Cognitive Science,,http://womenincogsci.org/,"neuroscience, psychology, women",Organization
 Women in Medicine,,https://womeninmedicine.org/,"medicine, women",Organization
