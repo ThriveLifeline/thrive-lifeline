@@ -11,11 +11,11 @@ Note: Keywords are under development!
 
 - **Keywords**: AAPI, artificial intelligence, astronomy, audiology, biology, 
 Black, chemistry, computing, data science, dentistry, disability, diversity, 
-ecology, education, engineering, geoscience, honors, Indigenous, international, 
-Latinx, LGBTQ, materials, math, medicine, mental health, meteorology, 
-neuroscience, nursing, optometry, pharmacy, physics, PoC, policy, psychology, 
-religion, robotics, science communication, science, students, technology, 
-veterinary
+ecology, education, engineering, geoscience, Hispanic, honors, Indigenous, 
+international, Latinx, LGBTQ, materials, math, medicine, mental health, 
+meteorology, nature, neuroscience, nursing, optometry, pharmacy, physics, PoC, 
+policy, post-doc, psychology, religion, research, robotics, 
+science communication, science, students, technology, veterinary
 - **Types**: Organization, LGBTQ+ Abroad, Conferences, Internships, Online, 
 SciComm, DiversityList, Podcast, Blog 
 

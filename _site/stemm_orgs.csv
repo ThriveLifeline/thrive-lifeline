@@ -1,4 +1,5 @@
 ﻿# Comments start with a hashtag because of how CSV is read,,,,
+# Latinx Dermatologist Directory,,,,
 Organization,Acronym,Website,Keywords,Type
 African American Women in Physics,AAWIP,http://aawip.com/,"physics, Black, women",Organization
 Alpha Chi Sigma,AXS,https://www.alphachisigma.org/,chemistry,Organization
@@ -9,6 +10,7 @@ American Academy of Pediatrics,AAP,https://www.aap.org/en-us/Pages/Default.aspx,
 American Association for Anatomy,AAA,https://www.anatomy.org/,medicine,Organization
 American Association for the Advancement of Science,AAAS,https://www.aaas.org/,science,Organization
 American Association of Black Physician Scientists,AABPS,https://www.aablackps.org/,"medicine, Black",Organization
+American Association of Neurological Surgeons,AANS,https://www.aans.org/,"medicine, neuroscience",Organization
 American Association of Physical Anthropologists,AAPA,https://physanth.org/,anthroplogy,Organization
 gAyAPA - Queer Bioanth,,https://queerbioanth.org/,"anthrophology, LGBTQ",Organization
 American Association of Physics Teachers,AAPT,https://www.aapt.org/,"physics, education",Organization
@@ -18,6 +20,7 @@ ACS Chemists with Disabilities,,https://acsprof.org/subdivisions/chemists-with-d
 ACS Gay and Transgender Chemists and Allies,GTCA,https://acsprof.org/subdivisions/lgbt-and-allies/,"chemistry, LGBTQ",Organization
 ACS International Chemists,,https://acsprof.org/subdivisions/international-chemists/,"chemistry, international",Organization
 ACS Minority Affairs,,https://acsprof.org/subdivisions/minority-affairs/,"chemistry, diversity",Organization
+American College of Neuropsychopharmacology,ACNP,https://acnp.org/,"medicine, neuroscience, psychology",Organization
 American College of Osteopathic Family Physicians,ACOFP,https://www.acofp.org/acofpimis/acofporg/,medicine,Organization
 American College of Osteopathic Obstetricians and Gynecologists,ACOOG,https://www.acoog.org/,medicine,Organization
 American College of Osteopathic Pediatricians,ACOP,https://acopeds.org/,medicine,Organization
@@ -51,6 +54,7 @@ American Society for Engineering Management,ASEM,https://asem.org/,engineering,O
 American Society for Microbiology,ASM,https://asm.org/,biology,Organization
 American Society of Addiction Medicine,ASAM,https://www.asam.org/,medicine,Organization
 American Society of Agronomy,ASA,https://www.agronomy.org/,agronomy,Organization
+American Society of Black Neurosurgeons,ASBN,https://twitter.com/amsobns,"Black, medicine, neuroscience",Organization
 American Society of Human Genetics,ASHG,https://www.ashg.org/,biology,Organization
 American Society of Mammalogists,ASM,https://www.mammalsociety.org/,biology,Organization
 ASM Human Diversity Committee,,https://www.mammalsociety.org/committees/human-diversity,"biology, diversity",Organization
@@ -61,6 +65,7 @@ American Student Dental Association,ASDA,https://www.asdanet.org/,"dentistry, st
 American Vacuum Society,AVS,https://avs.org/,materials,Organization
 American Veterinary Medical Association,AVMA,https://www.avma.org/,veterinary,Organization
 Asian Americans and Pacific Islanders in Geosciences,AAPIiG,https://www.aapigeosci.org/,"geoscience, AAPI",Organization
+Asian American Psychological Association,AAPA,https://aapaonline.org/,"AAPI, psychology",Organization
 Association for Computing Machinery,ACM,https://www.acm.org/,computing,Organization
 Association for Psychological Science,APS,https://www.psychologicalscience.org/,psychology,Organization
 Association for Public Policy Analysis & Management,APPAM,https://www.appam.org/,policy,Organization
@@ -79,6 +84,7 @@ Biochemical Society,,https://www.biochemistry.org/,"biology, chemistry",Organiza
 Black Doctoral Network,BDN,https://www.blackphdnetwork.com/,Black,Organization
 Black Girls Code,BGC,https://www.blackgirlscode.com/,"Black, women, computing, technology",Organization
 Black in AI,,https://blackinai.github.io/,"artificial intelligence, Black",Organization
+Black in Astro,,https://www.blackinastro.com/,"Black, astronomy",Organization
 Black in Cancer,,https://www.blackincancer.com,"biology, Black",Organization
 Black in Cardio,,https://blackincardio.com/,"medicine, Black",Organization
 Black in Chem,,https://www.blackinchem.com/,"chemistry, Black",Organization
@@ -103,53 +109,63 @@ Black Mammalogists,,https://blackmammalogists.com/,"biology, Black",Organization
 Black Mental Health Alliance,,https://blackmentalhealth.com/,"psychology, Black, mental health",Organization
 Black Women in AI,,https://www.blackwomeninai.com/,"artificial intelligence, Black, women",Organization
 Black Women in Technology,,https://blackwomenintech.com/,"technology, Black, women",Organization
-Boricua Planeteers,,https://planettreky.com/boricua-planeteers/,,Organization
-CASSS - Sharing Science Solutions,,https://www.casss.org/,,Organization
-Chemical Institute of Canada,CIC,https://www.cheminst.ca/,,Organization
-Chinese Institute of Engineers,,http://www.cie-usa.org/,,Organization
+Boricua Planeteers,,https://planettreky.com/boricua-planeteers/,nature,Organization
+CASSS - Sharing Science Solutions,,https://www.casss.org/,science,Organization
+Chemical Institute of Canada,CIC,https://www.cheminst.ca/,chemistry,Organization
+Chinese Institute of Engineers,,http://www.cie-usa.org/,"engineering, AAPI",Organization
 Ciencia Puerto Rico,,https://www.cienciapr.org/en/,,Organization
-Científico Latino,,https://www.cientificolatino.com/,,Organization
+Científico Latino,,https://www.cientificolatino.com/,"Latinx, science",Organization
 Color Outside,,https://coloroutside.org/,,Organization
-Council on Undergraduate Research,,https://www.cur.org/,,Organization
-Diversify Outdoors,,https://www.diversifyoutdoors.com/,,Organization
+Council on Undergraduate Research,,https://www.cur.org/,research,Organization
+Diversify Outdoors,,https://www.diversifyoutdoors.com/,nature,Organization
 Ecological Society of America,,https://www.esa.org/,ecology,Organization
 Endocrine Society,,https://www.endocrine.org/,medicine,Organization
-Entomological Society of America,,https://www.entsoc.org/,,Organization
-Fat Girls Hiking,,https://fatgirlshiking.com/,,Organization
-Federation of American Societies for Experimental Biology,,https://www.faseb.org/,,Organization
+Entomologists of Color,EntoPOC,https://www.entopoc.org/,"biology, PoC",Organization
+Entomological Society of America,ESA,https://www.entsoc.org/,biology,Organization
+Fat Girls Hiking,,https://fatgirlshiking.com/,"nature, women",Organization
+Federation of American Societies for Experimental Biology,,https://www.faseb.org/,biology,Organization
 GeoLatinas,,https://geolatinas.weebly.com/,"geoscience, women, Latinx",Organization
 Geological Society of America,GSA,https://www.geosociety.org/,geoscience,Organization
 Health Professionals Advancing LGBTQ Equality,GLMA,http://www.glma.org/,"medicine, LGBTQ",Organization
 Institute of Electrical and Electronics Engineers,IEEE,https://www.ieee.org/,engineering,Organization
-IEEE Computer Society,,https://www.computer.org/,,Organization
-Infectious Diseases Society of America,IDSA,https://www.idsociety.org/,,Organization
-Institute for Operations Research and the Management Sciences,INFORMS,https://www.informs.org/,,Organization
-International Association for Geoscience Diversity,IAGD,https://theiagd.org/,,Organization
-International Society of Nonbinary Scientists,ISNBS,https://isnbs.org/,,Organization
+IEEE Computer Society,,https://www.computer.org/,engineering,Organization
+Infectious Diseases Society of America,IDSA,https://www.idsociety.org/,medicine,Organization
+Institute for Operations Research and the Management Sciences,INFORMS,https://www.informs.org/,research,Organization
+International Association for Geoscience Diversity,IAGD,https://theiagd.org/,"international, science",Organization
+International Society of Nonbinary Scientists,ISNBS,https://isnbs.org/,"LGBTQ, international, science",Organization
 Iota Sigma Pi,,https://www.iotasigmapi.org/,"chemistry, women, honors",Organization
-Japanese Medical Society of America,,https://www.jmsa.org/,,Organization
+Japanese Medical Society of America,,https://www.jmsa.org/,"AAPI, medicine",Organization
+Latinas in EM,,https://twitter.com/latinasinem,"Latinx, women, medicine",Organization
 Latinas in STEM,,http://www.latinasinstem.com/,"Latinx, women",Organization
+Latinas in Tech,,https://latinasintech.org/,"Latinx, women, technology",Organization
 Latino Medical Student Association,LMSA,https://national.lmsa.net/,"medicine, Latinx, students",Organization
+Latino Nurses Network,,https://www.latinonursesnetwork.org/,"Latinx, nursing",Organization
+LatinoOphtho,,https://twitter.com/LatinoOphtho,"Latinx, medicine",Organization
+Latinos in Anesthesiology,,https://twitter.com/Latinos_Anest,"Latinx, medicine",Organization
 Latino Surgical Society,,https://www.latinosurgicalsociety.org/,"medicine, Latinx",Organization
 LatinxHikers,,https://www.latinxhikers.com/,Latinx,Organization
+LatinXinBME,,https://twitter.com/LatinXinBME,"Latinx, engineering, medicine",Organization
+LatinXinENT,,https://twitter.com/LatinXinENT,"Latinx, medicine",Organization
+LatinX In Urology,,https://twitter.com/latinxuro,"Latinx, medicine",Organization
 LGBTAstro,,https://twitter.com/lgbtastro,"astronomy, LGBTQ",Organization
 Materials Research Society,,https://www.mrs.org/,materials,Organization
 Medical Students for Choice,,https://msfc.org/,"medicine, students",Organization
 Medical Student Pride Alliance,,https://www.medpride.org/,"medicine, LGBTQ, students",Organization
 Mentoring Physical Oceanography Women to Increase Retention,MPOWIR,https://mpowir.org/,"oceanography, women",Organization
-National Action Council for Minorities in Engineering,NACME,https://www.nacme.org/,,Organization
+National Action Council for Minorities in Engineering,NACME,https://www.nacme.org/,engineering,Organization
 National Association of Biology Teachers,NABT,https://nabt.org/,"biology, education",Organization
 National Association of Black Geoscientists,NABG,http://www.nabg-us.org/,"geoscience, Black",Organization
+National Association of Hispanic Nurses,NAHN,https://nahnnet.org/,"nursing, Hispanic",Organization
 National Association of Mathematicians,NAM,https://www.nam-math.org/,math,Organization
-National Association of Medical Minority Educators,,https://nammenational.org/,,Organization
-National Association of Research in Science Teaching,NARST,https://narst.org,,Organization
+National Association of Medical Minority Educators,,https://nammenational.org/,medicine,Organization
+National Association of Research in Science Teaching,NARST,https://narst.org,research,Organization
 "National Black Nurses Association, Inc.",NBNA,https://www.nbna.org/,"nursing, Black",Organization
 National Council of Asian Pacific Islander Physicians,NCAPIP,http://ncapip.org/,"medicine, AAPI",Organization
 National Dental Association,NDA,https://ndaonline.org/,"dentistry, PoC",Organization
-National Hispanic Medical Association,NHMA,https://www.nhmamd.org/,,Organization
-National Hispanic Science Network,NHSN,https://www.the-nhsn.org/,,Organization
+National Hispanic Medical Association,NHMA,https://www.nhmamd.org/,"Hispanic, medicine",Organization
+National Hispanic Science Network,NHSN,https://www.the-nhsn.org/,"Hispanic, science",Organization
 National Medical Association,,https://www.nmanet.org/default.aspx,"medicine, Black",Organization
-National Postdoctoral Association,,https://www.nationalpostdoc.org/,,Organization
+National Postdoctoral Association,,https://www.nationalpostdoc.org/,post-doc,Organization
 National Science Policy Network,,https://scipolnetwork.org/,"science, policy",Organization
 National Science Teaching Association,,https://www.nsta.org/,"science, education",Organization
 National Society of Black Engineers,NSBE,https://www.nsbe.org/home.aspx,"engineering, Black",Organization
@@ -158,23 +174,25 @@ National Organization for the Professional Advancement of Black Chemists and Che
 Out to Innovate™ (formerly NOGLSTP),,https://www.noglstp.org,"science, LGBTQ",Organization
 "Out in Science, Technology, Engineering, and Mathematics",oSTEM,https://www.ostem.org/,"science, LGBTQ",Organization
 oSTEM Affinity and Working Groups,,https://www.ostem.org/page/affinity-groups,"LGBTQ, disability, religion, women, Black",Organization
-Outdoor Afro,,https://outdoorafro.com/,,Organization
-Outdoor Asian,,https://www.outdoorasian.com/,,Organization
+Outdoor Afro,,https://outdoorafro.com/,"Black, nature",Organization
+Outdoor Asian,,https://www.outdoorasian.com/,"AAPI, nature",Organization
 Phi Delta Epsilon,,https://phide.org/,"medicine, honors",Organization
 Physicians for a National Health Program,,https://pnhp.org/,medicine,Organization
 Physicians for Social Responsibility,,https://studentpsr.org/,medicine,Organization
 Psi Chi,,https://www.psichi.org/,"psychology, honors",Organization
 Queer in AI,,https://sites.google.com/view/queer-in-ai/home,"artificial intelligence, LGBTQ",Organization
 Queer Engineers,,https://twitter.com/QueerEngineers,"engineering, LGBTQ",Organization
-Queer Nature,,https://www.queernature.org/,,Organization
-R Community Diversity and Inclusion Working Group,,https://github.com/RConsortium/RCDI-WG/tree/master,,Organization
+Queer Nature,,https://www.queernature.org/,"LGBTQ, nature",Organization
+R Community Diversity and Inclusion Working Group,,https://github.com/RConsortium/RCDI-WG/tree/master,"computing, technology, women",Organization
 R-Ladies Global,,https://rladies.org/,"computing, technology, women",Organization
 Royal Society of Chemistry,RSC,https://www.rsc.org/membership-and-community/,chemistry,Organization
-Society for Advancement of Chicanos/Hispanics and Native Americans in Science,SACNAS,https://www.sacnas.org/,"science, Latinx, Indigenous",Organization
+Society for Advancement of Chicanos/Hispanics and Native Americans in Science,SACNAS,https://www.sacnas.org/,"science, Latinx, Hispanic, Indigenous",Organization
 Sigma Pi Sigma,,https://www.sigmapisigma.org/sigmapisigma,"physics, honors",Organization
+Sigma Sigma Phi,,http://www.sigmasigmaphi.org/,"medicine, honors",Organization
 Sigma Xi,,https://www.sigmaxi.org/,"science, honors",Organization
-Society for Applied Spectroscopy,,https://www.s-a-s.org/,,Organization
+Society for Applied Spectroscopy,,https://www.s-a-s.org/,chemistry,Organization
 Society for Biomaterials,,https://biomaterials.org/,"biology, materials",Organization
+Society for Black Neuropsychology,,https://twitter.com/soblackneuro,"Black, psychology, neuroscience",Organization
 Society for Craniofacial Genetics and Developmental Biology,SCGDB,https://www.scgdb.org/home,"medicine, biology",Organization
 Society for Developmental Biology,,https://www.sdbonline.org/,biology,Organization
 Society for Industrial and Organizational Psychology,SIOP,https://www.siop.org/,psychology,Organization
@@ -183,21 +201,21 @@ Society for the Study of Reproduction,SSR,https://www.ssr.org/home,biology,Organ
 Society of Asian Academic Surgeons,SAAS,https://www.asiansurgeon.org/,"medicine, AAPI",Organization
 Society of Asian Scientists and Engineers,SASE,https://www.saseconnect.org/,"science, engineering, AAPI",Organization
 Society of Black Academic Surgeons,SBAS,https://www.sbas.net/,"medicine, Black",Organization
-Society of Hispanic Professional Engineers,SHPE,https://www.shpe.org/,,Organization
+Society of Hispanic Professional Engineers,SHPE,https://www.shpe.org/,"Hispanic, engineering",Organization
 Society of Mexican American Engineers and Scientists (Latinos in Science and Engineering),MAES,https://mymaes.org/,"science, engineering, Latinx",Organization
 Society of Physics Students,SPS,https://www.spsnational.org/,"physics, students",Organization
 Society of Women Engineers,SWE,https://swe.org/,"engineering, women",Organization
 Society of Women in Space Exploration,SWISE,https://www.swise.org/,"astronomy, women",Organization
-Society of Latinxs/Hispanics in Earth and Space Science,SOLESS,https://ciresdiversity.colorado.edu/soless,,Organization
+Society of Latinxs/Hispanics in Earth and Space Science,SOLESS,https://ciresdiversity.colorado.edu/soless,"Latinx, Hispanic, astronomy, geoscience, meteorology",Organization
 Soil Science Society of America,SSSA,https://www.soils.org/,agronomy,Organization
 Student National Medical Association,SNMA,https://snma.org/,"medicine, students",Organization
 Student Osteopathic Medical Association,SOMA,https://studentdo.org/,"medicine, students",Organization
-The Electrochemical Society,,https://www.electrochem.org/,,Organization
+The Electrochemical Society,,https://www.electrochem.org/,chemistry,Organization
 The Oceanography Society,TOS,https://tos.org/,oceanography,Organization
 White Coats for Black Lives,,https://whitecoats4blacklives.org/,"medicine, Black",Organization
 Women in Cognitive Science,,http://womenincogsci.org/,"neuroscience, psychology, women",Organization
 Women in Medicine,,https://womeninmedicine.org/,"medicine, women",Organization
-Women of Color Research Network,WoCRN,https://womeninscience.nih.gov/women-of-color/,,Organization
+Women of Color Research Network,WoCRN,https://womeninscience.nih.gov/women-of-color/,"women, research",Organization
 # Switch to LGBTQ+ STEM Orgs,,,,
 EngiQueers Canada,,https://www.engiqueers.ca/,"engineering, LGBTQ",LGBTQ+ Abroad
 House of STEM,,https://houseofstem.org/,LGBTQ,LGBTQ+ Abroad
@@ -206,6 +224,7 @@ LGBT+ Physics,,https://twitter.com/lgbt_physics?lang=en,"physics, LGBTQ",LGBTQ+ 
 LGBTQ STEM,,https://lgbtstem.wordpress.com/,LGBTQ,LGBTQ+ Abroad
 LGBTQ STEM Berlin,,https://www.facebook.com/lgbtqstemberlin,LGBTQ,LGBTQ+ Abroad
 Pride in STEM,,https://prideinstem.org/,LGBTQ,LGBTQ+ Abroad
+Queer Canadians in STEM,QueerCanSTEM,https://queercanstem.com/,LGBTQ,LGBTQ+ Abroad
 Queers in Science,,https://www.queersinscience.org.au/,"science, LGBTQ",LGBTQ+ Abroad
 Queers in STEM,,https://twitter.com/QueersInSTEM,LGBTQ,LGBTQ+ Abroad
 The STEM Village,,https://thestemvillage.co.uk/,LGBTQ,LGBTQ+ Abroad
@@ -259,6 +278,7 @@ Conexiones: Historias de Latinos en STEM,,https://www.stitcher.com/show/conexion
 The Curbsiders (Internal Medicine),,https://thecurbsiders.com/,,Podcast
 Disability After Dark,,https://www.stitcher.com/show/disabilityafterdark,,Podcast
 Double Shelix,,https://doubleshelix.podomatic.com/,,Podcast
+Escucha: A Medical Latinx Podcast,,https://www.listennotes.com/en/podcasts/escucha-a-medical-latinx-podcast-latino-NI8_MPq6CLj/,,Podcast
 Full Soul Nutrition,,https://soundcloud.com/info-267334292,,Podcast
 Her STEM Story,,https://herstemstory.com/,,Podcast
 How to Be a STEMinist,,https://podcast.tiffanydawson.co/,,Podcast
