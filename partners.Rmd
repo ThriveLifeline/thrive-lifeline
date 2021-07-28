@@ -37,6 +37,14 @@ alt="The THRIVE Resources and Solutions logo."
 style="width: 50%; height: 50%"/>
 </center>
 
+Our third partner is [Queer Engineer](https://www.queerengineer.org/)!
+
+<center>
+<img src="images/partner-logos/Queer-Engineer-Logo.png" 
+alt="The Queer Engineer logo." 
+style="width: 50%; height: 50%"/>
+</center>
+
 <br/>
 
 <center>
