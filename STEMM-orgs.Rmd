@@ -13,9 +13,10 @@ Note: Keywords are under development!
 Black, chemistry, computing, data science, dentistry, disability, diversity, 
 ecology, education, engineering, geoscience, Hispanic, honors, Indigenous, 
 international, Latinx, LGBTQ, materials, math, medicine, mental health, 
-meteorology, nature, neuroscience, nursing, optometry, pharmacy, physics, PoC, 
-policy, post-doc, psychology, religion, research, robotics, 
-science communication, science, students, technology, veterinary
+meteorology, nature, neurodiversity, neuroscience, nursing, optometry,
+pharmacy, physics, PoC, policy, post-doc, psychology, religion, research, 
+robotics, science communication, science, STEM, students, technology, 
+veterinary, women
 - **Types**: Organization, LGBTQ+ Abroad, Conferences, Internships, Online, 
 SciComm, DiversityList, Podcast, Blog 
 
