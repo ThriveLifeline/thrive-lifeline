@@ -1,24 +1,12 @@
 ---
-title: "STEMM Organizations"
+title: "Regional Resources"
 ---
 
-This page contains links to various STEMM-related resources. 
-If you know of an organization that should be added to this list, please 
-[contact us](mailto:info@thrivelifeline.org).
+<center>
+<i class="fas fa-hard-hat fa-3x" aria-hidden="true"></i> Under Construction! <i class="fas fa-hard-hat fa-3x" aria-hidden="true"></i>
+</center>
 
-
-Note: Keywords are under development!
-
-- **Keywords**: AAPI, artificial intelligence, astronomy, audiology, biology, 
-Black, chemistry, computing, data science, dentistry, disability, diversity, 
-ecology, education, engineering, geoscience, Hispanic, honors, Indigenous, 
-international, Latinx, LGBTQ, materials, math, medicine, mental health, 
-meteorology, nature, neurodiversity, neuroscience, nursing, optometry,
-pharmacy, physics, PoC, policy, post-doc, psychology, religion, research, 
-robotics, science communication, science, STEM, students, technology, 
-veterinary, women
-- **Types**: Organization, LGBTQ+ Abroad, Conferences, Internships, Online, 
-SciComm, DiversityList, Podcast, Blog, Mentorship
+- **Keywords**: aid, Black, funding, gender identity, health, housing, LGBTQ
 
 ```{r, include=FALSE}
 library(tidyverse)
@@ -29,7 +17,11 @@ library(DT)
 ## Load resource list
 ## Note: If you encounter issues with characters, try resaving the
 ## CSV as a UTF-8 CSV. Excel... does not like interpreting as UTF-8
-data <- read_csv("stemm_orgs.csv", comment = "#")
+data <- read_csv("regional_resources.csv", comment = "#")
+
+## Make website a hyperlink
+#data$Website <- paste0("<a href='",data$Website,"' target='_blank'>",data$Website,"</a>")
+#data <- select(data, -c(ShortLink))
 
 ## Make website a hyperlink
 data$Website <- paste0("<a href='",data$Website,"' target='_blank'>",data$Website,"</a>")
@@ -52,6 +44,9 @@ datatable(data,
       'print')
 ))
 ```
+
+Do you have a resource that you'd like to see added? Fill out our
+<a href="https://forms.gle/VpkzjtbuAes3beAr7">suggestion form</a>.
 
 ## Disclaimer
 This website offers resources and information, and is designed for educational
