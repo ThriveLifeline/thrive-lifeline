@@ -6,7 +6,8 @@ title: "Regional Resources"
 <i class="fas fa-hard-hat fa-3x" aria-hidden="true"></i> Under Construction! <i class="fas fa-hard-hat fa-3x" aria-hidden="true"></i>
 </center>
 
-- **Keywords**: aid, Black, funding, gender identity, health, housing, LGBTQ
+- **Keywords**: aid, Black, funding, gender identity, health, housing, LGBTQ,
+sex work
 
 ```{r, include=FALSE}
 library(tidyverse)

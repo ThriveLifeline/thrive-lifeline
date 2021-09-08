@@ -1,6 +1,7 @@
 ﻿# Comments start with a hashtag because of how CSV is read,,,,,
 Resource,Description,State/Province,Country,Website,Keywords
 Alexander Foundation Community Assistance Programs,This program provides assistance to those individuals in Colorado who are experiencing temporary financial difficulties.,CO,USA,https://www.thealexanderfoundation.org/assistance-programs,funding
+Bay Area Sex Worker Advocacy Network (BAYSWAN),An organization by and for sex workers in the Bay Area with resources about decriminalizing sex work.,CA,USA,http://www.bayswan.org/,sex work
 Black Trans Travel Fund,An organization that provides Black transgender women in New York and New Jersey with financial and material resources for safer travel options. They offer a monthly literature program.,NY,USA,https://www.blacktranstravelfund.com/,"funding, Black, LGBTQ, gender identity"
 Callen-Lorde Community Health Center,"Provides sensitive, quality health care and related services targeted to New York’s LGBTQ communities, regardless of ability to pay.",NY,USA,https://callen-lorde.org/,"health, LGBTQ, gender identity"
 CK Life,"Bronx-based group that provides weekly TGNC support groups, outreach for TGNC Community engaging in survival sex work, free HIV testing, hygiene and safer sex kits, trauma informed services for Black and Brown TGNC Folk, including monthly groups, education referrals, and health care counseling.",NY,USA,https://www.cklife.org/programs,"health, LGBTQ, gender identity, Black"
