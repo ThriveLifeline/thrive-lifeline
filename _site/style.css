@@ -181,6 +181,18 @@ body {
   color: #1F222A;
   background-color: white;
 }
+
+div.card.h-100 {
+  color: white;
+  background-color: #1F222A;
+  border: 1px solid white;
+}
+
+.card {
+  color: white;
+  background-color: #1F222A;
+}
+
 /* Start data tables */
 div.datatables {
     color: white;
@@ -217,4 +229,84 @@ input{
 .dataTables_wrapper .dataTables_paginate .paginate_button {
     color: white !important;
 }
+}
+
+/* Set initial card styles */
+.col-md-4 {
+  flex:0 0 auto;
+  /* width:33.3333333333% */
+  width: 27%;
+}
+
+.card{
+  position:relative;
+  display:flex;
+  flex-direction:column;
+  min-width:0;
+  word-wrap:break-word;
+  background-color:#fff;
+  background-clip:border-box;
+  border:1px solid rgba(0,0,0,.125);
+  border-radius:.25rem
+}
+
+.h-100{
+  height:100% !important
+}
+
+.card-body{
+  flex:1 1 auto;
+  padding:1rem 1rem
+}
+
+.card-title{
+  margin-bottom:.5rem
+}
+
+.card-text:last-child{
+  margin-bottom:0
+}
+
+.mx-auto{
+  margin-right:auto!important;
+  margin-left:auto!important
+}
+
+.card-img-overlay{position:absolute;top:0;right:0;bottom:0;left:0;padding:1rem;border-radius:calc(.25rem - 1px)}.card-img,.card-img-bottom,.card-img-top{width:100%}.card-img,.card-img-top{border-top-left-radius:calc(.25rem - 1px);border-top-right-radius:calc(.25rem - 1px)}.card-img,.card-img-bottom{border-bottom-right-radius:calc(.25rem - 1px);border-bottom-left-radius:calc(.25rem - 1px)}.card-group>.card{margin-bottom:.75rem}@media (min-width:576px){.card-group{display:flex;flex-flow:row wrap}.card-group>.card{flex:1 0 0%;margin-bottom:0}.card-group>.card+.card{margin-left:0;border-left:0}.card-group>.card:not(:last-child){border-top-right-radius:0;border-bottom-right-radius:0}.card-group>.card:not(:last-child) .card-header,.card-group>.card:not(:last-child) .card-img-top{border-top-right-radius:0}.card-group>.card:not(:last-child) .card-footer,.card-group>.card:not(:last-child) .card-img-bottom{border-bottom-right-radius:0}.card-group>.card:not(:first-child){border-top-left-radius:0;border-bottom-left-radius:0}.card-group>.card:not(:first-child) .card-header,.card-group>.card:not(:first-child) .card-img-top{border-top-left-radius:0}.card-group>.card:not(:first-child) .card-footer,.card-group>.card:not(:first-child) .card-img-bottom{border-bottom-left-radius:0}}
+
+/* Redefine some card styles */
+.card {
+  border: 2px solid #333;
+  border-radius: 0.25rem;
+}
+
+.card-img-top {
+    width: 100%;
+    height: 15vw;
+    object-fit: cover;
+}
+
+.card-img-pub {
+    width: 100%;
+    height: 10vw;
+	object-fit: contain;
+}
+
+.card-title {
+	font-weight: bold;
+    text-align: center;
+}
+
+.card-footer {
+    padding: 0.5rem 1rem;
+    background-color: transparent;
+    border-top: none;
+}
+
+.header {
+    padding:1em 0;
+}
+
+.container {
+    padding:1em 0;
 }

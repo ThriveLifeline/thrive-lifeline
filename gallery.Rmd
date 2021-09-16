@@ -1,0 +1,157 @@
+---
+title: "Shareable Graphics"
+output:
+  html_document
+---
+
+You are free to download these graphics and share them widely!
+
+```{=html}
+<!-- Add 1 row of 3 cards -->
+<div class="container">
+<div class="row">
+		<div class="col-md-4">
+		<div class="card h-100">
+		  <div class="card-body">
+			<div class="card-img">
+			  <img src="images/gallery/balanced-life.svg" class="card-img-pub" alt="Living a Balanced Life. Boxes include: 1. Work at your own pace, get things done with a to-do list, write your progress in journal. 2. Have 30-minute recess every workday, don't forget to eat, and do a simple workout in the evening. 3. Take a rest when you're tired, relax on your bed, and take time to regain your mood. 4. Don't forget to text your loved ones, get healthy boundary, let them know you're resting and need alone time">
+			</div>
+			  <p class="card-title">Living a Balanced Life</p>
+				<!-- <p class="card-text" style="font-style: italic;">ABC</p> -->
+			</div>
+			<div class="card-footer mx-auto">
+			  <a download="balanced-life.svg" href="images/gallery/balanced-life.svg" class="button"><i class="fas fa-download" aria-hidden="true"></i> Download</a>
+				<!-- <a href="https://thrivelifeline.org/images/gallery/balanced-life.svg" class="button"><i class="fas fa-download" aria-hidden="true"></i> Download</a> -->
+			</div>
+			</div>
+		  </div>
+		  <div class="col-md-4">
+			<div class="card h-100">
+			  <div class="card-body">
+				  <div class="card-img">
+					  <img src="images/gallery/be-gentle.svg" class="card-img-pub" alt="Text over flowers that says 'Be gentle with yourself, you're doing your best.'">
+					</div>
+					  <p class="card-title">Be Gentle with Yourself</p>
+					</div>
+					<div class="card-footer mx-auto">
+					<a download="be-gentle.svg" href="images/gallery/be-gentle.svg" class="button"><i class="fas fa-download" aria-hidden="true"></i> Download</a>
+					  <!-- <a href="https://thrivelifeline.org/images/gallery/be-gentle.svg" class="button"><i class="fas fa-download" aria-hidden="true"></i> Download</a> -->
+					</div>
+			</div>
+			</div>
+		  <div class="col-md-4">
+			  <div class="card h-100">
+			  <div class="card-body">
+				  <div class="card-img">
+					  <img src="images/gallery/beautiful.svg" class="card-img-pub" alt="White heart on purple with text 'You're beautiful.'">
+					</div>
+					  <p class="card-title">You're Beautiful</p>
+					</div>
+					<div class="card-footer mx-auto">
+					  <a download="beautiful.svg" href="images/gallery/beautiful.svg" class="button"><i class="fas fa-download" aria-hidden="true"></i> Download</a>
+						<!-- <a href="https://thrivelifeline.org/images/gallery/beautiful.svg" class="button"><i class="fas fa-download" aria-hidden="true"></i> Download</a>  -->
+					</div>
+				</div>
+		  	</div>
+</div>
+</div>
+<!-- End Row 1 -->
+
+<!-- Add 1 row of 3 cards -->
+<div class="container">
+<div class="row">
+		<div class="col-md-4">
+		<div class="card h-100">
+		  <div class="card-body">
+			<div class="card-img">
+			  <img src="images/gallery/experience.svg" class="card-img-pub" alt="A cartoon person with text 'No matter what you experience in life, you will always be enough.'">
+			</div>
+			  <p class="card-title">You Are Enough</p>
+			</div>
+			<div class="card-footer mx-auto">
+			  <a download="experience.svg" href="images/gallery/experience.svg" class="button"><i class="fas fa-download" aria-hidden="true"></i> Download</a>
+				<!-- <a href="https://thrivelifeline.org/images/gallery/experience.svg" class="button"><i class="fas fa-download" aria-hidden="true"></i> Download</a> -->
+			</div>
+			</div>
+		  </div>
+		  <div class="col-md-4">
+			<div class="card h-100">
+			  <div class="card-body">
+				  <div class="card-img">
+					  <img src="images/gallery/give.svg" class="card-img-pub" alt="A person giving themself a hug with text 'What you give to others... you can give to yourself.'">
+					</div>
+					  <p class="card-title">Give What You Give</p>
+					</div>
+					<div class="card-footer mx-auto">
+					  <a download="give.svg" href="images/gallery/give.svg" class="button"><i class="fas fa-download" aria-hidden="true"></i> Download</a>
+					  <!-- <a href="https://thrivelifeline.org/images/gallery/give.svg" class="button"><i class="fas fa-download" aria-hidden="true"></i> Download</a> --> 
+					</div>
+			</div>
+			</div>
+		  <div class="col-md-4">
+			  <div class="card h-100">
+			  <div class="card-body">
+				  <div class="card-img">
+					  <img src="images/gallery/okay.svg" class="card-img-pub" alt="Clip art images corresponding to text. The title is 'It's okay to?!' with suggestions ask for help, have bad days, say 'no', grow as a person, take a break, and ditch toxic people.">
+					</div>
+					  <p class="card-title">It's Okay</p>
+					</div>
+					<div class="card-footer mx-auto">
+					  <a download="okay.svg" href="images/gallery/okay.svg" class="button"><i class="fas fa-download" aria-hidden="true"></i> Download</a>
+						<!-- <a href="https://thrivelifeline.org/images/gallery/okay.svg" class="button"><i class="fas fa-download" aria-hidden="true"></i> Download</a> -->
+					</div>
+				</div>
+		  	</div>
+</div>
+</div>
+<!-- End Row 2 -->
+
+<!-- Add 1 row of 3 cards -->
+<div class="container">
+<div class="row">
+		<div class="col-md-4">
+		<div class="card h-100">
+		  <div class="card-body">
+			<div class="card-img">
+			  <img src="images/gallery/self-care.svg" class="card-img-pub" alt="A person sitting with a cat and the text 'Self-care isn't selfish.'">
+			</div>
+			  <p class="card-title">Self-Care</p>
+			</div>
+			<div class="card-footer mx-auto">
+			  <a download="self-care.svg" href="images/gallery/self-care.svg" class="button"><i class="fas fa-download" aria-hidden="true"></i> Download</a>
+				<!-- <a href="https://thrivelifeline.org/images/gallery/self-care.svg" class="button"><i class="fas fa-download" aria-hidden="true"></i> Download</a> -->
+			</div>
+			</div>
+		  </div>
+		  <div class="col-md-4">
+			<div class="card h-100">
+			  <div class="card-body">
+				  <div class="card-img">
+					  <img src="images/gallery/stress-management.svg" class="card-img-pub" alt="Cartoons on purple background with text 'Practical ways to reduce stress levels. Get moving, meditate or do yoga, relax with friends, and talk it out.'">
+					</div>
+					  <p class="card-title">Stress Management</p>
+					</div>
+					<div class="card-footer mx-auto">
+					  <a download="stress-management.svg" href="images/gallery/stress-management.svg" class="button"><i class="fas fa-download" aria-hidden="true"></i> Download</a>
+					  <!-- <a href="https://thrivelifeline.org/images/gallery/stress-management.svg" class="button"><i class="fas fa-download" aria-hidden="true"></i> Download</a> -->
+					</div>
+			</div>
+			</div>
+		  <div class="col-md-4">
+			  <div class="card h-100">
+			  <div class="card-body">
+				  <div class="card-img">
+					  <img src="images/gallery/worthy.svg" class="card-img-pub" alt="A cartoon person holding a sign that says 'I am worthy'.">
+					</div>
+					  <p class="card-title">I am Worthy</p>
+					</div>
+					<div class="card-footer mx-auto">
+					  <a download="worthy.svg" href="images/gallery/worthy.svg" class="button"><i class="fas fa-download" aria-hidden="true"></i> Download</a>
+						<!-- <a href="https://thrivelifeline.org/images/gallery/worthy.svg" class="button"><i class="fas fa-download" aria-hidden="true"></i> Download</a> -->
+					</div>
+				</div>
+		  	</div>
+</div>
+</div>
+<!-- End Row 3 -->
+```
