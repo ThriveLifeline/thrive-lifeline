@@ -238,6 +238,19 @@ input{
   width: 27%;
 }
 
+/* Fix other cols widths for TOC */
+.col-md-12 {
+  width: 10%;
+}
+
+.col-md-8 {
+  width: 20%;
+}
+
+.col-lg-9 {
+  width: 70%;
+}
+
 .card{
   position:relative;
   display:flex;
@@ -303,10 +316,10 @@ input{
     border-top: none;
 }
 
-.header {
+/*.header {
     padding:1em 0;
-}
+}*/
 
-.container {
+/*.container {
     padding:1em 0;
-}
+}*/
