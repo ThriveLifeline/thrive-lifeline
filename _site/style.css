@@ -240,17 +240,34 @@ input{
 
 /* Fix other cols widths for TOC */
 .col-md-12 {
-  width: 10%;
+  /* 10% */
+  flex:0 0 auto;
+  width: 30%;
+}
+
+.col-sm-12 {
+  /* 10% */
+  /*flex:0 0 auto;*/
+  width: 30%;
 }
 
 .col-md-8 {
-  width: 20%;
+  /* 20% */
+  /*flex:0 0 auto;*/
+  width: 0%;
 }
 
 .col-lg-9 {
+  /* 70% */
+  /*flex:0 0 auto;*/
   width: 70%;
 }
 
+/* TOC hover is sm-12 md-4 lg- 3
+
+Body is 
+sm-12 md-8 lg-9
+*/
 .card{
   position:relative;
   display:flex;
