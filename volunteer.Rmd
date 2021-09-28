@@ -2,7 +2,8 @@
 title: "Volunteer with THRIVE"
 ---
 
-Join the THRIVE Team! We are looking to train our next cohort of volunteers.
+Help your communities to THRIVE! We invite you to join THRIVE Lifelines international team of volunteers and begin offering life-saving and life-affirming support. Our volunteers are students and professionals, working remotely from all over the world. When you volunteer with us, you will be provided opportunities for mentorship, skill development, and leadership growth. Whatever your passions or experience level, we have a place for you!
+
 
 Requirements:
 
@@ -15,7 +16,7 @@ on-call shifts per week, and 1-year commitment (Crisis Responders)
     + Training must be completed in no more than 6 months
     + If you are interested in an accelerated training schedule, please inquire.
 * Willingness to complete 4 hours of training and an average of 3-5 hours per
-week (all other volunteers)
+week (all non-crisis response volunteers)
 * Willingness to listen non-judgmentally to those in crisis
 
 Note: No prior experience is necessary. We promise mentoring all along the way,
@@ -25,15 +26,17 @@ as well as high quality, empathetic training, and team collaboration.
 affirmation, trauma-informed care, and skillful deescalation
 * Volunteers can work from any location: all that is required is a computer
 with reliable internet and a private space.
-* We are especially seeking responders who are **persons of color, persons
-living with disabilities, Two Spirit, trans-femme and/or femme nonbinary
-individuals, and/or veterans.**
+* We greatly value representation and encourage applications from people who 
+identify as **persons of color, persons living with disabilities, Two Spirit, 
+trans-femme and/or femme nonbinary individuals, and/or veterans.**
 
 <br>
 We have the following volunteer positions available:
 
    * Crisis Responder: Crisis Responder on THRIVE Lifeline: This volunteer will actively 
      talk to, listen to, and help texters to the hotline.
+   * Volunteer Coordinator: This volunteer will oversee all internal volunteer coordination,
+   including recruitment, processing of applications, onboarding, and facilitating orientations.
    * Trainer: This volunteer will lead crisis responder training sessions. Applicants
      should hold current suicide first aid certifications and have experience working
      with individuals in crisis.
@@ -47,12 +50,14 @@ We have the following volunteer positions available:
    new resources to our database.
    * Outreach Assistant: This volunteer will assist with outreach, sharing
    THRIVE Lifeline as a resource and broadening the impact of the hotline.
+   * Social Media Coordinator: This volunteer will oversee all social media team members 
+   and aid in cross-collaboration between our various platforms as well as organize content
+   development and posting.
    * Social Media Team Members: This volunteer will assist our Outreach Coordinator
    and social media team with pointing people to THRIVE Lifeline in a manner 
    that uplifts marginalized identities.
       + We are especially seeking science communicators with Twitter experience.
-   * Data Scientist: This volunteer will assist with analyzing trends and 
-   generating reports from interaction data.
+
    
 <br>
 Ready to sign up? [**Apply Here**](https://form.jotform.com/201655418668059).
