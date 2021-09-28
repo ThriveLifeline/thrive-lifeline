@@ -29,7 +29,8 @@ inability to access what may be their only safe community.
 ## Who Are We?
 THRIVE Lifeline is Trans-led and operated. We are a group of certified suicide
 interventionists whose identities are marginalized, and who are students and
-early career professionals trained across the breadth of STEMM fields.
+early career professionals trained across the breadth of STEMM fields. We are 100% 
+volunteer run and our volunteers are spread globally.
 
 <style>
     .caption {
@@ -37,7 +38,7 @@ early career professionals trained across the breadth of STEMM fields.
     }
 </style>
 
-```{r, echo=FALSE, message=FALSE, fig.align="center", fig.cap="Barplot of the identities of the THRIVE Lifeline team. LGBTQIA+ makes up 95%, women and non-binary makes up 75%, people of color make up 70%, people with disabilities make up 50%, and immigrants make up 15%."}
+```{r, echo=FALSE, message=FALSE, fig.align="center", fig.cap="Barplot of the identities of the THRIVE Lifeline team. LGBTQ2S+ makes up 95%, women and non-binary makes up 75%, people of color make up 70%, people with disabilities make up 50%, and immigrants make up 15%."}
 ## Use fig.cap to set up caption/alt text. The CSS directly above will silence 
 ## The caption
 
@@ -69,7 +70,7 @@ barplot(traits_percentage,             ## Use percentage data
         border="white",                ## Border color for the boxes
         ylab="Percentage",             ## Y-axis label
           ## Name the datasets; \n is a linebreak
-        names.arg=c("LGBTQIA+", "Women\n& Non-Binary", "People of\nColor", 
+        names.arg=c("LGBTQ2S+", "Women\n& Non-Binary", "People of\nColor", 
                     "Transgender", "People with\nDisabilities", "Immigrants"), 
         legend=c("Yes"),               ## Legend Label
         las=2,                         ## Turn x-axis 90º
@@ -81,10 +82,9 @@ barplot(traits_percentage,             ## Use percentage data
 
 <br>
 Our backgrounds include familial rejection due to our identities, homelessness,
-poverty, and working multiple jobs before being able to access and/or while
-accessing education. Many of us are individuals who have navigated accommodations
-processes during our academic journeys as a result of neurodivergence,
-living with disabilities, and/or facing trauma.
+poverty, lack of access to education, immigration, and more. Many of us are 
+individuals who have navigated accommodations processes during our academic 
+journeys as a result of neurodivergence, living with disabilities, and/or facing trauma.
 
 ## Mission
 THRIVE Lifeline’s mission is to end stigma and close access gaps for
@@ -164,7 +164,7 @@ Despite the name, this hotline is for people of all genders.
 * Text-based support:
    + Text VOICE to <a href="sms:20121&body=VOICE">20121</a>.
 
-For LGBTQ+ support, please reach out to
+For LGBTQ2S+ support, please reach out to
 [**The Trevor Project**](https://www.thetrevorproject.org/).
 
 * 24/7 call-based support:
