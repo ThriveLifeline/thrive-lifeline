@@ -13,7 +13,7 @@
 
 <title>About THRIVE</title>
 
-<script src="site_libs/header-attrs-2.7/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.9/header-attrs.js"></script>
 <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/cosmo.min.css" rel="stylesheet" />
@@ -35,6 +35,8 @@
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+<link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
+<link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
 <html lang="en">
 <meta name="google-site-verification" content="UNceFcC342EIvSXli_OOnJ4EUtHOA3is0mMLsKINvcY">
 <link rel="shortcut icon" href="images/test2.ico">
@@ -324,12 +326,12 @@ div.tocify {
 
 <!-- setup 3col/9col grid for toc_float and main content  -->
 <div class="row">
-<div class="col-sm-12 col-md-4 col-lg-3">
+<div class="col-xs-12 col-sm-4 col-md-3">
 <div id="TOC" class="tocify">
 </div>
 </div>
 
-<div class="toc-content col-sm-12 col-md-8 col-lg-9">
+<div class="toc-content col-xs-12 col-sm-8 col-md-9">
 
 
 
@@ -444,19 +446,19 @@ div.tocify {
 <p>Amid a crisis of global scale, many marginalized individuals face greater personal crises, including being sent to unsupportive and/or dangerous home environments, greater health risks, job, food, and home insecurity, and the inability to access what may be their only safe community.</p>
 <div id="who-are-we" class="section level2">
 <h2>Who Are We?</h2>
-<p>THRIVE Lifeline is Trans-led and operated. We are a group of certified suicide interventionists whose identities are marginalized, and who are students and early career professionals trained across the breadth of STEMM fields.</p>
+<p>THRIVE Lifeline is Trans-led and operated. We are a group of certified suicide interventionists whose identities are marginalized, and who are students and early career professionals trained across the breadth of STEMM fields. We are 100% volunteer run and our volunteers are spread globally.</p>
 <style>
     .caption {
         display:none;
     }
 </style>
 <div class="figure" style="text-align: center">
-<img src="about_files/figure-html/unnamed-chunk-1-1.png" alt="Barplot of the identities of the THRIVE Lifeline team. LGBTQIA+ makes up 95%, women and non-binary makes up 75%, people of color make up 70%, people with disabilities make up 50%, and immigrants make up 15%." width="672" />
+<img src="about_files/figure-html/unnamed-chunk-1-1.png" alt="Barplot of the identities of the THRIVE Lifeline team. LGBTQ2S+ makes up 95%, women and non-binary makes up 75%, people of color make up 70%, people with disabilities make up 50%, and immigrants make up 15%." width="672" />
 <p class="caption">
-Barplot of the identities of the THRIVE Lifeline team. LGBTQIA+ makes up 95%, women and non-binary makes up 75%, people of color make up 70%, people with disabilities make up 50%, and immigrants make up 15%.
+Barplot of the identities of the THRIVE Lifeline team. LGBTQ2S+ makes up 95%, women and non-binary makes up 75%, people of color make up 70%, people with disabilities make up 50%, and immigrants make up 15%.
 </p>
 </div>
-<p><br> Our backgrounds include familial rejection due to our identities, homelessness, poverty, and working multiple jobs before being able to access and/or while accessing education. Many of us are individuals who have navigated accommodations processes during our academic journeys as a result of neurodivergence, living with disabilities, and/or facing trauma.</p>
+<p><br> Our backgrounds include familial rejection due to our identities, homelessness, poverty, lack of access to education, immigration, and more. Many of us are individuals who have navigated accommodations processes during our academic journeys as a result of neurodivergence, living with disabilities, and/or facing trauma.</p>
 </div>
 <div id="mission" class="section level2">
 <h2>Mission</h2>
@@ -516,7 +518,7 @@ Please be advised that our text line supports individuals 18+.
 <li>Text VOICE to <a href="sms:20121&body=VOICE">20121</a>.</li>
 </ul></li>
 </ul>
-<p>For LGBTQ+ support, please reach out to <a href="https://www.thetrevorproject.org/"><strong>The Trevor Project</strong></a>.</p>
+<p>For LGBTQ2S+ support, please reach out to <a href="https://www.thetrevorproject.org/"><strong>The Trevor Project</strong></a>.</p>
 <ul>
 <li>24/7 call-based support:
 <ul>
@@ -596,6 +598,9 @@ $(document).ready(function () {
 
 <script>
 $(document).ready(function ()  {
+
+    // temporarily add toc-ignore selector to headers for the consistency with Pandoc
+    $('.unlisted.unnumbered').addClass('toc-ignore')
 
     // move toc-ignore selectors from section div to header
     $('div.section.toc-ignore')
