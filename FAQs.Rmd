@@ -6,12 +6,12 @@ title: "Frequently Asked Questions (FAQs)"
   <summary>Where is THRIVE Lifeline located?</summary>
   <br>
   <p>The 313 area code is registered to Detroit, MI, but our Crisis Responders are 
-  located across the US, with responders in each time zone.</p>
+  located globally, throughout multiple countries and time zones.</p>
   <br>
 </details>
 
 <details>
-  <summary>What is THRIVE's 911 policy?</summary>
+  <summary>What is THRIVE's Emergency Response policy?</summary>
   <br>
   <p>THRIVE Lifeline does not call emergency services for people that are at 
   risk of harming themselves without their consent. 
@@ -39,7 +39,7 @@ title: "Frequently Asked Questions (FAQs)"
   [**Boys Town National Hotline**](https://www.boystown.org/hotline/Pages/default.aspx) 
   (call <a href="tel:+18004483000">+1.800.448.3000</a> or text VOICE to 
   <a href="sms:20121&body=VOICE">20121</a>). 
-  If you are a minor and are seeking support for LGBTQ+ issues, we recommend 
+  If you are a minor and are seeking support for LGBTQ2S+ issues, we recommend 
   reaching out to [**The Trevor Project**](https://www.thetrevorproject.org/) 
   (call <a href="tel:+18664887386">+1.866.488.7386</a> or text START to <a href="sms:678678&body=START">678-678</a>).</p>
   <br>
