@@ -10,7 +10,8 @@ If you know of an organization that should be added to this list, please
 Note: Keywords are under development!
 
 - **Keywords**: AAPI, artificial intelligence, astronomy, audiology, biology, 
-Black, chemistry, computing, data science, dentistry, disability, diversity, 
+Black, chemistry, computing, 
+D/deaf, data science, dentistry, disability, diversity, 
 ecology, education, engineering, geoscience, Hispanic, honors, Indigenous, 
 international, Latinx, LGBTQ, materials, math, medicine, mental health, 
 meteorology, nature, neurodiversity, neuroscience, nursing, optometry,
