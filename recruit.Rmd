@@ -7,7 +7,14 @@ output:
 ---
 
 <center>
-<i class="fas fa-hard-hat fa-3x" aria-hidden="true"></i> Under Construction! <i class="fas fa-hard-hat fa-3x" aria-hidden="true"></i>
+<!-- <i class="fas fa-hard-hat fa-3x" aria-hidden="true"></i> Under Construction! <i class="fas fa-hard-hat fa-3x" aria-hidden="true"></i> -->
+
+<img src="images/recruit.png" alt="Two people are texting with buildings in the
+background. The first person is walking on message bubbles toward another 
+person. The first bubble says 'you are not alone.' 
+The second bubble says 'I'm here for you.' 
+The THRIVE Lifeline logo is in the corner." style="width: 85%; height: 85%"/>
+
 </center>
 <br>
 
@@ -30,6 +37,8 @@ as positions are filled.
 [Click here to submit your interest form.](https://form.jotform.com/212686020923149)
 We will reply back with a formal application.
 
+<br>
+
 ## Welcome
 
 You may be pursuing a degree in psychology, sociology, social work, 
@@ -45,6 +54,8 @@ internship or practicum.
 Our interns and volunteers work remotely and internationally. 
 We are able to provide you support, wherever you are!
 
+<br>
+
 ## Program
 
 Our internship program is designed to offer a combined 120 hours 
@@ -59,6 +70,8 @@ THRIVE Lifeline.
 
 *Please let us know if your degree program has specific requirements for*
 *your mentor.*
+
+<br>
 
 ### Training
 
@@ -80,6 +93,8 @@ THRIVE Lifeline.
 - Practicing a minimum of 10 text-based scenarios where you will actively respond to a practice texter in crisis
 - *Optional*: professional development specific to navigating marginalized identities and experiences in the workplace
 
+<br>
+
 ### Crisis Response
 
 70-80 hours of crisis response:
@@ -88,6 +103,8 @@ Once you have completed training, you will transition to being a
 Crisis Responder on THRIVE Lifeline. 
 On-call shifts are 3 hours each, and interns complete 1 - 2 shifts per week. 
 The Lifeline is available 24/7/365, so we seek flexible availability.
+
+<br>
 
 ### Personal / Professional development
 
@@ -99,6 +116,8 @@ development, learn how to operate a non-profit organization, etc.
 We provide superb references, support writing of funding applications and 
 personal statements, and are dedicated to empowering you to reach your 
 personal dreams!
+
+<br>
 
 ## What we need from you
 Interested interns should: 
@@ -125,6 +144,8 @@ Interested interns should:
   - Be willing to learn and grow through supportive and constructive feedback
   - Be willing to offer support to other volunteers, especially those who are 
   responding to texters in crisis
+
+<br>
 
 ## How we will help you THRIVE
 
