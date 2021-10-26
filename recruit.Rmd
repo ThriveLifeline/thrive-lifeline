@@ -9,11 +9,12 @@ output:
 <center>
 <!-- <i class="fas fa-hard-hat fa-3x" aria-hidden="true"></i> Under Construction! <i class="fas fa-hard-hat fa-3x" aria-hidden="true"></i> -->
 
-<img src="images/recruit.png" alt="Two people are texting with buildings in the
-background. The first person is walking on message bubbles toward another 
-person. The first bubble says 'you are not alone.' 
-The second bubble says 'I'm here for you.' 
-The THRIVE Lifeline logo is in the corner." style="width: 85%; height: 85%"/>
+<img src="images/recruit.png" alt="Three people face three people. 
+Between them is text saying 'THRIVE with us!'
+There are buildings in the background.
+Above everyone's heads are phrases, including: professional development, 
+superb references, mentorship, and crisis intervention training." 
+style="width: 100%; height: 100%"/>
 
 </center>
 <br>

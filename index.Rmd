@@ -10,11 +10,18 @@ output:
 
 <center>
 
-<img src="images/Only_One.png" alt="One person is texting on a phone in the top 
+<!-- <img src="images/Only_One.png" alt="One person is texting on a phone in the top 
 left, saying I'm sick of feeling like the only one. Another person is on a 
 laptop in the bottom right, saying I'm glad you reached out. I'm here for you. 
 Additional text reads text THRIVE 24/7/3655 to +1.313.662.8209 with the THRIVE 
-Lifeline logo underneath." style="width: 50%; height: 50%"/>
+Lifeline logo underneath." style="width: 50%; height: 50%"/> -->
+
+<img src="images/home2.png" alt="Two people are texting with buildings in the
+background. The first person is walking on message bubbles toward another 
+person. The first bubble says 'you are not alone.' 
+The second bubble says 'I'm here for you.' 
+The THRIVE Lifeline logo is in the corner with the phone number +1.313.662.8209."
+style="width: 100%; height: 100%"/>
 
 </center>
 <br>
