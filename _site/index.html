@@ -13,7 +13,7 @@
 
 <title>Welcome to THRIVE</title>
 
-<script src="site_libs/header-attrs-2.9/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.7/header-attrs.js"></script>
 <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/cosmo.min.css" rel="stylesheet" />
@@ -35,8 +35,6 @@
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
-<link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
-<link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
 <html lang="en">
 <meta name="google-site-verification" content="UNceFcC342EIvSXli_OOnJ4EUtHOA3is0mMLsKINvcY">
 <link rel="shortcut icon" href="images/test2.ico">
@@ -326,12 +324,12 @@ div.tocify {
 
 <!-- setup 3col/9col grid for toc_float and main content  -->
 <div class="row">
-<div class="col-xs-12 col-sm-4 col-md-3">
+<div class="col-sm-12 col-md-4 col-lg-3">
 <div id="TOC" class="tocify">
 </div>
 </div>
 
-<div class="toc-content col-xs-12 col-sm-8 col-md-9">
+<div class="toc-content col-sm-12 col-md-8 col-lg-9">
 
 
 
@@ -443,11 +441,17 @@ div.tocify {
 <div id="overview" class="section level2">
 <h2>Overview</h2>
 <center>
-<p><img src="images/Only_One.png" alt="One person is texting on a phone in the top 
+<!-- <img src="images/Only_One.png" alt="One person is texting on a phone in the top 
 left, saying I'm sick of feeling like the only one. Another person is on a 
 laptop in the bottom right, saying I'm glad you reached out. I'm here for you. 
 Additional text reads text THRIVE 24/7/3655 to +1.313.662.8209 with the THRIVE 
-Lifeline logo underneath." style="width: 50%; height: 50%"/></p>
+Lifeline logo underneath." style="width: 50%; height: 50%"/> -->
+<p><img src="images/home2.png" alt="Two people are texting with buildings in the
+background. The first person is walking on message bubbles toward another 
+person. The first bubble says 'you are not alone.' 
+The second bubble says 'I'm here for you.' 
+The THRIVE Lifeline logo is in the corner with the phone number +1.313.662.8209."
+style="width: 100%; height: 100%"/></p>
 </center>
 <p><br></p>
 <p>If you’re experiencing a mental health crisis and need to chat with a qualified crisis responder, we are here for you.</p>
@@ -546,9 +550,6 @@ $(document).ready(function () {
 
 <script>
 $(document).ready(function ()  {
-
-    // temporarily add toc-ignore selector to headers for the consistency with Pandoc
-    $('.unlisted.unnumbered').addClass('toc-ignore')
 
     // move toc-ignore selectors from section div to header
     $('div.section.toc-ignore')

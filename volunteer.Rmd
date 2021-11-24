@@ -85,5 +85,7 @@ Crisis Responder training takes place over the course of eight weeks, with the
 potential for extensions up to six months.
 
 <center>
+**All times are given in the Eastern Time Zone (New York).**
+
 <iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23B39DDB&amp;ctz=America%2FNew_York&amp;src=Y192bGRlM285YzVidDU4a2gwM2tuMmI3Y240Y0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&amp;color=%23009688&amp;showCalendars=1&amp;showTabs=1&amp;showTitle=1" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 </center>
