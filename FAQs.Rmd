@@ -18,6 +18,14 @@ title: "Frequently Asked Questions (FAQs)"
   However, we are obligated to report credible threats of homicide to the 
   proper authorities if deescalation isn't possible.</p>
   <br>
+  <p>We recognize that calling emergency response services may not be ideal 
+  in every scenario. For more localized help, the following resources 
+  may be beneficial:
+  <ul>
+  <li>[Don't Call the Police](https://thriv.life/DontCall)</li>
+  <li>[Subdial App](https://thriv.life/Subdial)</li>
+  </ul>
+  </p>
 </details>
 
 
