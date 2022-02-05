@@ -10,10 +10,11 @@ output:
 **E**mpathy: A crisis text line staffed by people in STEMM with marginalized
 identities.
 
-THRIVE Lifeline is a grassroots response to COVID-19, organized by experienced
-crisis managers who personally understand the significance of displacement,
-isolation, and financial loss, especially for people in STEMM with marginalized
-identities.
+THRIVE Lifeline is a 501(c)(3) organization that began as a grassroots response 
+to COVID-19. 
+We are led by experienced crisis managers who personally understand the 
+significance of displacement, isolation, and financial loss, especially for 
+people in STEMM with marginalized identities.
 
 The summer of 2020 was particularly tumultuous for minority students due to
 a variety of reasons including, but not limited to: racist acts against
@@ -87,8 +88,9 @@ individuals who have navigated accommodations processes during our academic
 journeys as a result of neurodivergence, living with disabilities, and/or facing trauma.
 
 ## Mission
-THRIVE Lifeline’s mission is to end stigma for people with marginalized identities and close gaps in access to 
-crisis intervention, validation, and resources through whole-human support. 
+THRIVE Lifeline’s mission is to end stigma for people with marginalized 
+identities and close gaps in access to crisis intervention, validation, and 
+resources through whole-human support.
 
 We fulfill our mission by:
 
@@ -125,17 +127,17 @@ that we THRIVE.</p>
 </center>
 
 We need your help in order to keep THRIVE Lifeline as a vital resource!
-You can help by **volunteering, contributing**, and **sharing**.
+You can help by **volunteering, donating**, and **sharing**.
 
 - **Volunteer**: Learn more at our [volunteer information](volunteer.html) page.
 <br/>
-- **Contribute**: We are currently raising $60,000 to purchase and integrate a
-professional SMS platform that will allow us to increase our call volume while
-providing optimal service to our texters.
-We are additionally seeking funds to train 20 new suicide interveners in the
+- **Donate**: We are currently raising $60,000 to purchase and integrate a
+professional SMS platform that will allow us to increase our interaction volume 
+while providing optimal service to our texters.
+We are additionally seeking funds to certify 20 new suicide interveners in the
 upcoming year.
-   - [**PayPal Donations**](https://www.paypal.com/donate?hosted_button_id=CU5D6Q727QH5S)).
-<br>
+   - [**Donate today**](https://www.paypal.com/donate?hosted_button_id=CU5D6Q727QH5S)).
+<br> through our secure PayPal donation link.
 - **Share**: If you or anyone that you know is in need of support, THRIVE
 Lifeline is providing 100% confidential, judgment-free text-based support at
 <a href="sms:+13136628209&body=THRIVE">**+1.313.662.8209**</a>

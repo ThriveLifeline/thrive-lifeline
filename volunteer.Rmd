@@ -17,14 +17,15 @@ Requirements:
 
 * 18+ years old
 * Identify as an underrepresented individual
-* Willingness to complete 40 hours of training (8 weeks), one or two 3-hour
-on-call shifts per week, and 1-year commitment (Crisis Responders)
+* Willingness to complete 50 hours of training (10 weeks, 4-6 hours per week), 
+one or two 3-hour on-call shifts per week, and 1-year commitment 
+(Crisis Responders)
     + Training begins with Orientation and training intervals are re-offered every
       four weeks to allow for flexibility.
     + Training must be completed in no more than 6 months
     + If you are interested in an accelerated training schedule, please inquire.
-* Willingness to complete 4 hours of training and an average of 3-5 hours per
-week (all non-crisis response volunteers)
+* Willingness to complete 4 hours of training and the estimated weekly time 
+commitment given below (all non-crisis response volunteers)
 * Willingness to listen non-judgmentally to those in crisis
 
 Note: No prior experience is necessary. We promise mentoring all along the way,
@@ -41,36 +42,55 @@ trans-femme and/or femme nonbinary individuals, and/or veterans.**
 <br>
 We have the following volunteer positions available. *Full job descriptions are available in links beside each position.*
 
-   * **Crisis Responder**: Crisis Responder on THRIVE Lifeline: This volunteer will actively 
-     talk to, listen to, and help texters to the hotline. 
+   * **Crisis Responder**: Crisis Responder on THRIVE Lifeline. 
+     This volunteer will actively talk to, listen to, and help texters to the 
+     hotline. 
      [Full Description](https://drive.google.com/file/d/1IzXOQbvbEWZ_jM1NnnalyVNk5LDBsTy0/view)
-   * **Volunteer Coordinator**: This volunteer is a part of THRIVE's leadership team and will
-   actively recruit volunteers, process applications, onboard volunteers, and facilitate 
-   volunteer orientations.
-     [Full Description](https://drive.google.com/file/d/1IcOmy7zFi6_JK-tXnwVt2-mCSJ6GAEth/view)
-   * **Line Supervisor**: Great for grad students or early career professionals who have crisis 
-   intervention experience! This volunteer will support Crisis Responders during their shifts
-   being able to provide backup or deescalation in complex situations. 
-   [Full Description](https://drive.google.com/file/d/1KZIvOhlpTdmqFlBwhASe0rPVxxsU2dBW/view)
+   * **Assistant Volunteer Coordinator for Recruitment**: This volunteer will 
+   lead a recruitment plan and connect interested volunteers with positions 
+   that match their strengths. Estimated 6-8 hours per week.
+    [Full Description](https://drive.google.com/file/d/1t-xFH6dK41DBosL5_mZhTG6CBwDNIB-N/view)
+   * **Assistant Volunteer Coordinator for Applications**: This volunteer will 
+   manage all THRIVE volunteer applications, including communications with 
+   volunteers throughout the process. 
+   Estimated 6-8 hours per week, with flexible and reliable schedule.
+    [Full Description](https://drive.google.com/file/d/1klrA_v1cWABNIHTN-7ui80xAhREA_dCz/view)
+   * **Assistant Volunteer Coordinator for Onboarding**: This volunteer will 
+   guide new THRIVE volunteers through the onboarding process, including mentor 
+   connections and leading volunteer orientations. 
+   Estimated 6-8 hours per week, with flexible and reliable schedule.
+    [Full Description](https://drive.google.com/file/d/1vCV7X6a1Pp7F7mD4ELtS5hLxRaZ9mcr_/view)
+   * **Line Supervisor**: Great for grad students or early career professionals 
+   who have crisis intervention experience! 
+   This volunteer will support Crisis Responders during their shifts being able 
+   to provide backup or deescalation in complex situations.  
+   Expected 6 hours per week.
+   [Full Description](https://drive.google.com/file/d/1j1mX8RMvr7o0zTXxzm-jkLBtJ0qSRLmo/view)
    * **Training Assistant**: This volunteer will support our Crisis Responders in
    Training (CRiT) by acting as texters to the hotline and conducting practice
    text-based interactions at appointed times (within the Assistant's scheduled
-   availability). The volunteer will be given one scripted scenario, along with
-   its desired CRiT learning outcomes. A practice interaction will be
-   approximately 40-60 min.   
+   availability). 
+   The volunteer will be given one scripted scenario, along with its desired 
+   CRiT learning outcomes. 
+   A practice interaction will be approximately 40-60 min. 
+   Estimated time 6-8 hours per month, highly clustered in certain weeks where 
+   training occurs.
    [Full Description](https://drive.google.com/file/d/1xkAzZhHrGs4GUVIykK1xxEy6jwouxr08/view)
+<!--
    * **Resource Manager**: This volunteer will manage the vetting and addition of
-   new resources to our database.
+   new resources to our database. Esitmated 3-6 hours per week.
    [Full Description](https://drive.google.com/file/d/1yKHvWDhegqVUFTdJ4aZa0Hwd5MEFz2MU/view)
    * **Outreach Assistant**: This volunteer will assist with outreach, sharing
    THRIVE Lifeline as a resource and broadening the impact of the hotline.
-   * **Social Media Coordinator**: This volunteer will oversee all social media team members 
-   and aid in cross-collaboration between our various platforms as well as organize content
-   development and posting.
+   * **Social Media Coordinator**: This volunteer will oversee all social media 
+   team members and aid in cross-collaboration between our various platforms 
+   as well as organize content development and posting.
       [Full Description](https://drive.google.com/file/d/1CPEBocokCRSqq_CBUmf5pcKFsI-JXokS/view)
-   * **Social Media Team Members**: This volunteer will assist our Outreach Coordinator
-   and social media team with pointing people to THRIVE Lifeline in a manner 
-   that uplifts marginalized identities.
+-->
+   * **Social Media Team Members**: This volunteer will assist our Outreach 
+   Coordinator and social media team with pointing people to THRIVE Lifeline 
+   in a manner that uplifts marginalized identities. 
+   Estimated 3-6 hours per week.
          [Full Description](https://drive.google.com/file/d/1skqhjX80sC_wSPx-UnU_zRwVsCEwYD6G/view)
       + We are especially seeking science communicators.
 
@@ -81,7 +101,7 @@ We will reply within 48 hours.
 
 <br>
 
-Crisis Responder training takes place over the course of eight weeks, with the 
+Crisis Responder training takes place over the course of ten weeks, with the 
 potential for extensions up to six months.
 
 <center>
