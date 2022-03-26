@@ -231,6 +231,20 @@ input{
 }
 }
 
+/* March 2022 Tables coloration */
+.dt-button {
+  color: #fff;
+  background-color: #1F222A;
+}
+
+button.dt-button:hover {
+  color: #65427D;
+}
+
+div.dtsb-searchBuilder button.dtsb-clearAll {
+  color: black;
+}
+
 /* Set initial card styles */
 .col-md-4 {
   flex:0 0 auto;
