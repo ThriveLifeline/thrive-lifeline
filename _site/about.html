@@ -13,7 +13,7 @@
 
 <title>About THRIVE</title>
 
-<script src="site_libs/header-attrs-2.7/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.9/header-attrs.js"></script>
 <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/cosmo.min.css" rel="stylesheet" />
@@ -35,6 +35,8 @@
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+<link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
+<link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
 <html lang="en">
 <meta name="google-site-verification" content="UNceFcC342EIvSXli_OOnJ4EUtHOA3is0mMLsKINvcY">
 <link rel="shortcut icon" href="images/test2.ico">
@@ -324,12 +326,12 @@ div.tocify {
 
 <!-- setup 3col/9col grid for toc_float and main content  -->
 <div class="row">
-<div class="col-sm-12 col-md-4 col-lg-3">
+<div class="col-xs-12 col-sm-4 col-md-3">
 <div id="TOC" class="tocify">
 </div>
 </div>
 
-<div class="toc-content col-sm-12 col-md-8 col-lg-9">
+<div class="toc-content col-xs-12 col-sm-8 col-md-9">
 
 
 
@@ -489,7 +491,7 @@ We believe that it is together that we THRIVE.
 <p>We need your help in order to keep THRIVE Lifeline as a vital resource! You can help by <strong>volunteering, donating</strong>, and <strong>sharing</strong>.</p>
 <ul>
 <li><strong>Volunteer</strong>: Learn more at our <a href="volunteer.html">volunteer information</a> page. <br/></li>
-<li><strong>Donate</strong>: We are currently raising $60,000 to purchase and integrate a professional SMS platform that will allow us to increase our interaction volume while providing optimal service to our texters. We are additionally seeking funds to certify 20 new suicide interveners in the upcoming year.
+<li><strong>Donate</strong>: Your donations of any size help to save and affirm lives. Currently we are are raising operational funds and funds to support our RECRUIT internship program.
 <ul>
 <li><a href="https://www.paypal.com/donate?hosted_button_id=CU5D6Q727QH5S"><strong>Donate today</strong></a>). <br> through our secure PayPal donation link.</li>
 </ul></li>
@@ -596,6 +598,9 @@ $(document).ready(function () {
 
 <script>
 $(document).ready(function ()  {
+
+    // temporarily add toc-ignore selector to headers for the consistency with Pandoc
+    $('.unlisted.unnumbered').addClass('toc-ignore')
 
     // move toc-ignore selectors from section div to header
     $('div.section.toc-ignore')
