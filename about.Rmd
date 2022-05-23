@@ -87,7 +87,7 @@ barplot(traits_percentage,             ## Use percentage data
 ```
 
 <br>
-Our backgrounds include familial rejection due to our identities, homelessness,
+Our backgrounds include familial rejection due to our identities, food and housing insecurity,
 poverty, lack of access to education, immigration, and more. Many of us are 
 individuals who have navigated accommodations processes during our academic 
 journeys as a result of neurodivergence, living with disabilities, and/or facing trauma.
