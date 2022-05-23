@@ -10,22 +10,27 @@ output:
 **E**mpathy: A crisis text line staffed by people in STEMM with marginalized
 identities.
 
-THRIVE Lifeline is a 501(c)(3) organization that began as a grassroots response 
-to COVID-19. 
-We are led by experienced crisis managers who personally understand the 
-significance of displacement, isolation, and financial loss, especially for 
-people in STEMM with marginalized identities.
+THRIVE Lifeline is a 501(c)(3) grassroots organization dedicated to
+changing the landscape of mental health support for people with 
+marginalized identities. Among our services, we offer a free 
+text-based crisis line. We are led by experienced crisis managers who 
+are fed up with watching our communities fall prey to systemic 
+marginalization only to face dismissive, unsupportive, and sometimes 
+dangerous interactions through traditional mental health avenues. 
+Since opening in June 2020 we have served texters in all 50 U.S. 
+states, Puerto Rico, all Canadian provinces, and 37 additional 
+countries worldwide.
 
-The summer of 2020 was particularly tumultuous for minority students due to
-a variety of reasons including, but not limited to: racist acts against
-Asian-Americans; police brutality, protests, and national discussions of
-systemic racism; removal of healthcare protections for transgender people,
-and the devastating impact and associated uncertainties of the COVID-19 pandemic.
 
-Amid a crisis of global scale, many marginalized individuals face greater
-personal crises, including being sent to unsupportive and/or dangerous home
-environments, greater health risks, job, food, and home insecurity, and the
-inability to access what may be their only safe community.
+We take a different approach. When you text THRIVE Lifeline, you can 
+rest assured that our goal is to create the space you need to feel 
+heard, valued, and uplifted. YOU, not your crisis, are at the center 
+of our conversation. Our Crisis Responders all have at least one 
+marginalized identity and are rigorously trained using our proprietary 
+curriculum, taught by and for people with marginalized identities. We hope
+that when you reach out to THRIVE you will talk to someone who gets it. 
+
+<br>
 
 ## Who Are We?
 THRIVE Lifeline is Trans-led and operated. We are a group of certified suicide
@@ -51,15 +56,15 @@ par(mar=c(6,4,4,10), xpd=TRUE)
 colors = c("#65427D", "#FAF4A0") #"#58A4AF", "#EF8254", "#C2C8E5", "#AC8FC0")
 
 # Trait = c(yes, no)
-LGBTQ = c(95, 5)
-WNB = c(75, 25)
-POC = c(70, 30)
-Trans = c(65,35)
-Disability = c(50, 50)
-Immigrant = c(15, 85)
+LGBTQ = c(80, 20)
+POC = c(63, 37)
+Disability = c(54, 46)
+Trans  = c(40,60)
+International = c(29,71)
+Immigrant = c(19, 81)
 
 ## Create a dataframe with all of these for plotting
-traits = data.frame(LGBTQ, WNB, POC, Trans, Disability, Immigrant)
+traits = data.frame(LGBTQ, POC, Disability, Trans, International, Immigrant)
 
 ## Transform the data into %
 traits_percentage <- apply(traits, 2, function(x){x*100/sum(x,na.rm=T)})
@@ -71,8 +76,8 @@ barplot(traits_percentage,             ## Use percentage data
         border="white",                ## Border color for the boxes
         ylab="Percentage",             ## Y-axis label
           ## Name the datasets; \n is a linebreak
-        names.arg=c("LGBTQ2S+", "Women\n& Non-Binary", "People of\nColor", 
-                    "Transgender", "People with\nDisabilities", "Immigrants"), 
+        names.arg=c("LGBTQ2S+", "People of\nColor", "People with\nDisabilities", 
+                    "Transgender", "International", "Immigrants"), 
         legend=c("Yes"),               ## Legend Label
         las=2,                         ## Turn x-axis 90º
           ## Force legend outside the plot
