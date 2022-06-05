@@ -18,8 +18,9 @@ are fed up with watching our communities fall prey to systemic
 marginalization only to face dismissive, unsupportive, and sometimes 
 dangerous interactions through traditional mental health avenues. 
 Since opening in June 2020 we have served texters in all 50 U.S. 
-states, Puerto Rico, all Canadian provinces, and 37 additional 
-countries worldwide.
+states and Puerto Rico.
+<!--, all Canadian provinces, and 37 additional 
+countries worldwide.-->
 
 
 We take a different approach. When you text THRIVE Lifeline, you can 
@@ -44,7 +45,7 @@ volunteer run and our volunteers are spread globally.
     }
 </style>
 
-```{r, echo=FALSE, message=FALSE, fig.align="center", fig.cap="Barplot of the identities of the THRIVE Lifeline team. LGBTQ2S+ makes up 95%, women and non-binary makes up 75%, people of color make up 70%, people with disabilities make up 50%, and immigrants make up 15%."}
+```{r, echo=FALSE, message=FALSE, fig.align="center", fig.cap="Barplot of the identities of the THRIVE Lifeline team. LGBTQ2S+ makes up 80%, people of color make up 63%, people with disabilities make up 54%, trans people make up 40%, and immigrants make up 19%."}
 ## Use fig.cap to set up caption/alt text. The CSS directly above will silence 
 ## The caption
 
@@ -60,11 +61,11 @@ LGBTQ = c(80, 20)
 POC = c(63, 37)
 Disability = c(54, 46)
 Trans  = c(40,60)
-International = c(29,71)
+#International = c(29,71)
 Immigrant = c(19, 81)
 
 ## Create a dataframe with all of these for plotting
-traits = data.frame(LGBTQ, POC, Disability, Trans, International, Immigrant)
+traits = data.frame(LGBTQ, POC, Disability, Trans, Immigrant)
 
 ## Transform the data into %
 traits_percentage <- apply(traits, 2, function(x){x*100/sum(x,na.rm=T)})
@@ -77,7 +78,7 @@ barplot(traits_percentage,             ## Use percentage data
         ylab="Percentage",             ## Y-axis label
           ## Name the datasets; \n is a linebreak
         names.arg=c("LGBTQ2S+", "People of\nColor", "People with\nDisabilities", 
-                    "Transgender", "International", "Immigrants"), 
+                    "Transgender", "Immigrants"), 
         legend=c("Yes"),               ## Legend Label
         las=2,                         ## Turn x-axis 90º
           ## Force legend outside the plot
