@@ -1,40 +1,40 @@
 /* THRIVE Lifeline Custom CSS */
 
-/* 
+/*
 Main Hex Colors:
 #240C34
 #65427d
-#7B4D9E   
+#7B4D9E
 #cfcbd1
 
 Colors We’ve used in gradients
-#5c3874  
+#5c3874
 #74538d
 #7e6098
 #896ca3
 #8f73aa
 
 Colors We’ve used in backgrounds / secondary colors
-Gray:   #a5a29f    
-Gray:   #918e8b   
-Tan:    #ddd2bf  
+Gray:   #a5a29f
+Gray:   #918e8b
+Tan:    #ddd2bf
 Blue:   #C3C9E9
-Purple: #ab8fc0   
-Yellow: #FDF89C   
-Teal:   #74aab3   
+Purple: #ab8fc0
+Yellow: #FDF89C
+Teal:   #74aab3
 Orange: #f1a685
 
 Fonts
 Rajdhani (Logo--THRIVE; Flyers; Training Materials)
 Kaushan Script (Logo--Lifeline; Flyers)
 League Spartan (Training material)
-Open Sans or PT Sans (Handbook; Partnership memos or outreach letters; 
+Open Sans or PT Sans (Handbook; Partnership memos or outreach letters;
 Training Materials)
 */
 
 /* Change the fonts */
 @import url(https://fonts.googleapis.com/css?family=Open+Sans);
-h1, h2, h3 { 
+h1, h2, h3 {
   font-family: 'Open Sans', sans-serif;
 }
 body { font-family: "Open Sans", "Helvetica", sans-serif; }
@@ -229,6 +229,26 @@ input{
 .dataTables_wrapper .dataTables_paginate .paginate_button {
     color: white !important;
 }
+
+/* Newer DT versions June 2022 */
+.dataTables_wrapper .dataTables_filter input {
+    background-color: white;
+}
+
+button.dt-button, div.dt-button, a.dt-button, input.dt-button {
+  background: white;
+}
+
+div.dtsb-searchBuilder button.dtsb-button {
+    background: white;
+}
+
+div.dt-buttons .dt-button:hover {
+    background: #d9d9d9;
+}
+
+/* End update */
+
 }
 
 /* March 2022 Tables coloration */
@@ -279,7 +299,7 @@ div.dtsb-searchBuilder button.dtsb-clearAll {
 
 /* TOC hover is sm-12 md-4 lg- 3
 
-Body is 
+Body is
 sm-12 md-8 lg-9
 */
 .card{
