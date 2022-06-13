@@ -11,7 +11,7 @@
 
 
 
-<title>Shareable Graphics</title>
+<title>TRANS: Togetherness + Really Awesome Non-Normative Support Group</title>
 
 <script src="site_libs/header-attrs-2.14/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
@@ -29,6 +29,9 @@
        h6 {font-size: 12px;}
        code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
        pre:not([class]) { background-color: white }</style>
+<script src="site_libs/jqueryui-1.11.4/jquery-ui.min.js"></script>
+<link href="site_libs/tocify-1.9.1/jquery.tocify.css" rel="stylesheet" />
+<script src="site_libs/tocify-1.9.1/jquery.tocify.js"></script>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
@@ -253,6 +256,69 @@ $(document).ready(function () {
 
 
 
+<style type="text/css">
+
+#TOC {
+  margin: 25px 0px 20px 0px;
+}
+@media (max-width: 768px) {
+#TOC {
+  position: relative;
+  width: 100%;
+}
+}
+
+@media print {
+.toc-content {
+  /* see https://github.com/w3c/csswg-drafts/issues/4434 */
+  float: right;
+}
+}
+
+.toc-content {
+  padding-left: 30px;
+  padding-right: 40px;
+}
+
+div.main-container {
+  max-width: 1200px;
+}
+
+div.tocify {
+  width: 20%;
+  max-width: 260px;
+  max-height: 85%;
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  div.tocify {
+    width: 25%;
+  }
+}
+
+@media (max-width: 767px) {
+  div.tocify {
+    width: 100%;
+    max-width: none;
+  }
+}
+
+.tocify ul, .tocify li {
+  line-height: 20px;
+}
+
+.tocify-subheader .tocify-item {
+  font-size: 0.90em;
+}
+
+.tocify .list-group-item {
+  border-radius: 0px;
+}
+
+
+</style>
+
+
 
 </head>
 
@@ -260,6 +326,16 @@ $(document).ready(function () {
 
 
 <div class="container-fluid main-container">
+
+
+<!-- setup 3col/9col grid for toc_float and main content  -->
+<div class="row">
+<div class="col-xs-12 col-sm-4 col-md-3">
+<div id="TOC" class="tocify">
+</div>
+</div>
+
+<div class="toc-content col-xs-12 col-sm-8 col-md-9">
 
 
 
@@ -391,159 +467,98 @@ $(document).ready(function () {
 
 
 
-<h1 class="title toc-ignore">Shareable Graphics</h1>
+<h1 class="title toc-ignore">TRANS: Togetherness + Really Awesome
+Non-Normative Support Group</h1>
 
 </div>
 
 
-<p>You are free to download these graphics and share them widely!</p>
-<!-- Add 1 row of 3 cards -->
-<div class="container">
-<div class="row">
-        <div class="col-md-4">
-        <div class="card h-100">
-          <div class="card-body">
-            <div class="card-img">
-              <img src="images/gallery/balanced-life.svg" class="card-img-pub" alt="Living a Balanced Life. Boxes include: 1. Work at your own pace, get things done with a to-do list, write your progress in journal. 2. Have 30-minute recess every workday, don't forget to eat, and do a simple workout in the evening. 3. Take a rest when you're tired, relax on your bed, and take time to regain your mood. 4. Don't forget to text your loved ones, get healthy boundary, let them know you're resting and need alone time">
-            </div>
-              <p class="card-title">Living a Balanced Life</p>
-                <!-- <p class="card-text" style="font-style: italic;">ABC</p> -->
-            </div>
-            <div class="card-footer mx-auto">
-              <a download="balanced-life.svg" href="images/gallery/balanced-life.svg" class="button"><i class="fas fa-download" aria-hidden="true"></i> Download</a>
-                <!-- <a href="https://thrivelifeline.org/images/gallery/balanced-life.svg" class="button"><i class="fas fa-download" aria-hidden="true"></i> Download</a> -->
-            </div>
-            </div>
-          </div>
-          <div class="col-md-4">
-            <div class="card h-100">
-              <div class="card-body">
-                  <div class="card-img">
-                      <img src="images/gallery/be-gentle.svg" class="card-img-pub" alt="Text over flowers that says 'Be gentle with yourself, you're doing your best.'">
-                    </div>
-                      <p class="card-title">Be Gentle with Yourself</p>
-                    </div>
-                    <div class="card-footer mx-auto">
-                    <a download="be-gentle.svg" href="images/gallery/be-gentle.svg" class="button"><i class="fas fa-download" aria-hidden="true"></i> Download</a>
-                      <!-- <a href="https://thrivelifeline.org/images/gallery/be-gentle.svg" class="button"><i class="fas fa-download" aria-hidden="true"></i> Download</a> -->
-                    </div>
-            </div>
-            </div>
-          <div class="col-md-4">
-              <div class="card h-100">
-              <div class="card-body">
-                  <div class="card-img">
-                      <img src="images/gallery/beautiful.svg" class="card-img-pub" alt="White heart on purple with text 'You're beautiful.'">
-                    </div>
-                      <p class="card-title">You're Beautiful</p>
-                    </div>
-                    <div class="card-footer mx-auto">
-                      <a download="beautiful.svg" href="images/gallery/beautiful.svg" class="button"><i class="fas fa-download" aria-hidden="true"></i> Download</a>
-                        <!-- <a href="https://thrivelifeline.org/images/gallery/beautiful.svg" class="button"><i class="fas fa-download" aria-hidden="true"></i> Download</a>  -->
-                    </div>
-                </div>
-            </div>
+<center>
+<!-- <i class="fas fa-hard-hat fa-3x" aria-hidden="true"></i> Under Construction! <i class="fas fa-hard-hat fa-3x" aria-hidden="true"></i> -->
+<p><img src="images/trans2.png" alt="Text reads T.R.A.N.S Togetherness + Really 
+Awesome Non-Normative Support. 
+On the left hand side is a cloud with sparkles and water lines in the colors 
+of the trans flag. 
+On the right hand side is a rainbow with the colors of the trans flag. 
+Below the rainbow is the THRIVE Lifeline logo." 
+style="width: 100%; height: 100%"/></p>
+</center>
+<p><br></p>
+<p>A quarterly support group that specializes in helping people in STEMM
+who are Two-Spirit, Transgender, Agender, Genderqueer, Gender
+Nonconforming, Genderfluid, Nonbinary, Questioning, or otherwise exist
+outside of the gender binary or are a person of Trans experience (and
+welcomes all such people who need community, regardless of affiliation
+with a STEMM field).</p>
+<p>Age limit is 16 or older. Maximum capacity for each group is 100
+people.</p>
+<p><br></p>
+<div id="dates-and-topics" class="section level2">
+<h2>Dates and Topics</h2>
+<p>All support group meetings are at 7pm Eastern Time Zone (New
+York).</p>
+<ul>
+<li><strong>Saturday August 6, 2022</strong>
+<ul>
+<li>Topic: coming out and being out in school and the workplace.</li>
+<li>Link to register: <a href="https://thriv.life/trans"
+class="uri">https://thriv.life/trans</a></li>
+</ul></li>
+<li><strong>Saturday November 5, 2022</strong>
+<ul>
+<li>Topic: navigating relationships and dating.</li>
+<li>Link to register will be posted after the first support group
+meeting.</li>
+</ul></li>
+<li><strong>Saturday February 4, 2023</strong>
+<ul>
+<li>Topic: dealing with friends and family.</li>
+<li>Link to register will be posted after the second support group
+meeting.</li>
+</ul></li>
+<li><strong>Saturday May 6, 2023</strong>
+<ul>
+<li>Topic: managing dysphoria.</li>
+<li>Link to register will be posted after the third support group
+meeting.</li>
+</ul></li>
+</ul>
+<p><br></p>
+<p>Free wellness gift for the first 50 attendees! Register today to get
+your free TRANS affirmation cards (limit 1 per person): <a
+href="https://thriv.life/trans"
+class="uri">https://thriv.life/trans</a></p>
+<p><br></p>
 </div>
+<div id="what-to-expect" class="section level2">
+<h2>What to Expect</h2>
+<p>A place where you can THRIVE! Come as you are and have a candid
+conversation with others who share your identities and experiences.
+You’ll be with people who are just people, like you. Our groups are
+facilitated by trained crisis responders who identify as Trans and
+Nonbinary and personally understand gaps in affirming mental health
+resources, community, and relevant resources. We don’t have or offer
+answers; only listen and support. Whoever you are, wherever you are,
+we’re here for you.</p>
+<p><br></p>
+<p>The general support group structure will be:</p>
+<ul>
+<li><strong>Welcome:</strong> Get comfortable in our space, and go over
+our community guidelines.</li>
+<li><strong>Introductions:</strong> Who we are, what THRIVE is, what
+this support group is about.</li>
+<li><strong>Discussions:</strong> Each group has a theme with
+facilitated topics and questions. We’ll give you the space to discuss
+these in small groups with facilitators.</li>
+<li><strong>Wrap-Up:</strong> We’ll introduce TRANS affirmation cards
+and discuss future support groups and ways to stay connected.</li>
+</ul>
+<p><br></p>
+<p>Funding for 2022-2023 TRANS support group meetings was made possible
+through the generous gift of the <a
+href="https://rileysway.org/">Riley’s Way Foundation</a> through their
+Call for Kindness Fellowship.</p>
 </div>
-<!-- End Row 1 -->
-
-<!-- Add 1 row of 3 cards -->
-<div class="container">
-<div class="row">
-        <div class="col-md-4">
-        <div class="card h-100">
-          <div class="card-body">
-            <div class="card-img">
-              <img src="images/gallery/experience.svg" class="card-img-pub" alt="A cartoon person with text 'No matter what you experience in life, you will always be enough.'">
-            </div>
-              <p class="card-title">You Are Enough</p>
-            </div>
-            <div class="card-footer mx-auto">
-              <a download="experience.svg" href="images/gallery/experience.svg" class="button"><i class="fas fa-download" aria-hidden="true"></i> Download</a>
-                <!-- <a href="https://thrivelifeline.org/images/gallery/experience.svg" class="button"><i class="fas fa-download" aria-hidden="true"></i> Download</a> -->
-            </div>
-            </div>
-          </div>
-          <div class="col-md-4">
-            <div class="card h-100">
-              <div class="card-body">
-                  <div class="card-img">
-                      <img src="images/gallery/give.svg" class="card-img-pub" alt="A person giving themself a hug with text 'What you give to others... you can give to yourself.'">
-                    </div>
-                      <p class="card-title">Give What You Give</p>
-                    </div>
-                    <div class="card-footer mx-auto">
-                      <a download="give.svg" href="images/gallery/give.svg" class="button"><i class="fas fa-download" aria-hidden="true"></i> Download</a>
-                      <!-- <a href="https://thrivelifeline.org/images/gallery/give.svg" class="button"><i class="fas fa-download" aria-hidden="true"></i> Download</a> --> 
-                    </div>
-            </div>
-            </div>
-          <div class="col-md-4">
-              <div class="card h-100">
-              <div class="card-body">
-                  <div class="card-img">
-                      <img src="images/gallery/okay.svg" class="card-img-pub" alt="Clip art images corresponding to text. The title is 'It's okay to?!' with suggestions ask for help, have bad days, say 'no', grow as a person, take a break, and ditch toxic people.">
-                    </div>
-                      <p class="card-title">It's Okay</p>
-                    </div>
-                    <div class="card-footer mx-auto">
-                      <a download="okay.svg" href="images/gallery/okay.svg" class="button"><i class="fas fa-download" aria-hidden="true"></i> Download</a>
-                        <!-- <a href="https://thrivelifeline.org/images/gallery/okay.svg" class="button"><i class="fas fa-download" aria-hidden="true"></i> Download</a> -->
-                    </div>
-                </div>
-            </div>
-</div>
-</div>
-<!-- End Row 2 -->
-
-<!-- Add 1 row of 3 cards -->
-<div class="container">
-<div class="row">
-        <div class="col-md-4">
-        <div class="card h-100">
-          <div class="card-body">
-            <div class="card-img">
-              <img src="images/gallery/self-care.svg" class="card-img-pub" alt="A person sitting with a cat and the text 'Self-care isn't selfish.'">
-            </div>
-              <p class="card-title">Self-Care</p>
-            </div>
-            <div class="card-footer mx-auto">
-              <a download="self-care.svg" href="images/gallery/self-care.svg" class="button"><i class="fas fa-download" aria-hidden="true"></i> Download</a>
-                <!-- <a href="https://thrivelifeline.org/images/gallery/self-care.svg" class="button"><i class="fas fa-download" aria-hidden="true"></i> Download</a> -->
-            </div>
-            </div>
-          </div>
-          <div class="col-md-4">
-            <div class="card h-100">
-              <div class="card-body">
-                  <div class="card-img">
-                      <img src="images/gallery/stress-management.svg" class="card-img-pub" alt="Cartoons on purple background with text 'Practical ways to reduce stress levels. Get moving, meditate or do yoga, relax with friends, and talk it out.'">
-                    </div>
-                      <p class="card-title">Stress Management</p>
-                    </div>
-                    <div class="card-footer mx-auto">
-                      <a download="stress-management.svg" href="images/gallery/stress-management.svg" class="button"><i class="fas fa-download" aria-hidden="true"></i> Download</a>
-                      <!-- <a href="https://thrivelifeline.org/images/gallery/stress-management.svg" class="button"><i class="fas fa-download" aria-hidden="true"></i> Download</a> -->
-                    </div>
-            </div>
-            </div>
-          <div class="col-md-4">
-              <div class="card h-100">
-              <div class="card-body">
-                  <div class="card-img">
-                      <img src="images/gallery/worthy.svg" class="card-img-pub" alt="A cartoon person holding a sign that says 'I am worthy'.">
-                    </div>
-                      <p class="card-title">I am Worthy</p>
-                    </div>
-                    <div class="card-footer mx-auto">
-                      <a download="worthy.svg" href="images/gallery/worthy.svg" class="button"><i class="fas fa-download" aria-hidden="true"></i> Download</a>
-                        <!-- <a href="https://thrivelifeline.org/images/gallery/worthy.svg" class="button"><i class="fas fa-download" aria-hidden="true"></i> Download</a> -->
-                    </div>
-                </div>
-            </div>
-</div>
-</div>
-<!-- End Row 3 -->
 
 <div class="footer">
 
@@ -576,6 +591,8 @@ $(document).ready(function () {
 </div>
 
 
+</div>
+</div>
 
 </div>
 
@@ -608,6 +625,35 @@ $(document).ready(function () {
 
 <!-- code folding -->
 
+<script>
+$(document).ready(function ()  {
+
+    // temporarily add toc-ignore selector to headers for the consistency with Pandoc
+    $('.unlisted.unnumbered').addClass('toc-ignore')
+
+    // move toc-ignore selectors from section div to header
+    $('div.section.toc-ignore')
+        .removeClass('toc-ignore')
+        .children('h1,h2,h3,h4,h5').addClass('toc-ignore');
+
+    // establish options
+    var options = {
+      selectors: "h1,h2,h3",
+      theme: "bootstrap3",
+      context: '.toc-content',
+      hashGenerator: function (text) {
+        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_');
+      },
+      ignoreSelector: ".toc-ignore",
+      scrollTo: 0
+    };
+    options.showAndHide = true;
+    options.smoothScroll = true;
+
+    // tocify
+    var toc = $("#TOC").tocify(options).data("toc-tocify");
+});
+</script>
 
 <!-- dynamically load mathjax for compatibility with self-contained -->
 <script>

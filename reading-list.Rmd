@@ -6,26 +6,38 @@ output:
     toc_float: true
 ---
 
-### Navigating Academia
+### Navigating Academia and the Workplace
+* *A Black Woman's Guide to Earning a Ph.D.: Surviving the First 2 Years* 
+by Nicole A. Telfer,
+[ISBN: 9781664130036](https://www.goodreads.com/book/show/56301865-a-black-woman-s-guide-to-earning-a-ph-d)
 * *Academic Ableism: Disability and Higher Education* by Jay T. Dolmage,
 [ISBN: 9780472053711](https://www.goodreads.com/book/show/35069841-academic-ableism)
 * *Black STEM USA: America's Next Civil Rights Movement* by C.M. Williams and 
 Sharon Ewell Foster, [ISBN:9780996870702](https://www.goodreads.com/book/show/31448244-black-stem-usa)
 * *Decolonizing Academia: Poverty, Oppression and Pain* by Clelia O. Rodríguez,
 [ISBN: 9781773630748](https://www.goodreads.com/book/show/40249837-decolonizing-academia)
+* *Hooded: A Black Girl’s Guide to the Ph.D.* by Malika Grayson,
+[ISBN: 9781953307](https://www.goodreads.com/book/show/55598728-hooded)
+* *Our Doctoral Journey: A Collection of Black Women's Experiences* 
+by Nicole A. Telfer,
+[ISBN: 9781669827092](https://www.goodreads.com/book/show/61238612-our-doctoral-journey)
 * *Surviving Your Stupid Stupid Decision to Go to Grad School* by Adam Ruben,
 [ISBN: 9780307589446](https://www.goodreads.com/book/show/7769479-surviving-your-stupid-stupid-decision-to-go-to-grad-school)
+* *Twice as Hard: The Stories of Black Women Who Fought to Become Physicians, 
+from the Civil War to the Twenty-First Century* by Jasmine Brown,
+[ISBN: 9780807025086](https://www.goodreads.com/book/show/61022944-twice-as-hard)
 
 ### Academic Fiction
 * *Real Life* by Brandon Taylor,
 [ISBN: 9780525538882](https://www.goodreads.com/book/show/46263943-real-life)
-* *Transcendent Kingdom * by Yaa Gyasi, 
+* *Transcendent Kingdom* by Yaa Gyasi, 
 [ISBN: 9780525658184](https://www.goodreads.com/book/show/48570454-transcendent-kingdom)
 
 ### Workbooks and Mental Health Books
 * *Managing Your Mind: The Mental Fitness Guide* by Gillian Butler,
 [ISBN: 9780195314533](https://www.goodreads.com/book/show/883834.Managing_Your_Mind)
-* *The Unapologetic Guide to Black Mental Health: Navigate an Unequal System, Learn Tools for Emotional Wellness, and Get the Help you Deserve* by Rheeda Walker, 
+* *The Unapologetic Guide to Black Mental Health: Navigate an Unequal System, 
+Learn Tools for Emotional Wellness, and Get the Help you Deserve* by Rheeda Walker, 
 [ISBN: 9781684034147](https://www.goodreads.com/book/show/51043956-the-unapologetic-guide-to-black-mental-health)
 * *The Queer and Transgender Resilience Workbook* by Anneliese A. Singh,
 [ISBN: 9781626259461](https://www.goodreads.com/book/show/33776101-the-queer-and-transgender-resilience-workbook)
@@ -39,24 +51,31 @@ as Your Partner Transitions* by D.M. Maynard,
 ### Affirming Religious Texts
 * *The Black Trans Prayer Book* co-edited by J Mase III and Lady Dan Figueroa 
 Edidi, [ISBN: 9781678197612](https://theblacktransprayerbook.org/)
-* *God and the Gay Christian* by Matthew Vines, [ISBN: 9781601425164](https://www.goodreads.com/book/show/17934778-god-and-the-gay-christian)
+* *God and the Gay Christian* by Matthew Vines, 
+[ISBN: 9781601425164](https://www.goodreads.com/book/show/17934778-god-and-the-gay-christian)
 * *Transforming: The Bible & the Lives of Transgender Christians* by Austen Hartke, 
 [ISBN: 9780664263102](https://www.goodreads.com/book/show/36234500-transforming)
   * Translation in Spanish: [*TransFormadxs: La Biblia y las Vidas de lxs 
   Cristianxs Transgénero*](http://austenhartke.com/book)
-* *Walking the Bridgeless Canyon: Repairing the Breach Between the Church and the LGBT Community* by Kathy Baldock [ASIN: B00OBXN80G](https://www.goodreads.com/book/show/23367214-walking-the-bridgeless-canyon)
+* *Walking the Bridgeless Canyon: Repairing the Breach Between the Church and 
+the LGBT Community* by Kathy Baldock,
+[ASIN: B00OBXN80G](https://www.goodreads.com/book/show/23367214-walking-the-bridgeless-canyon)
 * *We Have Always Been Here: A Queer Muslim Memoir* by Samra Habib,
 [ISBN: 9780735235007](https://www.goodreads.com/book/show/43383506-we-have-always-been-here)
 
 ### Children's and Illustrated Books
 * *The Secret Lives of Scientists, Engineers, and Doctors: Volume 1* by Faisal
-Hossain, [ISBN: 9781645434450](https://mascotbooks.com/mascot-marketplace/buy-books/childrens/picture-books/the-secret-lives-of-scientists-engineers-and-doctors-volume-1/)
+Hossain, 
+[ISBN: 9781645434450](https://mascotbooks.com/mascot-marketplace/buy-books/childrens/picture-books/the-secret-lives-of-scientists-engineers-and-doctors-volume-1/)
 * *Introducing Teddy: A Gentle Story About Gender and Friendship* by Jess Walton
-and illustrated by Dougal MacPherson, [ISBN: 9781681192109](https://www.goodreads.com/book/show/27158837-introducing-teddy)
+and illustrated by Dougal MacPherson, 
+[ISBN: 9781681192109](https://www.goodreads.com/book/show/27158837-introducing-teddy)
 * *When Aidan Became A Brother* by Kyle Lukoff and illustrated by Kaylani
-Juanita, [ISBN: 9781620148372](https://www.goodreads.com/book/show/39987021-when-aidan-became-a-brother)
+Juanita, 
+[ISBN: 9781620148372](https://www.goodreads.com/book/show/39987021-when-aidan-became-a-brother)
 * *It Feels Good to Be Yourself: A Book About Gender Identity* by Theresa Thorn
-and illustrated by Noah Grigni, [ISBN: 9781250302953](https://www.goodreads.com/book/show/40864913-it-feels-good-to-be-yourself)
+and illustrated by Noah Grigni, 
+[ISBN: 9781250302953](https://www.goodreads.com/book/show/40864913-it-feels-good-to-be-yourself)
 
 ### LGBTQ+ YA Fiction
 *  *I am J* by Cris Beam,

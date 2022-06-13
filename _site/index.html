@@ -13,7 +13,7 @@
 
 <title>Welcome to THRIVE</title>
 
-<script src="site_libs/header-attrs-2.11/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.14/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/cosmo.min.css" rel="stylesheet" />
@@ -90,6 +90,7 @@ if (window.hljs) {
 
 
 
+
 <link rel="stylesheet" href="style.css" type="text/css" />
 
 
@@ -114,6 +115,9 @@ button.code-folding-btn:focus {
 }
 summary {
   display: list-item;
+}
+details > summary > p:only-child {
+  display: inline;
 }
 pre code {
   padding: 0;
@@ -401,17 +405,42 @@ div.tocify {
     </li>
   </ul>
 </li>
-<li>
+<!-- <li>
   <a href="volunteer.html">Volunteer</a>
 </li>
 <li>
   <a href="recruit.html">RECRUIT Internship</a>
 </li>
 <li>
-  <a href="trans_support_group.html">TRANS Support Group</a>
+  <a href="trans-support-group.html">TRANS Support Group</a>
 </li>
 <li>
   <a href="partners.html">Partners</a>
+</li> -->
+<!-- Start Join THRIVE -->
+<li class="dropdown">
+    <!-- <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false"> -->
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+    Join THRIVE
+
+    <span class="caret"></span>
+  </a>
+  <!-- <ul class="dropdown-menu" role="menu"> -->
+  <ul class="dropdown-menu">
+    <li>
+      <a href="volunteer.html">Volunteer</a>
+    </li>
+    <li>
+      <a href="recruit.html">RECRUIT Internship</a>
+    </li>
+    <li>
+      <a href="partners.html">Partners</a>
+    </li>
+  </ul>
+</li>
+<!-- End Join THRIVE -->
+<li>
+  <a href="trans-support-group.html">TRANS Support Group</a>
 </li>
 <li>
   <a href="https://www.paypal.com/donate?hosted_button_id=CU5D6Q727QH5S" target="_blank">
@@ -446,26 +475,41 @@ div.tocify {
 <div id="overview" class="section level2">
 <h2>Overview</h2>
 <center>
-<!-- <img src="images/Only_One.png" alt="One person is texting on a phone in the top 
-left, saying I'm sick of feeling like the only one. Another person is on a 
-laptop in the bottom right, saying I'm glad you reached out. I'm here for you. 
+<!-- <img src="images/Only_One.png" alt="One person is texting on a phone in 
+the top left, saying I'm sick of feeling like the only one. Another person is 
+on a laptop in the bottom right, saying I'm glad you reached out. 
+I'm here for you. 
 Additional text reads text THRIVE 24/7/3655 to +1.313.662.8209 with the THRIVE 
 Lifeline logo underneath." style="width: 50%; height: 50%"/> -->
 <p><img src="images/home2.png" alt="Two people are texting with buildings in the
 background. The first person is walking on message bubbles toward another 
 person. The first bubble says 'you are not alone.' 
 The second bubble says 'I'm here for you.' 
-The THRIVE Lifeline logo is in the corner with the phone number +1.313.662.8209."
+The THRIVE Lifeline logo is in the corner with the phone 
+number +1.313.662.8209."
 style="width: 100%; height: 100%"/></p>
 </center>
 <p><br></p>
-<p>If you’re experiencing a mental health crisis and need to chat with a qualified crisis responder, we are here for you.</p>
-<p>If you are an underrepresented individual (person of color, LGBTQ2S+, person living with disabilities, neurodiverse, and/or other marginalized identities), and experiencing obstacles because of (or simply have questions about) your identities, we want to help you navigate those.</p>
+<p>If you’re experiencing a mental health crisis and need to chat with a
+qualified crisis responder, we are here for you.</p>
+<p>If you are an underrepresented individual (person of color, LGBTQ2S+,
+person living with disabilities, neurodiverse, and/or other marginalized
+identities), and experiencing obstacles because of (or simply have
+questions about) your identities, we want to help you navigate
+those.</p>
 <p><br></p>
-<p>Please text “THRIVE” to begin your conversation with us 24/7/365, from anywhere: <a href="sms:+13136628209&body=THRIVE">+1.313.662.8209</a></p>
+<p>Please text “THRIVE” to begin your conversation with us 24/7/365,
+from anywhere:
+<a href="sms:+13136628209&body=THRIVE">+1.313.662.8209</a></p>
 <p><br></p>
-<p>We are experienced suicide interveners who will help keep you safe during times of acute mental health crises. If you are not in an acute crisis, but are dealing with stress as you navigate identity, orientation, or barriers to academic and professional entry, we can help! We are here to support your whole-self and we’re happy to help you during these troubling times.</p>
-<p>THRIVE Lifeline offers 24/7/365 judgment-free, confidential text messaging to individuals aged 18+.</p>
+<p>We are experienced suicide interveners who will help keep you safe
+during times of acute mental health crises. If you are not in an acute
+crisis, but are dealing with stress as you navigate identity,
+orientation, or barriers to academic and professional entry, we can
+help! We are here to support your whole-self and we’re happy to help you
+during these troubling times.</p>
+<p>THRIVE Lifeline offers 24/7/365 judgment-free, confidential text
+messaging to individuals aged 18+.</p>
 <p><br><br></p>
 <center>
 <p style="font-size:24pt; font-weight: bolder">
@@ -478,14 +522,26 @@ style="width: 50%; height: 50%"/></p>
 </div>
 <div id="contact-thrive-lifeline" class="section level2">
 <h2>Contact THRIVE Lifeline</h2>
-<p>In crisis? Text: <a href="sms:+13136628209&body=THRIVE">+1.313.662.8209</a></p>
-<p>For non-crisis related email inquiries: <a href="mailto:info@thrivelifeline.org" class="email">info@thrivelifeline.org</a></p>
-<p>TRANS Support Groups: Held quarterly. Free wellness gift for the first 50 attendees. Register today: <a href="https://thriv.life/trans" class="uri">https://thriv.life/trans</a></p>
+<p>In crisis? Text:
+<a href="sms:+13136628209&body=THRIVE">+1.313.662.8209</a></p>
+<p>For non-crisis related email inquiries: <a
+href="mailto:info@thrivelifeline.org"
+class="email">info@thrivelifeline.org</a></p>
+<p>TRANS Support Groups: Held quarterly. Free wellness gift for the
+first 50 attendees. Register today: <a href="https://thriv.life/trans"
+class="uri">https://thriv.life/trans</a></p>
 </div>
 <div id="supporting-us" class="section level2">
 <h2>Supporting Us</h2>
-<p>Your contributions help THRIVE Lifeline to continue providing life-saving and life-affirming crisis hotline support to marginalized individuals in STEMM. Please consider <a href="https://www.paypal.com/donate?hosted_button_id=CU5D6Q727QH5S"><b>making a tax deductible donation today</b></a>.</p>
-<p>You can also share our <a href="images/Signs_Business_Cards.pdf">business cards</a> or talk to your schools and organizations about <a href="partners.html">becoming a partner</a>.</p>
+<p>Your contributions help THRIVE Lifeline to continue providing
+life-saving and life-affirming crisis hotline support to marginalized
+individuals in STEMM. Please consider
+<a href="https://www.paypal.com/donate?hosted_button_id=CU5D6Q727QH5S"><b>
+making a tax deductible donation today</b></a>.</p>
+<p>You can also share our <a
+href="images/Signs_Business_Cards.pdf">business cards</a> or talk to
+your schools and organizations about <a href="partners.html">becoming a
+partner</a>.</p>
 </div>
 
 <div class="footer">
