@@ -20,4 +20,4 @@ This will bring up a local preview.
 You can save each file as you go, select `Knit` to rebuild it into the test
 site, or just `Build Website` again.
 
-<img src="https://raw.github.com/ThriveLifeline/thrive-lifeline/images/RMD_build.png?raw=true" alt="RStudio window. The Build tab is boxed in blue and Build Website button is boxed in red." width="500"/>
+<img src="https://raw.githubusercontent.com/ThriveLifeline/thrive-lifeline/main/images/RMD_build.png?raw=true" alt="RStudio window. The Build tab is boxed in blue and Build Website button is boxed in red." width="500"/>
