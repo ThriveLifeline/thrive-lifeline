@@ -20,11 +20,111 @@ with your specific keyword in a 3-month period.
 
 ## Our Partners
 
+```{=html}
+<!-- Add 1 row of 3 cards -->
+<div class="container">
+<div class="row">
+		<div class="col-md-4">
+		<div class="card h-100">
+		  <div class="card-body">
+			<div class="card-img">
+			  <img src="images/partner-logos/oSTEM-Logo-2022.png" class="card-img-pub" alt="The oSTEM Logo.">
+			</div>
+			  <p class="card-title">Out in Science, Technology, Engineering, and Mathematics (oSTEM)</p>
+				<!-- <p class="card-text" style="font-style: italic;">Out in Science, Technology, Engineering, and Mathematics (oSTEM)</p> -->
+			</div>
+			<div class="card-footer mx-auto">
+				<a href="https://ostem.org/" class="button">oSTEM Site<i class="fa fa-external-link-alt" aria-hidden="true"></i></a>
+			</div>
+			</div>
+		  </div>
+		  <div class="col-md-4">
+			<div class="card h-100">
+			  <div class="card-body">
+				  <div class="card-img">
+					  <img src="images/partner-logos/THRIVE-NY-Logo.png" class="card-img-pub" alt="The THRIVE Resources and Solutions logo.">
+					</div>
+					  <p class="card-title">THRIVE Resources and Solutions</p>
+					</div>
+					<div class="card-footer mx-auto">
+					<a href="https://thriversolutions.org/" class="button">TRS Site<i class="fa fa-external-link-alt" aria-hidden="true"></i></a>
+			    </div>
+			</div>
+			</div>
+		  <div class="col-md-4">
+			  <div class="card h-100">
+			  <div class="card-body">
+				  <div class="card-img">
+					  <img src="images/partner-logos/Queer-Engineer-Logo.png" class="card-img-pub" alt="The Queer Engineer logo.">
+					</div>
+					  <p class="card-title">Queer Engineer</p>
+					</div>
+					<div class="card-footer mx-auto">
+					  <a href="https://www.queerengineer.org/" class="button">QE Site<i class="fa fa-external-link-alt" aria-hidden="true"></i></a>
+				  </div>
+				</div>
+		  	</div>
+</div>
+</div>
+<!-- End Row 1 -->
+
+<!-- Add 1 row of 3 cards -->
+<div class="container">
+<div class="row">
+    <div class="col-md-4">
+    </div>
+		<div class="col-md-4">
+			<div class="card h-100">
+			  <div class="card-body">
+				  <div class="card-img">
+					  <img src="images/partner-logos/ONS-Logo.png" class="card-img-pub" alt="The Out in National Security logo.'">
+					</div>
+					  <p class="card-title">Out in National Security</p>
+					</div>
+					<div class="card-footer mx-auto">
+					<a href="https://www.outinnationalsecurity.org/" class="button">ONS Site<i class="fa fa-external-link-alt" aria-hidden="true"></i></a> 
+					</div>
+			</div>
+			</div>
+		  <!--
+		  <div class="col-md-4">
+			<div class="card h-100">
+			  <div class="card-body">
+				  <div class="card-img">
+					  <img src="images/partner-logos/ONS-Logo.png" class="card-img-pub" alt="The Out in National Security logo.'">
+					</div>
+					  <p class="card-title">Out in National Security</p>
+					</div>
+					<div class="card-footer mx-auto">
+					<a href="https://www.outinnationalsecurity.org/" class="button">ONS Site<i class="fa fa-external-link-alt" aria-hidden="true"></i></a> 
+					</div>
+			</div>
+			</div>
+		  <div class="col-md-4">
+			  <div class="card h-100">
+			  <div class="card-body">
+				  <div class="card-img">
+					  <img src="images/partner-logos/ONS-Logo.png" class="card-img-pub" alt="The Out in National Security logo.'">
+					</div>
+					  <p class="card-title">Out in National Security</p>
+					</div>
+					<div class="card-footer mx-auto">
+					<a href="https://www.outinnationalsecurity.org/" class="button">ONS Site<i class="fa fa-external-link-alt" aria-hidden="true"></i></a> 
+					</div>
+				</div>
+		  	</div>
+				-->
+</div>
+</div>
+<!-- End Row 2 -->
+```
+
+<!--
 We are pleased to announce our partnership with 
 [Out in Science, Technology, Engineering, and Mathematics (oSTEM)](https://ostem.org/)!
 
 <center>
-<img src="images/partner-logos/oSTEM-Logo-Registered.png" 
+<img src="images/partner-logos/oSTEM-Logo-2022.png" 
 alt="The oSTEM logo." 
 style="width: 50%; height: 50%; background-color: white;"/>
 </center>
@@ -44,6 +144,16 @@ Our third partner is [Queer Engineer](https://www.queerengineer.org/)!
 alt="The Queer Engineer logo." 
 style="width: 50%; height: 50%"/>
 </center>
+
+Our fourth partner is [Out in National Security](https://www.outinnationalsecurity.org/)!
+
+<center>
+<img src="images/partner-logos/ONS-Logo.png" 
+alt="The Out in National Security logo." 
+style="width: 50%; height: 50%"/>
+</center>
+
+-->
 
 <br/>
 
