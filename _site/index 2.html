@@ -11,7 +11,7 @@
 
 
 
-<title>Regional Resources</title>
+<title>Welcome to THRIVE</title>
 
 <script src="site_libs/header-attrs-2.11/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
@@ -29,29 +29,12 @@
        h6 {font-size: 12px;}
        code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
        pre:not([class]) { background-color: white }</style>
+<script src="site_libs/jqueryui-1.11.4/jquery-ui.min.js"></script>
+<link href="site_libs/tocify-1.9.1/jquery.tocify.css" rel="stylesheet" />
+<script src="site_libs/tocify-1.9.1/jquery.tocify.js"></script>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
-<script src="site_libs/htmlwidgets-1.5.4/htmlwidgets.js"></script>
-<link href="site_libs/datatables-css-0.0.0/datatables-crosstalk.css" rel="stylesheet" />
-<script src="site_libs/datatables-binding-0.20/datatables.js"></script>
-<link href="site_libs/dt-core-1.11.3/css/jquery.dataTables.min.css" rel="stylesheet" />
-<link href="site_libs/dt-core-1.11.3/css/jquery.dataTables.extra.css" rel="stylesheet" />
-<script src="site_libs/dt-core-1.11.3/js/jquery.dataTables.min.js"></script>
-<link href="site_libs/dt-ext-responsive-1.11.3/css/responsive.dataTables.min.css" rel="stylesheet" />
-<script src="site_libs/dt-ext-responsive-1.11.3/js/dataTables.responsive.min.js"></script>
-<script src="site_libs/jszip-1.11.3/jszip.min.js"></script>
-<script src="site_libs/pdfmake-1.11.3/pdfmake.js"></script>
-<script src="site_libs/pdfmake-1.11.3/vfs_fonts.js"></script>
-<link href="site_libs/dt-ext-buttons-1.11.3/css/buttons.dataTables.min.css" rel="stylesheet" />
-<script src="site_libs/dt-ext-buttons-1.11.3/js/dataTables.buttons.min.js"></script>
-<script src="site_libs/dt-ext-buttons-1.11.3/js/buttons.html5.min.js"></script>
-<script src="site_libs/dt-ext-buttons-1.11.3/js/buttons.colVis.min.js"></script>
-<script src="site_libs/dt-ext-buttons-1.11.3/js/buttons.print.min.js"></script>
-<link href="site_libs/dt-ext-searchbuilder-1.11.3/css/searchBuilder.dataTables.min.css" rel="stylesheet" />
-<script src="site_libs/dt-ext-searchbuilder-1.11.3/js/dataTables.searchBuilder.min.js"></script>
-<link href="site_libs/crosstalk-1.2.0/css/crosstalk.min.css" rel="stylesheet" />
-<script src="site_libs/crosstalk-1.2.0/js/crosstalk.min.js"></script>
 <link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
 <link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
 <html lang="en">
@@ -269,6 +252,69 @@ $(document).ready(function () {
 
 
 
+<style type="text/css">
+
+#TOC {
+  margin: 25px 0px 20px 0px;
+}
+@media (max-width: 768px) {
+#TOC {
+  position: relative;
+  width: 100%;
+}
+}
+
+@media print {
+.toc-content {
+  /* see https://github.com/w3c/csswg-drafts/issues/4434 */
+  float: right;
+}
+}
+
+.toc-content {
+  padding-left: 30px;
+  padding-right: 40px;
+}
+
+div.main-container {
+  max-width: 1200px;
+}
+
+div.tocify {
+  width: 20%;
+  max-width: 260px;
+  max-height: 85%;
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  div.tocify {
+    width: 25%;
+  }
+}
+
+@media (max-width: 767px) {
+  div.tocify {
+    width: 100%;
+    max-width: none;
+  }
+}
+
+.tocify ul, .tocify li {
+  line-height: 20px;
+}
+
+.tocify-subheader .tocify-item {
+  font-size: 0.90em;
+}
+
+.tocify .list-group-item {
+  border-radius: 0px;
+}
+
+
+</style>
+
+
 
 </head>
 
@@ -276,6 +322,16 @@ $(document).ready(function () {
 
 
 <div class="container-fluid main-container">
+
+
+<!-- setup 3col/9col grid for toc_float and main content  -->
+<div class="row">
+<div class="col-xs-12 col-sm-4 col-md-3">
+<div id="TOC" class="tocify">
+</div>
+</div>
+
+<div class="toc-content col-xs-12 col-sm-8 col-md-9">
 
 
 
@@ -407,33 +463,98 @@ $(document).ready(function () {
 
 
 
-<h1 class="title toc-ignore">Regional Resources</h1>
+<h1 class="title toc-ignore">Welcome to THRIVE</h1>
 
 </div>
 
 
+<div id="overview" class="section level2">
+<h2>Overview</h2>
 <center>
-<i class="fas fa-hard-hat fa-3x" aria-hidden="true"></i> Under
-Construction! <i class="fas fa-hard-hat fa-3x" aria-hidden="true"></i>
+<!-- <img src="images/Only_One.png" alt="One person is texting on a phone in 
+the top left, saying I'm sick of feeling like the only one. Another person is 
+on a laptop in the bottom right, saying I'm glad you reached out. 
+I'm here for you. 
+Additional text reads text THRIVE 24/7/3655 to +1.313.662.8209 with the THRIVE 
+Lifeline logo underneath." style="width: 50%; height: 50%"/> -->
+<p><img src="images/home2.png" alt="Two people are texting with buildings in the
+background. The first person is walking on message bubbles toward another 
+person. The first bubble says 'you are not alone.' 
+The second bubble says 'I'm here for you.' 
+The THRIVE Lifeline logo is in the corner with the phone 
+number +1.313.662.8209."
+style="width: 100%; height: 100%"/></p>
 </center>
+<p><br></p>
+<p>If you’re experiencing a mental health crisis and need to chat with a
+qualified crisis responder, we are here for you.</p>
+<p>If you are an underrepresented individual (person of color, LGBTQ2S+,
+person living with disabilities, neurodiverse, and/or other marginalized
+identities), and experiencing obstacles because of (or simply have
+questions about) your identities, we want to help you navigate
+those.</p>
+<p><br></p>
+<p>Please text “THRIVE” to begin your conversation with us 24/7/365,
+from anywhere:
+<a href="sms:+13136628209&body=THRIVE">+1.313.662.8209</a></p>
+<p><br></p>
+<center>
+<img src="images/ostem.png" alt="In the top left is the oSTEM conference graphic -- pale blue background with the words Sail to Success; oSTEM 2022; Boston, MA, and images of a ticket and postcard. The middle of the post has dark purple background and repeats the caption of the post. In the bottom right is a THRIVE Lifeline graphic with the THRIVE Lifeline logo and a purple figure typing on a computer."
+style="width: 55%; height: 55%"/>
+</center>
+<p><br></p>
+<p>We are experienced suicide interveners who will help keep you safe
+during times of acute mental health crises. If you are not in an acute
+crisis, but are dealing with stress as you navigate identity,
+orientation, or barriers to academic and professional entry, we can
+help! We are here to support your whole-self and we’re happy to help you
+during these troubling times.</p>
+<p>THRIVE Lifeline offers 24/7/365 judgment-free, confidential text
+messaging to individuals aged 18+.</p>
+<p><br><br></p>
+<center>
+<p style="font-size:24pt; font-weight: bolder">
+Together, we THRIVE.
+</p>
+<p><img src="images/Test_Logo.png" alt="The THRIVE Lifeline logo." 
+style="width: 50%; height: 50%"/></p>
+</center>
+<p><br><br></p>
+</div>
+<div id="contact-thrive-lifeline" class="section level2">
+<h2>Contact THRIVE Lifeline</h2>
+<p>In crisis? Text:
+<a href="sms:+13136628209&body=THRIVE">+1.313.662.8209</a></p>
+<p>For non-crisis related email inquiries: <a
+href="mailto:info@thrivelifeline.org"
+class="email">info@thrivelifeline.org</a></p>
+<p>TRANS Support Groups: Held quarterly. Free wellness gift for the
+first 50 attendees. Register today: <a href="https://thriv.life/trans"
+class="uri">https://thriv.life/trans</a></p>
+</div>
+<div id="supporting-us" class="section level2">
+<h2>Supporting Us</h2>
+Your contributions help THRIVE Lifeline to continue providing
+life-saving and life-affirming crisis hotline support to marginalized
+individuals in STEMM. Please consider making a tax deductible donation
+today:
 <ul>
-<li><strong>Keywords</strong>: aid, Black, funding, gender identity,
-health, housing, LGBTQ, sex work</li>
+<li>
+<a href="https://www.paypal.com/donate?hosted_button_id=CU5D6Q727QH5S"><b>
+Paypal</b></a> (<span class="citation">@THRIVELifeline</span>)
+<li>
+<a href="https://venmo.com/code?user_id=3676112202761290213"><b>
+Venmo</b></a> (<span class="citation">@THRIVELifeline</span>)
+<li>
+Check: Mail to 2114 N. Flamingo Rd.Box #5018; Pembroke Pines, FL 33028
 </ul>
-<div id="htmlwidget-fb2c9c90a9f23da33173" style="width:100%;height:auto;" class="datatables html-widget"></div>
-<script type="application/json" data-for="htmlwidget-fb2c9c90a9f23da33173">{"x":{"filter":"none","vertical":false,"extensions":["Responsive","Buttons","SearchBuilder"],"data":[["Alexander Foundation Community Assistance Programs","Bay Area Sex Worker Advocacy Network (BAYSWAN)","Bebashi","Black Trans Travel Fund","Callen-Lorde Community Health Center","CK Life","Fenway Health","Howard Brown Health","Morris Home","National Resource Center on LGBT Aging","NoJusticeNoPride","NoJusticeNoPride’s Housing Support","NoJusticeNoPride Mutual Aid","Promise Resource Network","Stonewall Village NYC","Ontario Psychotherapy Referral Directory"],["This program provides assistance to those individuals in Colorado who are experiencing temporary financial difficulties.","An organization by and for sex workers in the Bay Area with resources about decriminalizing sex work.","An organization for Black and Brown people providing culturally sensitive high quality healthcare, HIV/AIDS services, health education, and social services.","An organization that provides Black transgender women in New York and New Jersey with financial and material resources for safer travel options. They offer a monthly literature program.","Provides sensitive, quality health care and related services targeted to New York’s LGBTQ communities, regardless of ability to pay.","Bronx-based group that provides weekly TGNC support groups, outreach for TGNC Community engaging in survival sex work, free HIV testing, hygiene and safer sex kits, trauma informed services for Black and Brown TGNC Folk, including monthly groups, education referrals, and health care counseling.","An LGBT health care, research and advocacy organization.","Chicago-based LGBTQ agency providing primary medical care, behavioral health, research, HIV/STI prevention, youth services, elder services, and community initiatives.","The only residential recovery program in the country to offer comprehensive services specifically for the transgender community, provides a safe, recovery-oriented environment in which people are treated with respect and dignity.","Resources for older LGBTQ+ people.","Abolitionist organization that aims to end the LGBT movement’s complicity with systems of oppression that further marginalize queer and trans individuals.","Housing support for Black and Brown trans people in need of housing in Washington DC.","Mutual aid for housing, employment, access, and legal support for TGNC DC community.","A survivor-led community (broadly defined) that offers a warmline and over 95 virtual classes, support groups, and activities each month spanning the 8 Dimensions of Wellness.","Housing and health assistance, advocacy groups, cultural events in NYC.","A service for locating counselors or psychotherapists in Ontario to help with short or long-term life challenges."],["CO","CA","PA","NY","NY","NY","MA","IL","PA",null,"DC","DC","DC","NC","NY","ON"],["USA","USA","USA","USA","USA","USA","USA","USA","USA","USA","USA","USA","USA","USA","USA","Canada"],["<a href='https://www.thealexanderfoundation.org/assistance-programs' target='_blank'>https://www.thealexanderfoundation.org/assistance-programs<\/a>","<a href='http://www.bayswan.org/' target='_blank'>http://www.bayswan.org/<\/a>","<a href='https://www.bebashi.org/' target='_blank'>https://www.bebashi.org/<\/a>","<a href='https://www.blacktranstravelfund.com/' target='_blank'>https://www.blacktranstravelfund.com/<\/a>","<a href='https://callen-lorde.org/' target='_blank'>https://callen-lorde.org/<\/a>","<a href='https://www.cklife.org/programs' target='_blank'>https://www.cklife.org/programs<\/a>","<a href='https://fenwayhealth.org/' target='_blank'>https://fenwayhealth.org/<\/a>","<a href='https://howardbrown.org/' target='_blank'>https://howardbrown.org/<\/a>","<a href='https://www.rhd.org/morrishome/' target='_blank'>https://www.rhd.org/morrishome/<\/a>","<a href='https://www.lgbtagingcenter.org/' target='_blank'>https://www.lgbtagingcenter.org/<\/a>","<a href='https://www.nojusticenopride.org/' target='_blank'>https://www.nojusticenopride.org/<\/a>","<a href='https://www.nojusticenopride.org/get_housing' target='_blank'>https://www.nojusticenopride.org/get_housing<\/a>","<a href='https://www.nojusticenopride.org/mutual-aid' target='_blank'>https://www.nojusticenopride.org/mutual-aid<\/a>","<a href='https://promiseresourcenetwork.org/' target='_blank'>https://promiseresourcenetwork.org/<\/a>","<a href='https://stonewallvillagenyc.org/' target='_blank'>https://stonewallvillagenyc.org/<\/a>","<a href='https://referrals.psychotherapyandcounseling.ca/' target='_blank'>https://referrals.psychotherapyandcounseling.ca/<\/a>"],["funding","sex work","Black, HIV","funding, Black, LGBTQ, gender identity","health, LGBTQ, gender identity","health, LGBTQ, gender identity, Black","health, LGBTQ, gender identity","health, LGBTQ, gender identity","recovery, LGBTQ, gender identity","aging, LGBTQ, gender identity","Black, LGBTQ","housing, Black","aid, LGBTQ, gender identity","mental health","health, housing, LGBTQ","mental health"]],"container":"<table class=\"display\">\n  <thead>\n    <tr>\n      <th>Resource<\/th>\n      <th>Description<\/th>\n      <th>State/Province<\/th>\n      <th>Country<\/th>\n      <th>Website<\/th>\n      <th>Keywords<\/th>\n    <\/tr>\n  <\/thead>\n<\/table>","options":{"dom":"QBfrtip","buttons":["copy","csv","excel",{"extend":"pdf","orientation":"landscape","exportoptions":{"pageSize":"A3","customize":"function(doc){doc.styles.tableHeader.color='purple';}"}},"print"],"order":[],"autoWidth":false,"orderClasses":false,"responsive":true}},"evals":["options.buttons.3.exportoptions.customize"],"jsHooks":[]}</script>
-<p>Do you have a resource that you’d like to see added? Fill out our
-<a href="https://forms.gle/VpkzjtbuAes3beAr7">suggestion form</a>.</p>
-<div id="disclaimer" class="section level2">
-<h2>Disclaimer</h2>
-<p>This website offers resources and information, and is designed for
-educational purposes only. The T.H.R.I.V.E. website may contain links to
-external websites that are not provided or maintained by or in any way
-affiliated with T.H.R.I.V.E. Please note we don’t guarantee the
-accuracy, relevance, timeliness, or completeness of any information on
-these websites. You should not rely on this information as a substitute
-for, nor does it replace, professional medical advice, diagnosis or
-treatment.</p>
+<!--Please consider
+<a href="https://www.paypal.com/donate?hosted_button_id=CU5D6Q727QH5S"><b>
+making a tax deductible donation today</b></a>.-->
+<p>You can also share our <a
+href="images/Signs_Business_Cards.pdf">business cards</a> or talk to
+your schools and organizations about <a href="partners.html">becoming a
+partner</a>.</p>
 </div>
 
 <div class="footer">
@@ -467,6 +588,8 @@ treatment.</p>
 </div>
 
 
+</div>
+</div>
 
 </div>
 
@@ -499,6 +622,35 @@ $(document).ready(function () {
 
 <!-- code folding -->
 
+<script>
+$(document).ready(function ()  {
+
+    // temporarily add toc-ignore selector to headers for the consistency with Pandoc
+    $('.unlisted.unnumbered').addClass('toc-ignore')
+
+    // move toc-ignore selectors from section div to header
+    $('div.section.toc-ignore')
+        .removeClass('toc-ignore')
+        .children('h1,h2,h3,h4,h5').addClass('toc-ignore');
+
+    // establish options
+    var options = {
+      selectors: "h1,h2,h3",
+      theme: "bootstrap3",
+      context: '.toc-content',
+      hashGenerator: function (text) {
+        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_');
+      },
+      ignoreSelector: ".toc-ignore",
+      scrollTo: 0
+    };
+    options.showAndHide = true;
+    options.smoothScroll = true;
+
+    // tocify
+    var toc = $("#TOC").tocify(options).data("toc-tocify");
+});
+</script>
 
 <!-- dynamically load mathjax for compatibility with self-contained -->
 <script>
