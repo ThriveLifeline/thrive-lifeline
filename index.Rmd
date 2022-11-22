@@ -84,9 +84,14 @@ attendees. Register today: <https://thriv.life/trans>
 
 Your contributions help THRIVE Lifeline to continue providing life-saving
 and life-affirming crisis hotline support to marginalized individuals in STEMM.
-Please consider
-<a href="https://www.paypal.com/donate?hosted_button_id=CU5D6Q727QH5S"><b>
-making a tax deductible donation today</b></a>.
+Please consider making a tax deductible donation today:
+<ul>
+<li><a href=“https://www.paypal.com/donate?hosted_button_id=CU5D6Q727QH5S”><b>
+Paypal</b></a> (@THRIVELifeline)
+<li><a href=“https://venmo.com/code?user_id=3676112202761290213”><b>
+Venmo</b></a> (@THRIVELifeline)
+<li><b>Check:</b> Mail to 2114 N. Flamingo Rd.Box #5018; Pembroke Pines, FL 33028
+</ul>
 
 You can also share our 
 [business cards](images/Signs_Business_Cards.pdf)
