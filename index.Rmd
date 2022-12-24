@@ -40,7 +40,7 @@ Facebook</b></a>
 Paypal</b></a> (@THRIVELifeline)
 <li><a href=https://venmo.com/code?user_id=3676112202761290213><b>
 Venmo</b></a> (@THRIVELifeline)
-<li><b>Check:</b> Mail to 2114 N. Flamingo Rd.Box #5018; Pembroke Pines, FL 33028
+<li><b>Check:</b> <u>Make out to:</u> THRIVE Inc.  <u>Mail to:</u> 2114 N. Flamingo Rd. Box #5018; Pembroke Pines, FL 33028
 </ul>
 
 <br>
@@ -102,8 +102,7 @@ Facebook</b></a>
 Paypal</b></a> (@THRIVELifeline)
 <li><a href=https://venmo.com/code?user_id=3676112202761290213><b>
 Venmo</b></a> (@THRIVELifeline)
-<li><b>Check:</b> Mail to 2114 N. Flamingo Rd.Box #5018; Pembroke Pines, FL 33028
-</ul>
+<li><b>Check:</b> <u>Make out to:</u> THRIVE Inc.  <u>Mail to:</u> 2114 N. Flamingo Rd. Box #5018; Pembroke Pines, FL 33028
 
 You can also share our 
 [business cards](images/Signs_Business_Cards.pdf)
