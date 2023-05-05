@@ -30,6 +30,7 @@ THRIVE Lifeline can currently support OPT employment opportunities in the follow
 
 ## Applying to THRIVE Lifeline
 In order to apply to THRIVE Lifeline, please complete our [volunteer application](https://form.jotform.com/201655418668059). 
+
 - On the <b>Info and Demographics page</b>, please click <u>“Yes”</u> on the question that asks whether you have <u>visa requirements</u> for volunteering with us.
 - In the next question, you will be asked to detail the visa requirements. Please let us know:
   - Whether you are seeking part time or full time
