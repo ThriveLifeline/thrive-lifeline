@@ -1,0 +1,38 @@
+---
+title: "Optional Practical Training (OPT) <br> (F-1 Student Visas)"
+output:
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+
+<!-- <i class="fas fa-hard-hat fa-3x" aria-hidden="true"></i> Under Construction! <i class="fas fa-hard-hat fa-3x" aria-hidden="true"></i> -->
+
+## OPT Information
+Students who have F-1 status are given the opportunity to gain up to one full-year (12 months) of off-campus employment authorization for each higher level of college / university education completed. U.S. work permission, or Optional Practical Training (OPT), is meant to allow students to gain practical experience that is related to their <b>major field of study</b>. Students in STEM may be eligible for a 24 month extension of OPT. Please speak to your School’s International Student resource representatives to learn more about what your unique requirements and eligibility are and how you can fulfill OPT requirements through a position at THRIVE Lifeline.
+
+- Clarify with your school, and then with THRIVE, whether you are seeking <b>part time (up to 20 hours per week) or full time (21 - 40 hours per week).</b>
+- More information about OPT for F-1 students can be found on the [U.S. Citizenship and Immigration Services website](https://www.uscis.gov/working-in-the-united-states/students-and-exchange-visitors/optional-practical-training-opt-for-f-1-students).
+
+<br>
+
+## THRIVE Lifeline Opportunities
+THRIVE Lifeline can currently support OPT employment opportunities in the following areas:
+
+- Psychology / Sociology
+- Communication / Social Media
+- Graphic Design
+- Web Development
+- Business Development
+
+<br>
+
+## Applying to THRIVE Lifeline
+In order to apply to THRIVE Lifeline, please complete our [volunteer application](https://form.jotform.com/201655418668059). 
+- On the <b>Info and Demographics page</b>, please click <u>“Yes”</u> on the question that asks whether you have <u>visa requirements</u> for volunteering with us.
+- In the next question, you will be asked to detail the visa requirements. Please let us know:
+  - Whether you are seeking part time or full time
+  - What opportunity area you are interested in
+  - The start and end dates that you are available to work
+- We will schedule a meeting with you after reviewing your application and references, but if you have any questions in the meantime, please do not hesitate to contact us at <info@thrivelifeline.org>.
