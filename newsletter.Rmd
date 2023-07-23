@@ -6,6 +6,10 @@ output:
     toc_float: true
 ---
 
+## July 2023
+
+[July Highlights](https://us21.campaign-archive.com/?u=a55dc7a557c8e1c98ba1d9d54&id=4c8d601473)
+
 ## June 2023
 
 [Volunteer Spotlight](https://us21.campaign-archive.com/?u=a55dc7a557c8e1c98ba1d9d54&id=0654171331)
