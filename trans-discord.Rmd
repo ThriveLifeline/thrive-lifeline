@@ -1,9 +1,5 @@
 ---
-title: "TRANS: Togetherness + Really Awesome Non-Normative Support Group"
-output:
-  html_document:
-    toc: true
-    toc_float: true
+title: "TRANS: Togetherness + Really Awesome Non-Normative Support"
 ---
 
 <center>
@@ -17,8 +13,21 @@ On the right hand side is a rainbow with the colors of the trans flag.
 Below the rainbow is the THRIVE Lifeline logo." 
 style="width: 100%; height: 100%"/>
 
+</center>
+
 <br>
 
+THRIVE moderates a discord server for anyone 16+ who is Transgender, Nonbinary, Agender, Questioning, or is otherwise a person of Trans experience. Join our discord server for a small active community of shared identity that bonds through gender exploration, mental health struggles, and random daily experiences.
+
+New to discord? No problem! We're happy to help you figure it out once you join our server -- feel free to DM any of the moderators for support, or ask in the public channels.
+
+<center>
+[Join our discord server here today!](https://thriv.life/TRANS_Discord)
+</center>
+
+
+
+<!--
 <b>This support group is currently not active as we determine potential facilitators and future of the group. You can [join our discord server here](https://thriv.life/TRANS_Discord). If you are interested in facilitating support groups, reach out to <info@thrivelifeline.org>.</b>
 
 </center>
@@ -53,7 +62,7 @@ All support group meetings are at 7pm Eastern Time Zone (New York).
 <br>
 
 <!--Free wellness gift for the first 50 attendees! Register today to get your free 
-TRANS affirmation cards (limit 1 per person):  [https://thriv.life/trans](https://www.eventbrite.com/e/trans-togetherness-really-awesome-non-normative-support-meeting-4-tickets-534213776787?utm_source=eventbrite&utm_medium=email&utm_campaign=post_publish&utm_content=shortLinkNewEmail)-->
+TRANS affirmation cards (limit 1 per person):  [https://thriv.life/trans](https://www.eventbrite.com/e/trans-togetherness-really-awesome-non-normative-support-meeting-4-tickets-534213776787?utm_source=eventbrite&utm_medium=email&utm_campaign=post_publish&utm_content=shortLinkNewEmail)
 
 <br> 
 
@@ -86,3 +95,4 @@ The general support group structure will be:
 Funding for 2022-2023 TRANS support group meetings was made possible through 
 the generous gift of the [Riley's Way Foundation](https://rileysway.org/)
 through their Call for Kindness Fellowship.
+-->
