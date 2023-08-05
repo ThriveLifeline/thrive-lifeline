@@ -2,11 +2,12 @@
 title: "Crisis Resources"
 ---
 
-- **Keywords**: abuse, aid, app, Black, career, coping, COVID-19, detransition,
-disability, disaster, education, end-of-life, food, funding, gender identity, 
-general, grief, health, HIV, housing, hotline, Indigenous, Latinx, legal, LGBTQ, 
-mental health, mentoring, MPX, neurodivergence, online safety, parent, protest,
-relationships, religion, STEMM, substance use, support, under 18, veteran
+- **Keywords**: AAPI, abuse, aid, app, Black, career, coping, COVID-19, 
+detransition, disability, disaster, education, end-of-life, food, funding, 
+gender identity, general, gestation, grief, health, HIV, housing, hotline, 
+Indigenous, Latinx, legal, LGBTQ, mental health, mentoring, MPX, 
+neurodivergence, online safety, parent, protest, relationships, religion, 
+STEMM, substance use, support, under 18, veteran
 - **Region/Languages**: UK, Canada, international, Español
 
 ```{r, include=FALSE}
@@ -21,14 +22,14 @@ library(DT)
 data <- read_csv("thrive_resources.csv", comment = "#")
 
 ## Make website a hyperlink
-#data$Website <- paste0("<a href='",data$Website,"' target='_blank'>",data$Website,"</a>")
+data$Website <- paste0("<a href='",data$Website,"' target='_blank'>",data$Website,"</a>")
 #data <- select(data, -c(ShortLink))
 
 ### Make URLs a hyperlink
 data$ShortLink <- paste0("<a href='https://",data$ShortLink,"' target='_blank'>","https://",data$ShortLink,"</a>")
 
 ### Remove website column, since it's just an explanation for the ShortLink
-data <- select(data, -c(Website))
+#data <- select(data, -c(Website))
 
 ## Remove first resource column, since website includes the same name
 #data <- select(data, -c(Resource))
