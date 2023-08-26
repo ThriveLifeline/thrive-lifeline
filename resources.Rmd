@@ -28,6 +28,9 @@ data$Website <- paste0("<a href='",data$Website,"' target='_blank'>",data$Websit
 ### Make URLs a hyperlink
 data$ShortLink <- paste0("<a href='https://",data$ShortLink,"' target='_blank'>","https://",data$ShortLink,"</a>")
 
+### Remove ShortLink column, because they're broken
+data <- select(data, -c(ShortLink))
+
 ### Remove website column, since it's just an explanation for the ShortLink
 #data <- select(data, -c(Website))
 
