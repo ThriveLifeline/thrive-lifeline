@@ -1,0 +1,15 @@
+---
+title: "Outreach Materials"
+output:
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+[Click here for brochures which talk about THRIVE Lifeline, our team, and our volunteer opportunities](https://drive.google.com/file/d/1XJDqey5d-y2v7nPSTI8nwGMmNLlzYXx1/view?usp=drive_link)
+
+[Click here for THRIVE Lifeline business cards, inviting you to reach out to the line for support](https://drive.google.com/drive/u/0/folders/185IRJMNA-hbLaXx5NHqifEuWnh11gmy8)
+
+[Click here for a flyer which targets LGBTQ communities](https://drive.google.com/file/d/1HtgCYWuMyS0oc3NLeHdeCmvDdPP3K9zG/view?usp=drive_link)
+
+[Click here for a flyer which targets marginalized individuals within STEMM (science, technology, engineering, math, and medicine) communities](https://drive.google.com/file/d/15SeBeD6MrcQbzG1d56_vwXsCWhMHJ7bl/view?usp=sharing)
