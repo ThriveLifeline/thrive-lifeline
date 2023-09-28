@@ -137,7 +137,7 @@ body {
 .btn-primary {
   color: #fff;
   background-color: #240C34;
-  border-color: #240C34;
+  border-color: #fff;
 }
 
 .btn-primary.disabled, .btn-primary:disabled {
