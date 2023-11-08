@@ -49,7 +49,7 @@ Please text "THRIVE" to begin your conversation with us 24/7/365, from anywhere:
 
 <br>
 
-<center>
+<!--<center>
 <b><big>Our line will be down from 5:30a - 1:30p ET (2:30a - 10:30a PT) on Tuesday, November 7 for maintenance.</center></big>
 
 If you need support, search "hotline" [on our resources page](https://thrivelifeline.org/resources).
@@ -64,7 +64,7 @@ Lines that will not contact the police for suicide include:
 </b>
 
 
-<br>
+<br>-->
 
 We are experienced suicide interveners who will help keep you safe during times
 of acute mental health crises. If you are not in an acute crisis, but are
