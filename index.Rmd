@@ -47,7 +47,7 @@ identities, we want to help you navigate those.
 Please text "THRIVE" to begin your conversation with us 24/7/365, from anywhere:
 <a href="sms:+13136628209&body=THRIVE">+1.313.662.8209</a>
 
-<br>
+<!--<br>
 
 <center>
 <b><big>Our line will be down from 6p - midnight ET (3p - 9p PT) on Monday, November 13 for maintenance.</center></big>
@@ -61,7 +61,7 @@ Lines that will not contact the police for suicide include:
   - [StrongHearts Native Helpline](https://strongheartshelpline.org/): text +1.844.762.8483
   - [David Romprey Oregon Warmline](https://ccswebsite.org/warmline/): call 1.800.698.2392
  
-</b>
+</b>-->
 
 
 <br>
