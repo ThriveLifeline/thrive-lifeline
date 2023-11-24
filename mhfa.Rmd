@@ -14,11 +14,11 @@ style="width: 100%; height: 100%"/>
 
 <center>
 
-<!--<font size="+2">[Get your spot in the November 11 training! Click here to sign up.](https://thriv.life/mhfa_signup)</font>-->
+<font size="+2">[Get your spot in the February 9 training! Click here to sign up.](https://thriv.life/mhfa_signup)</font>
 
-<font size="+2">Check back soon for the next training date!</font>
+<!--<font size="+2">Check back soon for the next training date!</font>-->
 
-<!--<a href="https://thriv.life/mhfa_signup" class="btn btn-primary btn-lg" role="button">Sign Up</a>-->
+<a href="https://thriv.life/mhfa_signup" class="btn btn-primary btn-lg" role="button">Sign Up</a>
 
 </center>
 
@@ -38,9 +38,9 @@ Sign up to learn how to support others experiencing mental health or substance u
 
 ## MHFA Training Dates
 
-November 11
+February 9
 
-  - Time: 12p - 6p ET  |  9a - 3p PT  |  7a - 1p HT
+  - Time: 10a - 4p ET  |  7a - 1p PT  |  5a - 11a HT
   - Location: Zoom (virtual)
   - Sign up here: [https://thriv.life/mhfa_signup](https://thriv.life/mhfa_signup)
   
@@ -72,11 +72,11 @@ Refunds will not be made under any circumstances. If you become unable to attend
   - The instructor-led portion of the training will be done in Zoom, with closed captions available. Prior to the course, you will be given access to the Participant Processing Guide, which follows the content of the course, includes key points, and provides space for you to write notes for yourself.
   - There will be three 10-minute breaks throughout the 6 hour course. You are encouraged to move, eat, hydrate, etc. as needed throughout the course and may choose to have your camera on or off. 
   - Participation is required, either through the chat or verbally.
-  - If you have any questions or access needs that you wish to discuss with the instructor, please email <ash.parker@thrivelifeline.org>
+  - If you have any questions or access needs that you wish to discuss with the instructors, please email <ash.parker@thrivelifeline.org> and <kj.hill@thrivelifeline.org>
 
 <br>
 <center>
 
 [Sign up for the next Mental Health First Aid training!](https://thriv.life/mhfa_signup)
 
-Any questions? Email the instructor, Ash Parker at <ash.parker@thrivelifeline.org>.
+Any questions? Email the instructors, Ash Parker at <ash.parker@thrivelifeline.org> and KJ Hill at <kj.hill@thrivelifeline.org>.
