@@ -50,15 +50,15 @@ par(mar=c(6,4,4,10), xpd=TRUE)
 colors = c("#65427D", "#FAF4A0") #"#58A4AF", "#EF8254", "#C2C8E5", "#AC8FC0")
 
 # Trait = c(yes, no)
-LGBTQ = c(80, 20)
-POC = c(63, 37)
-Disability = c(54, 46)
-Trans  = c(40,60)
+LGBTQ = c(89, 11)
+Disability = c(66, 34)
+POC = c(58, 42)
+Nonbinary  = c(40,60)
 #International = c(29,71)
-Immigrant = c(19, 81)
+Immigrant = c(16, 84)
 
 ## Create a dataframe with all of these for plotting
-traits = data.frame(LGBTQ, POC, Disability, Trans, Immigrant)
+traits = data.frame(LGBTQ, Disability, POC, Nonbinary, Immigrant)
 
 ## Transform the data into %
 traits_percentage <- apply(traits, 2, function(x){x*100/sum(x,na.rm=T)})
@@ -70,8 +70,8 @@ barplot(traits_percentage,             ## Use percentage data
         border="white",                ## Border color for the boxes
         ylab="Percentage",             ## Y-axis label
           ## Name the datasets; \n is a linebreak
-        names.arg=c("LGBTQ2S+", "People of\nColor", "People with\nDisabilities", 
-                    "Transgender", "Immigrants"), 
+        names.arg=c("LGBTQ2S+", "People with\nDisabilities", "People of\nColor", 
+                    "Nonbinary", "Immigrants"), 
         legend=c("Yes"),               ## Legend Label
         las=2,                         ## Turn x-axis 90º
           ## Force legend outside the plot
@@ -81,10 +81,7 @@ barplot(traits_percentage,             ## Use percentage data
 ```
 
 <br>
-Our backgrounds include familial rejection due to our identities, food and housing insecurity,
-poverty, lack of access to education, immigration, and more. Many of us are 
-individuals who have navigated accommodations processes during our academic 
-journeys as a result of neurodivergence, living with disabilities, and/or facing trauma.
+Our backgrounds include surviving suicide and trauma, familial rejection due to our identities, food and housing insecurity, poverty, lack of access to education, immigration, and more. We navigate disabilities, dissociation, PTSD, and other mental health needs and neurodivergencies. We personally live and understand chronic marginalizing experiences.
 
 
 Want to learn more about THRIVE and what it means to our president? Check out this [Genderful podcast episode](https://youtu.be/UnKQPcblgyE).
