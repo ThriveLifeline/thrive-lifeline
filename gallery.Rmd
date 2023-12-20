@@ -31,7 +31,7 @@ You are free to download these graphics and share them widely!
 				  <div class="card-img">
 					  <img src="images/gallery/lgbtq-flyer.svg" class="card-img-pub" alt="Signpost and text over image of queer humans. Text says 'Need to chat? Text THRIVE t +1.313.662.8209. THRIVE Lifeline: 24/7/365 confidential and judgement-free support from qualified crisis responders who get it.' The signpost says 'Dysphoria. Trauma. Coming out. Suicide / self harm. Isolation">
 					</div>
-					  <p class="card-title">LGBTQ Flyer</p>
+					  <p class="card-title">LGBTQ2S+ Flyer</p>
 					</div>
 					<div class="card-footer mx-auto">
 					<a download="lgbtq-flyer.pdf" href="images/gallery/lgbtq-flyer.pdf" class="button"><i class="fas fa-download" aria-hidden="true"></i> Download</a>
