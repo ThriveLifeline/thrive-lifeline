@@ -3,11 +3,12 @@ title: "Crisis Resources"
 ---
 
 - **Keywords**: AAPI, abuse, aid, app, Black, career, coping, COVID-19, 
-detransition, disability, disaster, education, end-of-life, food, funding, 
-gender identity, general, gestation, grief, health, HIV, housing, hotline, 
-Indigenous, Latinx, legal, LGBTQ, mental health, mentoring, MPX, 
-neurodivergence, online safety, parent, protest, relationships, religion, 
-STEMM, substance use, support, under 18, veteran
+detransition, disability, disaster, disordered eating, education, end-of-life, 
+food, funding, gender identity, general, gestation, grief, harm reduction, 
+health, HIV, housing, hotline, Indigenous, Latinx, legal, LGBTQ, mental health,
+mentoring, MPX, neurodivergence, online safety, parent, psychosis, providers, 
+protest, relationships, religion, STEMM, substance use, support, under 18,
+veteran
 - **Region/Languages**: UK, Canada, international, Español
 
 ```{r, include=FALSE}
