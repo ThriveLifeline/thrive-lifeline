@@ -19,11 +19,15 @@ style="width: 100%; height: 100%"/>
 
 THRIVE Lifeline is a fully volunteer-led organization. We make our work sustainable by focusing our volunteer services on the provision of our lifeline and free community resources. For people who are interested in non-carceral services besides our lifeline, THRIVE partners with [Stronger U](https://strongeruwellness.com/) through a revenue sharing model. Stronger U provides THRIVE with funds, free volunteer training, and free community peer support options. If you are looking for customized paid services, Stronger U also offers a  discount to our greater THRIVE communities. Stronger U provides a variety of non-carceral-based workshops, educational resources, group and individual mental wellness coaching, in-person peer mental health support, and a variety of other full-service organizational projects. Contact <info@strongeruwellness.com> and mention THRIVE for more information. 
 
-## [Free Peer Support](https://strongeruwellness.com/services/stronger-together/)
+<br>
+
+Some examples of services that our partnership with Stronger U has helped us to provide include:
+
+#### [Free Peer Support](https://strongeruwellness.com/services/stronger-together/)
 * [Stronger Together discord community](https://discord.gg/tGWKTX6uka)
 * [Stronger Together live peer support meetings](https://strongeruwellness.com/stronger-together-support-group/)
 
-## [Workshops](https://strongeruwellness.com/services/workshops/)
+#### [Workshops](https://strongeruwellness.com/services/workshops/)
 * Non-carceral Approaches to Suicide Intervention
 * Mental Health in Marginalized Communities
 * Creating Mental Health Safe Communities
@@ -31,16 +35,17 @@ THRIVE Lifeline is a fully volunteer-led organization. We make our work sustaina
 * Workshop #1 is Caring for marginalized individuals;
 * Workshop #2 is Caring for marginalized groups programmatically.
 
-## [Group Coaching Programs](https://strongeruwellness.com/services/group-coaching/)
+#### [Group Coaching Programs](https://strongeruwellness.com/services/group-coaching/)
 * [Trauma and Wellness](https://strongeruwellness.com/services/group-coaching/#trauma-and-wellness)
 * [Just Another Thursday](https://strongeruwellness.com/services/group-coaching/#suicidality): for those navigating chronic suidality
 * [Masking and Unmasking](https://strongeruwellness.com/services/group-coaching/#masking)
 
-## [Individual Coaching](https://strongeruwellness.com/services/individual-coaching/)
+#### [Individual Coaching](https://strongeruwellness.com/services/individual-coaching/)
 For people who have longer term and more personalized support needs, mental wellness coaching is available in a variety of packages
 
-## [Organizational Projects](https://strongeruwellness.com/services/a-la-carte/)
+#### [Organizational Projects](https://strongeruwellness.com/services/a-la-carte/)
 Customizable to your organization's needs and budget
+
 * Peer mental health support at events: We will assess your community needs and event parameters, make wellness support recommendations, and dedicate a team to provide direct peer-based support to attendees who need to connect with someone who gets it during the duration of your event.
 * Program reviews: great for organizations who strive to improve support of marginalized communities and want an evaluation of existing or design support for the generation of new programs.
 * Leadership / Mentorship coaching
