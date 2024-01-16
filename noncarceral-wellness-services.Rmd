@@ -5,12 +5,9 @@ title: "Non-carceral Wellness Services"
 <center>
 <!-- <i class="fas fa-hard-hat fa-3x" aria-hidden="true"></i> Under Construction! <i class="fas fa-hard-hat fa-3x" aria-hidden="true"></i> -->
 
-<img src="images/trans2.png" alt="Text reads T.R.A.N.S Togetherness + Really 
-Awesome Non-Normative Support. 
-On the left hand side is a cloud with sparkles and water lines in the colors 
-of the trans flag. 
-On the right hand side is a rainbow with the colors of the trans flag. 
-Below the rainbow is the THRIVE Lifeline logo." 
+<img src="images/strongeru_thrive.png" alt="Text reads Stronger U plus THRIVE Lifeline. 
+Their respective logos are in the corners. Background is dark green gradient. 
+On the left and right sides are light green outlines of leaves on a stick." 
 style="width: 100%; height: 100%"/>
 
 </center>
@@ -23,9 +20,13 @@ THRIVE Lifeline is a fully volunteer-led organization. We make our work sustaina
 
 Some examples of services that our partnership with Stronger U has helped us to provide include:
 
+<br>
+
 #### [Free Peer Support](https://strongeruwellness.com/services/stronger-together/)
 * [Stronger Together discord community](https://discord.gg/tGWKTX6uka)
 * [Stronger Together live peer support meetings](https://strongeruwellness.com/stronger-together-support-group/)
+
+<br>
 
 #### [Workshops](https://strongeruwellness.com/services/workshops/)
 * Non-carceral Approaches to Suicide Intervention
@@ -35,13 +36,19 @@ Some examples of services that our partnership with Stronger U has helped us to 
 * Workshop #1 is Caring for marginalized individuals;
 * Workshop #2 is Caring for marginalized groups programmatically.
 
+<br>
+
 #### [Group Coaching Programs](https://strongeruwellness.com/services/group-coaching/)
 * [Trauma and Wellness](https://strongeruwellness.com/services/group-coaching/#trauma-and-wellness)
 * [Just Another Thursday](https://strongeruwellness.com/services/group-coaching/#suicidality): for those navigating chronic suidality
 * [Masking and Unmasking](https://strongeruwellness.com/services/group-coaching/#masking)
 
+<br>
+
 #### [Individual Coaching](https://strongeruwellness.com/services/individual-coaching/)
 For people who have longer term and more personalized support needs, mental wellness coaching is available in a variety of packages
+
+<br>
 
 #### [Organizational Projects](https://strongeruwellness.com/services/a-la-carte/)
 Customizable to your organization's needs and budget
@@ -53,4 +60,3 @@ Customizable to your organization's needs and budget
 * Workshop design and facilitation
 * Facilitated support groups
 * Speaking engagement
--->
