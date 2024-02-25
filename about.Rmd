@@ -7,7 +7,7 @@ output:
 ---
 
 **T**hriving **H**arnesses **R**espect, **I**nclusion, and **V**ested
-**E**mpathy: A crisis text line staffed by people in STEMM with marginalized
+**E**mpathy: A text-based crisis line staffed by people in STEMM with marginalized
 identities.
 
 THRIVE Lifeline is a 501(c)(3) grassroots organization dedicated to
