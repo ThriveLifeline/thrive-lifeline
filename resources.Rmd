@@ -9,30 +9,38 @@ health, HIV, housing, hotline, Indigenous, Latinx, legal, LGBTQ, mental health,
 mentoring, MPX, neurodivergence, online safety, parent, pet, psychosis, providers, 
 protest, relationships, religion, STEMM, substance use, support, under 18,
 veteran
-- **Region/Languages**: UK, Canada, international, Español
+- **Region/Languages**: UK, Canada, international, Espa&ntilde;ol
 
+<center>
 [Click here for a list of non-carceral support options](https://drive.google.com/file/d/1C3RJpE2o2W5cKM78pdCigVXQEMGMC1hz/view?usp=drive_link)
+</center>
 
 ```{r, include=FALSE}
 library(tidyverse)
 library(DT)
+
+print("HI!")
 ```
 
 ```{r, echo=FALSE, message=FALSE}
 ## Load resource list
 ## Note: If you encounter issues with characters, try resaving the
 ## CSV as a UTF-8 CSV. Excel... does not like interpreting as UTF-8
+## Find the bad UTF-8 lines
+# library("xfun")
+# read_utf8("thrive_resources.csv")
 data <- read_csv("thrive_resources.csv", comment = "#")
 
 ## Make website a hyperlink
 data$Website <- paste0("<a href='",data$Website,"' target='_blank'>",data$Website,"</a>")
-#data <- select(data, -c(ShortLink))
+data <- select(data, -c(ShortLink))
+
 
 ### Make URLs a hyperlink
-data$ShortLink <- paste0("<a href='https://",data$ShortLink,"' target='_blank'>","https://",data$ShortLink,"</a>")
+#data$ShortLink <- paste0("<a href='https://",data$ShortLink,"' target='_blank'>","https://",data$ShortLink,"</a>")
 
 ### Remove ShortLink column, because they're broken
-data <- select(data, -c(ShortLink))
+#data <- select(data, -c(ShortLink))
 
 ### Remove website column, since it's just an explanation for the ShortLink
 #data <- select(data, -c(Website))
@@ -61,6 +69,7 @@ datatable(data,
                 )),
       'print')
 ))
+
 ## Need DT v 0.17
 ## https://datatables.net/extensions/searchbuilder/examples/initialisation/columns.html
 #
