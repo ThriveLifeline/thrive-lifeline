@@ -252,6 +252,7 @@ div.dt-buttons .dt-button:hover {
 }
 
 /* March 2022 Tables coloration */
+/*
 .dt-button {
   color: #fff;
   background-color: #1F222A;
@@ -264,6 +265,7 @@ button.dt-button:hover {
 div.dtsb-searchBuilder button.dtsb-clearAll {
   color: black;
 }
+*/
 
 /* Set initial card styles */
 .col-md-4 {
