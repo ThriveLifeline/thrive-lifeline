@@ -231,9 +231,12 @@ input{
 }
 
 /* Newer DT versions June 2022 */
+/* May 2024: dark mode support fixes the search button */
+/*
 .dataTables_wrapper .dataTables_filter input {
     background-color: white;
 }
+*/
 
 button.dt-button, div.dt-button, a.dt-button, input.dt-button {
   background: white;
@@ -258,14 +261,17 @@ div.dt-buttons .dt-button:hover {
   background-color: #1F222A;
 }
 
+
 button.dt-button:hover {
   color: #65427D;
 }
 
+*/
+
 div.dtsb-searchBuilder button.dtsb-clearAll {
   color: black;
 }
-*/
+
 
 /* Set initial card styles */
 .col-md-4 {
