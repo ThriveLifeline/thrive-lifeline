@@ -1,0 +1,594 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<meta charset="utf-8" />
+<meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
+
+
+
+
+<title>Stronger Together</title>
+
+<script src="site_libs/header-attrs-2.27/header-attrs.js"></script>
+<script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/cosmo.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<style>h1 {font-size: 34px;}
+       h1.title {font-size: 38px;}
+       h2 {font-size: 30px;}
+       h3 {font-size: 24px;}
+       h4 {font-size: 18px;}
+       h5 {font-size: 16px;}
+       h6 {font-size: 12px;}
+       code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
+       pre:not([class]) { background-color: white }</style>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+<link href="site_libs/font-awesome-6.4.2/css/all.min.css" rel="stylesheet" />
+<link href="site_libs/font-awesome-6.4.2/css/v4-shims.min.css" rel="stylesheet" />
+<html lang="en">
+<meta name="google-site-verification" content="UNceFcC342EIvSXli_OOnJ4EUtHOA3is0mMLsKINvcY">
+<link rel="shortcut icon" href="images/test2.ico">
+
+<!-- Add icon library -->
+<!-- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"> -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css">
+
+<!-- Global site tag (gtag.js) - Google Analytics (Non-Meta? 6 June 2021) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-171574779-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-171574779-1');
+</script>
+
+<!-- Global site tag (gtag.js) - Google Analytics 6 June 2021 -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-KJLSG869MZ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-KJLSG869MZ');
+</script>
+
+
+<style type="text/css">
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
+
+<style type="text/css">code{white-space: pre;}</style>
+<script type="text/javascript">
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
+}
+</script>
+
+
+
+
+
+
+<link rel="stylesheet" href="style.css" type="text/css" />
+
+
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+img {
+  max-width:100%;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+.html-widget {
+  margin-bottom: 20px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+summary {
+  display: list-item;
+}
+details > summary > p:only-child {
+  display: inline;
+}
+pre code {
+  padding: 0;
+}
+</style>
+
+
+<style type="text/css">
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+  border-left-color: #adb5bd;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
+}
+</style>
+
+<script type="text/javascript">
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
+
+  // Navbar adjustments
+  var navHeight = $(".navbar").first().height() + 15;
+  var style = document.createElement('style');
+  var pt = "padding-top: " + navHeight + "px; ";
+  var mt = "margin-top: -" + navHeight + "px; ";
+  var css = "";
+  // offset scroll position for anchor links (for fixed navbar)
+  for (var i = 1; i <= 6; i++) {
+    css += ".section h" + i + "{ " + pt + mt + "}\n";
+  }
+  style.innerHTML = "body {" + pt + "padding-bottom: 40px; }\n" + css;
+  document.head.appendChild(style);
+});
+</script>
+
+<!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "\e258";
+  font-family: 'Glyphicons Halflings';
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+  background-color: transparent;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
+<!-- code folding -->
+
+
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
+
+
+
+<div class="navbar navbar-default  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+        <!-- Add me! -->
+        <span class="sr-only">Toggle navigation</span>
+        <!-- End add -->
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html"><span aria-hidden="true"><img id="logo" style="width: 50px;" src="images/test_logo_white_cropped.png" alt="THRIVE Lifeline logo"/></span></a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <li>
+  <a href="index.html">Home</a>
+</li>
+<!-- <li>
+  <a href="about.html">About</a>
+</li> -->
+<!-- Start About -->
+<li class="dropdown">
+    <!-- <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false"> -->
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+    About
+
+    <span class="caret"></span>
+  </a>
+  <!-- <ul class="dropdown-menu" role="menu"> -->
+  <ul class="dropdown-menu">
+    <li>
+      <a href="about.html">About Us</a>
+    </li>
+<!--    <li>
+      <a href="outreach.html">Outreach Materials</a>
+    </li>-->
+    <li>
+      <a href="newsletter.html">Newsletters</a>
+    </li>
+    <li>
+      <a href="FAQs.html">FAQs</a>
+    </li>
+    <li>
+      <a href="gallery.html">Shareable Graphics</a>
+    </li>
+    <li>
+      <a href="https://mailchi.mp/71ebc44f2d34/together-we-thrive" target="_blank">
+      <span class="fa fa-external-link-alt"></span>
+
+      Subscribe
+      </a>
+    </li>
+  </ul>
+</li>
+<!-- End About -->
+<li class="dropdown">
+    <!-- <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false"> -->
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+    Resources
+
+    <span class="caret"></span>
+  </a>
+  <!-- <ul class="dropdown-menu" role="menu"> -->
+  <ul class="dropdown-menu">
+    <li>
+      <a href="resources.html">Crisis Resources</a>
+    </li>
+    <li>
+      <a href="reading-list.html">Reading List</a>
+    </li>
+    <li>
+      <a href="STEMM-orgs.html">STEMM Organizations</a>
+    </li>
+    <li>
+      <a href="regional-resources.html">Regional Resources</a>
+    </li>
+  </ul>
+</li>
+<!-- <li>
+  <a href="volunteer.html">Volunteer</a>
+</li>
+<li>
+  <a href="recruit.html">RECRUIT Internship</a>
+</li>
+<li>
+  <a href="trans-support-group.html">TRANS Support Group</a>
+</li>
+<li>
+  <a href="partners.html">Partners</a>
+</li> -->
+<!-- Start Join THRIVE -->
+<li class="dropdown">
+    <!-- <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false"> -->
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+    Join THRIVE
+
+    <span class="caret"></span>
+  </a>
+  <!-- <ul class="dropdown-menu" role="menu"> -->
+  <ul class="dropdown-menu">
+    <li>
+      <a href="volunteer.html">Volunteer</a>
+    </li>
+    <li>
+      <a href="recruit.html">RECRUIT Internship</a>
+    </li>
+    <li>
+      <a href="opt.html">OPT Employment</a>
+    </li>
+    <li>
+      <a href="partners.html">Partners</a>
+    </li>
+  </ul>
+</li>
+<!-- End Join THRIVE -->
+<!--<li>
+  <a href="trans-discord.html">TRANS Discord</a>
+</li>-->
+
+<!-- Start Peer Support -->
+<li class="dropdown">
+    <!-- <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false"> -->
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+    Peer Support
+
+    <span class="caret"></span>
+  </a>
+  <!-- <ul class="dropdown-menu" role="menu"> -->
+  <ul class="dropdown-menu">
+    <li>
+      <a href="trans-discord.html">TRANS Discord</a>
+    </li>
+    <li>
+      <a href="peer-support.html">Stronger Together Discord</a>
+    </li>
+  </ul>
+</li>
+<!-- End Peer Support -->
+
+<!-- Start Training -->
+<li class="dropdown">
+    <!-- <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false"> -->
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+    Training
+
+    <span class="caret"></span>
+  </a>
+  <!-- <ul class="dropdown-menu" role="menu"> -->
+  <ul class="dropdown-menu">
+    <li>
+      <a href="mhfa.html">Mental Health First Aid</a>
+    </li>
+    <li>
+      <a href="noncarceral-wellness-services.html">Non-carceral Wellness</a>
+    </li>
+    <li>
+      <a href="workshops.html">Workshops</a>
+    </li>
+    <li>
+      <a href="https://strongeruwellness.com/events-calendar/">Stronger U Events Calendar</a>
+    </li>
+  </ul>
+</li>
+<!-- End Training -->
+<li>
+  <a href="https://www.paypal.com/donate?hosted_button_id=CU5D6Q727QH5S" target="_blank">
+    <span class="fa fa-external-link-alt"></span>
+
+    Donate
+  </a>
+</li>
+<!--<li>
+    <a href="http://eepurl.com/iilXFb" target="_blank">
+    <span class="fa fa-external-link-alt"></span>
+
+    Subscribe
+  </a>
+</li>-->
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        <li>
+  <a href="sms:+13136628209">
+    <span class="fa fa-mobile-alt"></span>
+
+    Text Us
+  </a>
+</li>
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<div id="header">
+
+
+
+<h1 class="title toc-ignore">Stronger Together</h1>
+
+</div>
+
+
+<center>
+<!-- <i class="fas fa-hard-hat fa-3x" aria-hidden="true"></i> Under Construction! <i class="fas fa-hard-hat fa-3x" aria-hidden="true"></i> -->
+<p><img src="images/stronger-together-banner.png" alt="Text reads Stronger Together: Peer Support Community. 
+The background is gradient dark green with a graphic of 4 people connected via their phones, and green tree branches for decoration." 
+style="width: 100%; height: 100%"/></p>
+</center>
+<p><br></p>
+<p>The Stronger Together discord server is co-hosted by THRIVE and our
+partners at <a
+href="https://strongeruwellness.com/services/stronger-together/">Stronger
+U</a>, and centers multiply marginalized complex trauma survivors inside
+of a non-carceral, depathologized space (open to all 18+). Many of us
+did not have the community support we needed in vulnerable periods of
+our lives, and have found that being connected to a community who cares
+is one of the keys to helping each other to survive and thrive.</p>
+<p><br></p>
+<p>We also hold semi-frequent peer support voice chats in the discord
+that provide another way to connect and be held in community. Currently,
+we are holding the following peer support chats:</p>
+<ul>
+<li>Trauma and Chronic Suicidality: on the second Friday of each month
+at 5pm GMT / 1pm ET / 10am PT</li>
+<li>Trauma and DID / Plurality: on the fourth Monday of each month at
+midnight GMT / 8pm ET / 5pm PT</li>
+</ul>
+<p><br></p>
+<p>Unsure how to use discord? That’s okay! <a
+href="https://drive.google.com/file/d/1sI6zQLuB49thisNzFfuL9a6EMb9CxoEm/view">This
+guide</a> has some information about our specific server layout, and you
+can also find some information about how to <a
+href="https://support.discord.com/hc/en-us/articles/360033931551-Getting-Started">download</a>
+discord, understand what a <a
+href="https://support.discord.com/hc/en-us/articles/360034842871-How-do-I-join-a-Server">discord
+server</a> is, and learn how to <a
+href="https://support.discord.com/hc/en-us/articles/360034632292-Sending-Messages">send
+messages</a> so you can interact with our community. Feel free to ask
+questions in the server, too — we’re happy to help you figure out how to
+navigate it, and be appropriate and supportive in our shared community
+space!</p>
+<p><br></p>
+<center>
+<a href="https://discord.gg/tGWKTX6uka">Join our discord server here
+today</a>
+</center>
+<p><br></p>
+<p><br></p>
+<center>
+<p><strong>Peer Support Calendar: All times are given in the Eastern
+Time Zone (New York).</strong></p>
+<!--<iframe src="https://calendar.google.com/calendar/embed?src=c_322a10beea4cbd7b0b198066f28624b22fbd23e019e3e75de8428b56257b4817%40group.calendar.google.com&ctz=America%2FNew_York&amp;src=Y192bGRlM285YzVidDU4a2gwM2tuMmI3Y240Y0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&amp;color=%23009688&amp;showCalendars=1&amp;showTabs=1&amp;showTitle=1" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>-->
+<iframe src="https://calendar.google.com/calendar/embed?src=c_322a10beea4cbd7b0b198066f28624b22fbd23e019e3e75de8428b56257b4817%40group.calendar.google.com&amp;ctz=America%2FNew_York&amp;color=%23009688&amp;showCalendars=1&amp;showTabs=1&amp;showTitle=1" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no">
+</iframe>
+</center>
+
+<div class="footer">
+
+&nbsp;
+<hr />
+
+  <center>
+  <p> Copyright &copy; T.H.R.I.V.E. Inc. 2020 &ndash; 2024 </p>
+  <!-- Add font awesome icons -->
+  <p style="text-center;">
+    <a target="_blank" href="https://facebook.com/ThriveLifeline" aria-label="Facebook"><i class="fab fa-facebook fa-3x" aria-hidden="true"></i></a>
+    <b style="word-space:2em">&nbsp;&nbsp;</b>
+    <!--<a target="_blank" href="https://twitter.com/ThriveLifeline" aria-label="Twitter"><i class="fab fa-twitter fa-3x" aria-hidden="true"></i></a>
+    <b style="word-space:2em">&nbsp;&nbsp;</b>-->
+    <a target="_blank" href="https://instagram.com/ThriveLifeline" aria-label="Instagram"><i class="fab fa-instagram fa-3x" aria-hidden="true"></i></a>
+    <b style="word-space:2em">&nbsp;&nbsp;</b>
+    <a target="_blank" href="https://github.com/ThriveLifeline" aria-label="GitHub"><i class="fab fa-github fa-3x" aria-hidden="true"></i></a>
+  </p>
+  <p>
+    <a target="_blank" href="images/privacy.pdf">Terms of Service/Privacy Policy</a>
+  </p>
+<!--
+  <p>
+    %c https://thrivelifeline.org/images/sweepstakes-rules.pdf c% 
+    <a target="_blank" href="sweepstakes-rules.html" style="color:#65427D">Social Media Sweepstakes Rules</a> | 
+    <a target="_blank" href="images/sweepstakes-rules.pdf" style="color:#65427D">Rules (PDF copy)</a>
+  </p>
+-->
+  </center>
+</div>
+
+
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open');
+  });
+});
+</script>
+
+<!-- code folding -->
+
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>
