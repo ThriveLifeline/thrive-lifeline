@@ -6,7 +6,7 @@ title: "Crisis Resources"
 detransition, disability, disaster, disordered eating, education, end-of-life, 
 food, funding, gender identity, general, gestation, grief, harm reduction, 
 health, HIV, housing, hotline, Indigenous, Latinx, legal, LGBTQ, mental health,
-mentoring, MPX, neurodivergence, online safety, parent, pet, psychosis, providers, 
+mentoring, MPX, neurodivergence, non-carceral, online safety, parent, pet, psychosis, providers, 
 protest, relationships, religion, STEMM, substance use, support, under 18,
 veteran
 - **Region/Languages**: UK, Canada, international, Espa&ntilde;ol
