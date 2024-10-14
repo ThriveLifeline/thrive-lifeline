@@ -6,8 +6,8 @@ output:
     toc_float: true
 ---
 
-<!--<img src="images/damien_supportgroup_pic.png" alt="SPMI & Mad 
-Peer Support. You deserve to be seen and heard without having to hide what you’re feeling or who you are. Your pain is real, your experiences are valid, and you deserve to share them freely." style="float: right; width: 50%; height: 50%; padding: 30px"/>-->
+img src="images/damien_supportgroup_pic.png" alt="SPMI & Mad 
+Peer Support. You deserve to be seen and heard without having to hide what you’re feeling or who you are. Your pain is real, your experiences are valid, and you deserve to share them freely." style="float: right; width: 50%; height: 50%; padding: 30px"/>
 
 <br> 
 
@@ -17,7 +17,7 @@ Damien is a RECRUIT intern and psychology student who seeks to bring more Mad vo
 
 In her RECRUIT Internship with THRIVE, Damien led peer support groups for folks with lived experience with Madness / SPMI's ("serious and persistent mental illness"), and wrote a series of articles and social media posts on stigma, Madness, and mental illness.
 
-<!--<img src="images/damien_spmi_quote.png" alt="text reads begin quote there is a pervasive belief that mentally ill and Mad folks cannot be given autonomy in their mental health care. That we must be institutionalised when we express feelings of suicidality or misgivings about psychiatric medication. Many believe that our medication regimens must be closely monitored and that we should have no say in what we put in our bodies. Most often, we are told that we are dangers to ourselves and to others if we do not wish to be controlled. End quote. We believe differently. We prioritize consent, autonomy, and humanity; and create space for folks to be however they need to be." style="float: left; width: 50%; height: 50%; padding: 40px"/>-->
+<img src="images/damien_spmi_quote.png" alt="text reads begin quote there is a pervasive belief that mentally ill and Mad folks cannot be given autonomy in their mental health care. That we must be institutionalised when we express feelings of suicidality or misgivings about psychiatric medication. Many believe that our medication regimens must be closely monitored and that we should have no say in what we put in our bodies. Most often, we are told that we are dangers to ourselves and to others if we do not wish to be controlled. End quote. We believe differently. We prioritize consent, autonomy, and humanity; and create space for folks to be however they need to be." style="float: left; width: 50%; height: 50%; padding: 40px"/>
 
 <br>
 
