@@ -1,0 +1,43 @@
+---
+title: "Stigma, Madness, and Mental Illness"
+output:
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+<!--<img src="images/damien_supportgroup_pic.png" alt="SPMI & Mad 
+Peer Support. You deserve to be seen and heard without having to hide what you’re feeling or who you are. Your pain is real, your experiences are valid, and you deserve to share them freely." style="float: right; width: 50%; height: 50%; padding: 30px"/>-->
+
+<br> 
+
+Damien is a RECRUIT intern and psychology student who seeks to bring more Mad voices into the institutional spaces that so often speak about us without us. He is genderfluid, bisexual, and polyamorous. She also lives with bipolar disorder, Borderline Personality Disorder, C-PTSD, and has dissociative and psychotic experiences. It has ADHD, autism, and just as much right to live a life that brings it joy as anybody else.
+
+<br>
+
+In her RECRUIT Internship with THRIVE, Damien led peer support groups for folks with lived experience with Madness / SPMI's ("serious and persistent mental illness"), and wrote a series of articles and social media posts on stigma, Madness, and mental illness.
+
+<!--<img src="images/damien_spmi_quote.png" alt="text reads begin quote there is a pervasive belief that mentally ill and Mad folks cannot be given autonomy in their mental health care. That we must be institutionalised when we express feelings of suicidality or misgivings about psychiatric medication. Many believe that our medication regimens must be closely monitored and that we should have no say in what we put in our bodies. Most often, we are told that we are dangers to ourselves and to others if we do not wish to be controlled. End quote. We believe differently. We prioritize consent, autonomy, and humanity; and create space for folks to be however they need to be." style="float: left; width: 50%; height: 50%; padding: 40px"/>-->
+
+<br>
+
+## Articles
+
+* [What is Stigma?](https://drive.google.com/file/d/1H7VwC261ycMPdIiHggY81KgGg8VPt534/view?usp=sharing)
+* [National Minority Mental Health Awareness Month](https://drive.google.com/file/d/1Y__bUhr05K9iLfKBxKljGgGR9MwCwOy8/view?usp=sharing)
+* [Destigmatisation as an Individual](https://drive.google.com/file/d/1BNxqszW7O8Hd_Yu7XoaasjTiLDV85skB/view?usp=sharing)
+
+<br>
+
+## Social Media Posts
+
+* [Recognizing Structural Stigma](https://www.instagram.com/p/C-7vZfIOdvB/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
+* [A History of Madness: On Reclamation and Identity](https://www.instagram.com/p/C95LAUOuHJX/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
+* [Coping with Self Stigma](https://www.instagram.com/p/C9LK083vS5U/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
+
+<br>
+
+<br>
+
+<br>
+

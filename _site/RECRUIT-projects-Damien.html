@@ -11,7 +11,7 @@
 
 
 
-<title>Regional Resources</title>
+<title>Stigma, Madness, and Mental Illness</title>
 
 <script src="site_libs/header-attrs-2.28/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
@@ -29,30 +29,12 @@
        h6 {font-size: 12px;}
        code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
        pre:not([class]) { background-color: white }</style>
+<script src="site_libs/jqueryui-1.13.2/jquery-ui.min.js"></script>
+<link href="site_libs/tocify-1.9.1/jquery.tocify.css" rel="stylesheet" />
+<script src="site_libs/tocify-1.9.1/jquery.tocify.js"></script>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
-<link href="site_libs/htmltools-fill-0.5.8.1/fill.css" rel="stylesheet" />
-<script src="site_libs/htmlwidgets-1.6.4/htmlwidgets.js"></script>
-<link href="site_libs/datatables-css-0.0.0/datatables-crosstalk.css" rel="stylesheet" />
-<script src="site_libs/datatables-binding-0.33/datatables.js"></script>
-<link href="site_libs/dt-core-1.13.6/css/jquery.dataTables.min.css" rel="stylesheet" />
-<link href="site_libs/dt-core-1.13.6/css/jquery.dataTables.extra.css" rel="stylesheet" />
-<script src="site_libs/dt-core-1.13.6/js/jquery.dataTables.min.js"></script>
-<link href="site_libs/dt-ext-responsive-1.13.6/css/responsive.dataTables.min.css" rel="stylesheet" />
-<script src="site_libs/dt-ext-responsive-1.13.6/js/dataTables.responsive.min.js"></script>
-<script src="site_libs/jszip-1.13.6/jszip.min.js"></script>
-<script src="site_libs/pdfmake-1.13.6/pdfmake.js"></script>
-<script src="site_libs/pdfmake-1.13.6/vfs_fonts.js"></script>
-<link href="site_libs/dt-ext-buttons-1.13.6/css/buttons.dataTables.min.css" rel="stylesheet" />
-<script src="site_libs/dt-ext-buttons-1.13.6/js/dataTables.buttons.min.js"></script>
-<script src="site_libs/dt-ext-buttons-1.13.6/js/buttons.html5.min.js"></script>
-<script src="site_libs/dt-ext-buttons-1.13.6/js/buttons.colVis.min.js"></script>
-<script src="site_libs/dt-ext-buttons-1.13.6/js/buttons.print.min.js"></script>
-<link href="site_libs/dt-ext-searchbuilder-1.13.6/css/searchBuilder.dataTables.min.css" rel="stylesheet" />
-<script src="site_libs/dt-ext-searchbuilder-1.13.6/js/dataTables.searchBuilder.min.js"></script>
-<link href="site_libs/crosstalk-1.2.1/css/crosstalk.min.css" rel="stylesheet" />
-<script src="site_libs/crosstalk-1.2.1/js/crosstalk.min.js"></script>
 <link href="site_libs/font-awesome-6.4.2/css/all.min.css" rel="stylesheet" />
 <link href="site_libs/font-awesome-6.4.2/css/v4-shims.min.css" rel="stylesheet" />
 <html lang="en">
@@ -271,6 +253,69 @@ $(document).ready(function () {
 
 
 
+<style type="text/css">
+
+#TOC {
+  margin: 25px 0px 20px 0px;
+}
+@media (max-width: 768px) {
+#TOC {
+  position: relative;
+  width: 100%;
+}
+}
+
+@media print {
+.toc-content {
+  /* see https://github.com/w3c/csswg-drafts/issues/4434 */
+  float: right;
+}
+}
+
+.toc-content {
+  padding-left: 30px;
+  padding-right: 40px;
+}
+
+div.main-container {
+  max-width: 1200px;
+}
+
+div.tocify {
+  width: 20%;
+  max-width: 260px;
+  max-height: 85%;
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  div.tocify {
+    width: 25%;
+  }
+}
+
+@media (max-width: 767px) {
+  div.tocify {
+    width: 100%;
+    max-width: none;
+  }
+}
+
+.tocify ul, .tocify li {
+  line-height: 20px;
+}
+
+.tocify-subheader .tocify-item {
+  font-size: 0.90em;
+}
+
+.tocify .list-group-item {
+  border-radius: 0px;
+}
+
+
+</style>
+
+
 
 </head>
 
@@ -278,6 +323,16 @@ $(document).ready(function () {
 
 
 <div class="container-fluid main-container">
+
+
+<!-- setup 3col/9col grid for toc_float and main content  -->
+<div class="row">
+<div class="col-xs-12 col-sm-4 col-md-3">
+<div id="TOC" class="tocify">
+</div>
+</div>
+
+<div class="toc-content col-xs-12 col-sm-8 col-md-9">
 
 
 
@@ -475,33 +530,59 @@ $(document).ready(function () {
 
 
 
-<h1 class="title toc-ignore">Regional Resources</h1>
+<h1 class="title toc-ignore">Stigma, Madness, and Mental Illness</h1>
 
 </div>
 
 
-<center>
-<i class="fas fa-hard-hat fa-3x" aria-hidden="true"></i> Under
-Construction! <i class="fas fa-hard-hat fa-3x" aria-hidden="true"></i>
-</center>
+<!--<img src="images/damien_supportgroup_pic.png" alt="SPMI & Mad 
+Peer Support. You deserve to be seen and heard without having to hide what you’re feeling or who you are. Your pain is real, your experiences are valid, and you deserve to share them freely." style="float: right; width: 50%; height: 50%; padding: 30px"/>-->
+<p><br></p>
+<p>Damien is a RECRUIT intern and psychology student who seeks to bring
+more Mad voices into the institutional spaces that so often speak about
+us without us. He is genderfluid, bisexual, and polyamorous. She also
+lives with bipolar disorder, Borderline Personality Disorder, C-PTSD,
+and has dissociative and psychotic experiences. It has ADHD, autism, and
+just as much right to live a life that brings it joy as anybody
+else.</p>
+<p><br></p>
+<p>In her RECRUIT Internship with THRIVE, Damien led peer support groups
+for folks with lived experience with Madness / SPMI’s (“serious and
+persistent mental illness”), and wrote a series of articles and social
+media posts on stigma, Madness, and mental illness.</p>
+<!--<img src="images/damien_spmi_quote.png" alt="text reads begin quote there is a pervasive belief that mentally ill and Mad folks cannot be given autonomy in their mental health care. That we must be institutionalised when we express feelings of suicidality or misgivings about psychiatric medication. Many believe that our medication regimens must be closely monitored and that we should have no say in what we put in our bodies. Most often, we are told that we are dangers to ourselves and to others if we do not wish to be controlled. End quote. We believe differently. We prioritize consent, autonomy, and humanity; and create space for folks to be however they need to be." style="float: left; width: 50%; height: 50%; padding: 40px"/>-->
+<p><br></p>
+<div id="articles" class="section level2">
+<h2>Articles</h2>
 <ul>
-<li><strong>Keywords</strong>: aid, Black, funding, gender identity,
-health, housing, LGBTQ, sex work</li>
+<li><a
+href="https://drive.google.com/file/d/1H7VwC261ycMPdIiHggY81KgGg8VPt534/view?usp=sharing">What
+is Stigma?</a></li>
+<li><a
+href="https://drive.google.com/file/d/1Y__bUhr05K9iLfKBxKljGgGR9MwCwOy8/view?usp=sharing">National
+Minority Mental Health Awareness Month</a></li>
+<li><a
+href="https://drive.google.com/file/d/1BNxqszW7O8Hd_Yu7XoaasjTiLDV85skB/view?usp=sharing">Destigmatisation
+as an Individual</a></li>
 </ul>
-<div class="datatables html-widget html-fill-item" id="htmlwidget-5eaab9df684e70936c1b" style="width:100%;height:auto;"></div>
-<script type="application/json" data-for="htmlwidget-5eaab9df684e70936c1b">{"x":{"filter":"none","vertical":false,"extensions":["Responsive","Buttons","SearchBuilder"],"data":[["Alexander Foundation Community Assistance Programs","Bay Area Sex Worker Advocacy Network (BAYSWAN)","Bebashi","Black Trans Travel Fund","Callen-Lorde Community Health Center","CK Life","Fenway Health","Howard Brown Health","Morris Home","National Resource Center on LGBT Aging","NoJusticeNoPride","NoJusticeNoPride’s Housing Support","NoJusticeNoPride Mutual Aid","Promise Resource Network","Sac Trans Masc","Stonewall Village NYC","Ontario Psychotherapy Referral Directory","TransitionsDE"],["This program provides assistance to those individuals in Colorado who are experiencing temporary financial difficulties.","An organization by and for sex workers in the Bay Area with resources about decriminalizing sex work.","An organization for Black and Brown people providing culturally sensitive high quality healthcare, HIV/AIDS services, health education, and social services.","An organization that provides Black transgender women in New York and New Jersey with financial and material resources for safer travel options. They offer a monthly literature program.","Provides sensitive, quality health care and related services targeted to New York’s LGBTQ communities, regardless of ability to pay.","Bronx-based group that provides weekly TGNC support groups, outreach for TGNC Community engaging in survival sex work, free HIV testing, hygiene and safer sex kits, trauma informed services for Black and Brown TGNC Folk, including monthly groups, education referrals, and health care counseling.","An LGBT health care, research and advocacy organization.","Chicago-based LGBTQ agency providing primary medical care, behavioral health, research, HIV/STI prevention, youth services, elder services, and community initiatives.","The only residential recovery program in the country to offer comprehensive services specifically for the transgender community, provides a safe, recovery-oriented environment in which people are treated with respect and dignity.","Resources for older LGBTQ+ people.","Abolitionist organization that aims to end the LGBT movement’s complicity with systems of oppression that further marginalize queer and trans individuals.","Housing support for Black and Brown trans people in need of housing in Washington DC.","Mutual aid for housing, employment, access, and legal support for TGNC DC community.","A survivor-led community (broadly defined) that offers a warmline and over 95 virtual classes, support groups, and activities each month spanning the 8 Dimensions of Wellness.","Queer and transgender peer collective connecting community for queer, trans folks and questioning individuals that is located in Sacramento, California. They have in person social meetings for 18+ trans masc individuals, a transmasc support group, and a trans masc discord server as well.","Housing and health assistance, advocacy groups, cultural events in NYC.","A service for locating counselors or psychotherapists in Ontario to help with short or long-term life challenges.","Counseling, consultation, and training for the LGBTQ+ community, our family, and allies"],["CO","CA","PA","NY","NY","NY","MA","IL","PA",null,"DC","DC","DC","NC","CA","NY","ON","DE"],["USA","USA","USA","USA","USA","USA","USA","USA","USA","USA","USA","USA","USA","USA","USA","USA","Canada","USA"],["<a href='https://www.thealexanderfoundation.org/assistance-programs' target='_blank'>https://www.thealexanderfoundation.org/assistance-programs<\/a>","<a href='http://www.bayswan.org/' target='_blank'>http://www.bayswan.org/<\/a>","<a href='https://www.bebashi.org/' target='_blank'>https://www.bebashi.org/<\/a>","<a href='https://www.blacktranstravelfund.com/' target='_blank'>https://www.blacktranstravelfund.com/<\/a>","<a href='https://callen-lorde.org/' target='_blank'>https://callen-lorde.org/<\/a>","<a href='https://www.cklife.org/programs' target='_blank'>https://www.cklife.org/programs<\/a>","<a href='https://fenwayhealth.org/' target='_blank'>https://fenwayhealth.org/<\/a>","<a href='https://howardbrown.org/' target='_blank'>https://howardbrown.org/<\/a>","<a href='https://www.rhd.org/morrishome/' target='_blank'>https://www.rhd.org/morrishome/<\/a>","<a href='https://www.lgbtagingcenter.org/' target='_blank'>https://www.lgbtagingcenter.org/<\/a>","<a href='https://www.nojusticenopride.org/' target='_blank'>https://www.nojusticenopride.org/<\/a>","<a href='https://www.nojusticenopride.org/get_housing' target='_blank'>https://www.nojusticenopride.org/get_housing<\/a>","<a href='https://www.nojusticenopride.org/mutual-aid' target='_blank'>https://www.nojusticenopride.org/mutual-aid<\/a>","<a href='https://promiseresourcenetwork.org/' target='_blank'>https://promiseresourcenetwork.org/<\/a>","<a href='https://linktr.ee/trekdcommunitysupport' target='_blank'>https://linktr.ee/trekdcommunitysupport<\/a>","<a href='https://stonewallvillagenyc.org/' target='_blank'>https://stonewallvillagenyc.org/<\/a>","<a href='https://referrals.psychotherapyandcounseling.ca/' target='_blank'>https://referrals.psychotherapyandcounseling.ca/<\/a>","<a href='https://transitionsde.com/' target='_blank'>https://transitionsde.com/<\/a>"],["funding","sex work","Black, HIV","funding, Black, LGBTQ, gender identity","health, LGBTQ, gender identity","health, LGBTQ, gender identity, Black","health, LGBTQ, gender identity","health, LGBTQ, gender identity","recovery, LGBTQ, gender identity","aging, LGBTQ, gender identity","Black, LGBTQ","housing, Black","aid, LGBTQ, gender identity","mental health","LGBTQ, gender identity","health, housing, LGBTQ","mental health","LGBTQ, gender identity"]],"container":"<table class=\"display\">\n  <thead>\n    <tr>\n      <th>Resource<\/th>\n      <th>Description<\/th>\n      <th>State/Province<\/th>\n      <th>Country<\/th>\n      <th>Website<\/th>\n      <th>Keywords<\/th>\n    <\/tr>\n  <\/thead>\n<\/table>","options":{"dom":"QBfrtip","buttons":["copy","csv","excel",{"extend":"pdf","orientation":"landscape","exportoptions":{"pageSize":"A3","customize":"function(doc){doc.styles.tableHeader.color='purple';}"}},"print"],"columnDefs":[{"name":"Resource","targets":0},{"name":"Description","targets":1},{"name":"State/Province","targets":2},{"name":"Country","targets":3},{"name":"Website","targets":4},{"name":"Keywords","targets":5}],"order":[],"autoWidth":false,"orderClasses":false,"responsive":true}},"evals":["options.buttons.3.exportoptions.customize"],"jsHooks":[]}</script>
-<p>Do you have a resource that you’d like to see added? Fill out our
-<a href="https://forms.gle/VpkzjtbuAes3beAr7">suggestion form</a>.</p>
-<div id="disclaimer" class="section level2">
-<h2>Disclaimer</h2>
-<p>This website offers resources and information, and is designed for
-educational purposes only. The T.H.R.I.V.E. website may contain links to
-external websites that are not provided or maintained by or in any way
-affiliated with T.H.R.I.V.E. Please note we don’t guarantee the
-accuracy, relevance, timeliness, or completeness of any information on
-these websites. You should not rely on this information as a substitute
-for, nor does it replace, professional medical advice, diagnosis or
-treatment.</p>
+<p><br></p>
+</div>
+<div id="social-media-posts" class="section level2">
+<h2>Social Media Posts</h2>
+<ul>
+<li><a
+href="https://www.instagram.com/p/C-7vZfIOdvB/?utm_source=ig_web_copy_link&amp;igsh=MzRlODBiNWFlZA==">Recognizing
+Structural Stigma</a></li>
+<li><a
+href="https://www.instagram.com/p/C95LAUOuHJX/?utm_source=ig_web_copy_link&amp;igsh=MzRlODBiNWFlZA==">A
+History of Madness: On Reclamation and Identity</a></li>
+<li><a
+href="https://www.instagram.com/p/C9LK083vS5U/?utm_source=ig_web_copy_link&amp;igsh=MzRlODBiNWFlZA==">Coping
+with Self Stigma</a></li>
+</ul>
+<p><br></p>
+<p><br></p>
+<p><br></p>
 </div>
 
 <div class="footer">
@@ -535,6 +616,8 @@ treatment.</p>
 </div>
 
 
+</div>
+</div>
 
 </div>
 
@@ -567,6 +650,35 @@ $(document).ready(function () {
 
 <!-- code folding -->
 
+<script>
+$(document).ready(function ()  {
+
+    // temporarily add toc-ignore selector to headers for the consistency with Pandoc
+    $('.unlisted.unnumbered').addClass('toc-ignore')
+
+    // move toc-ignore selectors from section div to header
+    $('div.section.toc-ignore')
+        .removeClass('toc-ignore')
+        .children('h1,h2,h3,h4,h5').addClass('toc-ignore');
+
+    // establish options
+    var options = {
+      selectors: "h1,h2,h3",
+      theme: "bootstrap3",
+      context: '.toc-content',
+      hashGenerator: function (text) {
+        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_');
+      },
+      ignoreSelector: ".toc-ignore",
+      scrollTo: 0
+    };
+    options.showAndHide = true;
+    options.smoothScroll = true;
+
+    // tocify
+    var toc = $("#TOC").tocify(options).data("toc-tocify");
+});
+</script>
 
 <!-- dynamically load mathjax for compatibility with self-contained -->
 <script>
