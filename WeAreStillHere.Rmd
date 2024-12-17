@@ -6,10 +6,7 @@ output:
     toc_float: true
 ---
 
-Cy (he/they) is a RECRUIT Intern and the artist behind the We Are Still Here project, which aims to amplify the stories and voices of humans that may otherwise go unheard. Cy collects personal narratives from multiply marginalilzed people within our communities, and creates hand-drawn portraits depicting people as they wish to be seen. 
-
-Want to be featured? We invite you to submit your story, along with images that feel reflective of you. If chosen, Cy will create a portrait of you and publish it alongside your story.
-Submission link: https://thriv.life/WeAreStillHere
+Cy (he/they) is a RECRUIT Intern and the artist behind the We Are Still Here project, which aimed to amplify the stories and voices of humans that may otherwise go unheard. Cy collected personal narratives from multiply marginalilzed people within our communities, and created hand-drawn portraits depicting people as they wish to be seen. 
 
 <br>
 
@@ -111,3 +108,18 @@ During my stays in psychiatric wards, I witnessed many devoted members of the st
 
 I am no longer ashamed of my queerness nor my madness. They are integral parts of who I am that don't need to be fixed.
 
+<br>
+
+<img src="images/Yusur_WASH.png" alt="drawn portrait of a light skinned femme person with long wavy hair and glasses, they are smiling softly. Behind them is blue and white designs." style="float: left; width: 50%; height: 50%; padding: 30px"/>
+
+## Yusur (she/her)
+
+Life hurts. I know it does. I know it does because I’ve been there. There are times where I have questioned why, why this life had to be given to me when I felt like a ghost inside. Why was I given this life to live when I selfishly wish I wasn’t here in the first place. These are questions that I have asked myself for years, and though I don’t have an answer to any of them. I recognize that it’s okay to admit that life hurts. 
+
+<br>
+
+<img src="images/Nathan_WASH.png" alt="drawn portrait of a white femme person with soft flowy brown hair. Her eyes are closed and she looks calm." style="float: right; width: 50%; height: 50%; padding: 30px"/>
+
+## Nathan (she/her)
+
+From the time I was really young, I knew I didn’t want to be a boy. I constantly asked my family if they would love me if I were a girl and I would play dress up and other typically girly games. Even though I had always knew I didn’t want to be a boy, I really struggled with my identity because I always thought I just had to be a boy since that’s how I was raised and that’s what everyone knew me to be. I finally took a big step in the journey that is my identity and came out as a trans woman. I haven’t told many of my family because I feared that they wouldn’t like me. I know that they would still love me, but I’ve heard them talk negatively about other people’s identities and I’m scared they would talk about me the same way and no longer think of me as their family. Even though I still have a lot of growing to do, I know that I will never let anyone tell me who I am or who they think I should be.
