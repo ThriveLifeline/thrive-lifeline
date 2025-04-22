@@ -2,12 +2,7 @@
 title: "Volunteer with THRIVE"
 ---
 
-Help your communities to THRIVE! We invite you to join THRIVE Lifeline's international 
-team of volunteers and begin offering life-saving and life-affirming support. 
-Our volunteers are students and professionals, working remotely from anywhere. 
-When you volunteer with us, you will be provided opportunities for mentorship, skill 
-development, and leadership growth. Whatever your passions or experience level, we have 
-a place for you!
+Help your communities to THRIVE! We invite you to join THRIVE Lifeline's international team of volunteers and begin offering life-saving and life-affirming support. Our volunteers are students and professionals, working remotely from anywhere. When you volunteer with us, you will be provided opportunities for mentorship, skill development, and leadership growth. Whatever your passions or experience level, we have a place for you!
 
 <br>
 Volunteer with THRIVE! [**Apply Here**](https://form.jotform.com/201655418668059).
@@ -17,42 +12,37 @@ Requirements:
 
 * 18+ years old
 * Identify as an underrepresented individual
-* **Crisis Responders**: Willingness to complete a minimum of 40 hours of training, 
-generally in 4 weeks (accelerated) or 8 weeks (traditional). Crisis Responders commit to a minimum of 150 hours of crisis response shifts on THRIVE Lifeline after their training is completed,
+* **Peer Supporters**: Willingness to complete a minimum of 4 weeks of training. Peer Supporters commit to a minimum of 100 hours of peer support shifts with THRIVE Lifeline after their training is completed.
     + Training is a hybrid of synchronous and asynchronous readings, exercises, 
       live discussions, practices, and shadowing
-    + Training must be completed in no more than 6 months
-* **Non-Crisis Response**: Willingness to complete the estimated weekly time commitment or project, as detailed below.
-* Willingness to listen non-judgmentally to those in crisis
+    + Training must be completed in no more than 3 months
+* **General Volunteers**: Willingness to complete the estimated weekly time commitment or project, as detailed below.
+* Willingness to normalize stigmatized mental health experiences, challenge biases, and address pathologizing statements
+* Commitment to non-carceral support and to reaching your highest potential of community care!
 
 Note: No prior experience is necessary.
 
-* THRIVE's proprietary Crisis Response for Marginalized Communities<sup>TM</sup> curriculum
-is centered in Whole-Human, empathetic support, cross-identity
-affirmation, trauma-informed care, and skillful deescalation. Our full certificate 
-of completion requires 50 hours; Crisis Responders are required to complete 40 hours
-of training prior to becoming taking shifts on THRIVE Lifeline.
+* [Stronger U](https://strongeruwellness.com/) provides complete educational programs, including personalized education, resources, coaching, and certification, to THRIVE's peer support and crisis response teams. These programs center Whole-Human, cross-identity affirmation, safer non-carceral skills, and conscientious intervention from trauma-informed and lived-experience lenses. Program certificates of completion are provided to selected applicants who complete all program elements including, initial training, ongoing education, mentorship, and skills practices, and all required shifts, while remaining in good standing as a THRIVE Lifeline volunteer.
 * Volunteers can work from any location: all that is required is a computer
 with reliable internet and a private space.
-* Representation is at the heart of THRIVE. We encourage applications from people who 
-identify as **persons of color, persons living with disabilities, Two Spirit, 
-trans-femme and/or femme nonbinary individuals, and/or veterans.**
+* Representation is at the heart of THRIVE. We encourage applications from multiply marginalized people across a breadth of identities and experiences.
 
 <br>
 THRIVE offers a variety of volunteer positions, some of which receive extensive training and mentorship and require longer term commitments from volunteers while others receive basic training and complete shorter term projects. If you are looking to provide general support without going through an application, there are a number of ways to do this as well. All THRIVE volunteers work remotely, from almost anywhere globally.
 
 Longer term volunteer positions include: (*Full job descriptions are available in links beside each position.*)
 
-   * **Crisis Responder**: This volunteer will actively talk to, listen to, and help texters on the hotline. Estimated time is 6 hours per week during training, 3-6 hours per week after.
-     [Full Description](https://drive.google.com/file/d/1SbnT8GKnoQi3YqjdMrv5VdxU6xhcuOQs/view)
-   * **Training Assistant**:  This volunteer will support our Crisis Responders in Training (CRiTs) by acting as texters to the hotline by conducting practice text-based interactions from scripted scenarios, and then providing feedback to the CRiT’s mentor. Estimated time is 2 hours per week.
+   * **Peer Supporter**: This volunteer will support community members in our Discord server. Estimated time is approximately 5 hours per week during training, then 3 - 6 hours per week after.
+     [Full Description](https://drive.google.com/file/d/1hmQR6owM7eOixeCI4kR7MwtSu6FlM8f3/view?usp=sharing)
+   * **Training Assistant**:  This volunteer will support our Peer Supporter in training by acting as community members in need of support based on scripted scenarios, and then providing feedback. Estimated time is 2 hours per week
    [Full Description](https://drive.google.com/file/d/1xkAzZhHrGs4GUVIykK1xxEy6jwouxr08/view)
    * **Social Media Team Members**: This volunteer will design and create social media posts in Canva to share on THRIVE’s Instagram, Facebook, and LinkedIn pages. Estimated 4 hours per week.
         [Full Description](https://drive.google.com/file/d/1skqhjX80sC_wSPx-UnU_zRwVsCEwYD6G/view)
   * **Outreach Specialist**: This volunteer will assist with outreach, sharing
    THRIVE Lifeline as a resource and broadening the impact of the hotline. [Full Description](https://drive.google.com/file/d/1v6OnQgwzMHzAoKhpSHMTgS3Y4CSHgF4A/view?usp=drive_link)
-  * **Peer Support Group Facilitator**: Volunteers to facilitate a minimum of one 1-hour peer support group per month inside our Stronger Together discord server. Our application process for peer support facilitators who are not current THRIVE volunteers includes: Submit a volunteer application and detail your interest and experience with peer support facilitation. We will connect to ask any clarifying questions and ask you to sign a volunteer agreement.  Finally, we will invite you to lead a 30 minute support group for THRIVE volunteers. We will take an additional 30 - 60 minutes within that meeting to discuss any feedback, answer any questions that you have, and complete your orientation. Please note that Peer Support Group Facilitators are covered under THRIVE Inc liability insurance and subject to all organizational policies and procedures.
+
 <!--
+  * **Peer Support Group Facilitator**: Volunteers to facilitate a minimum of one 1-hour peer support group per month inside our Stronger Together discord server. Our application process for peer support facilitators who are not current THRIVE volunteers includes: Submit a volunteer application and detail your interest and experience with peer support facilitation. We will connect to ask any clarifying questions and ask you to sign a volunteer agreement.  Finally, we will invite you to lead a 30 minute support group for THRIVE volunteers. We will take an additional 30 - 60 minutes within that meeting to discuss any feedback, answer any questions that you have, and complete your orientation. Please note that Peer Support Group Facilitators are covered under THRIVE Inc liability insurance and subject to all organizational policies and procedures.
     * **Assistant Volunteer Coordinator for Applications**: This volunteer will 
    manage all THRIVE volunteer applications, including communications with 
    volunteers throughout the process. 
@@ -88,7 +78,7 @@ Project options include:
 Other ways to support THRIVE, without filling out a volunteer application:
 
   * **Share our line within your communities:** We rely on people like you to share our line with others who might need our support. Do you know any online or in-person community spaces which could benefit from a mental health resource for marginalized communities? [Check out this PDF with brief instructions and some templated outreach messages that you can share.](https://drive.google.com/file/d/1P3cVeqHRpvBFrr0gYfaKCOrj1QidfYWn/view?usp=drive_link)
-  * **Start a fundraiser for THRIVE on Facebook:** As a grassroots organization, we largely rely on funds from others who are able to donate financially. [Check out this PDF with instructions for how to start a fundraiser on Facebook and share with friends or family.](https://drive.google.com/file/d/1X6--1NoGiCb3b1Uj8vNmymdFAFv6dzHY/view?usp=drive_link)
+  * **Start a fundraiser for THRIVE on Facebook:** As a grassroots organization, we largely rely on funds from others who are able to donate financially. [Check out this video from one of our volunteers on how to ask for money.](https://www.youtube.com/watch?v=UuKf3mhRO4I)
   * **Print and share our [brochures](https://drive.google.com/file/d/1XJDqey5d-y2v7nPSTI8nwGMmNLlzYXx1/view?usp=drive_link) and [business cards](https://drive.google.com/drive/u/0/folders/185IRJMNA-hbLaXx5NHqifEuWnh11gmy8) with your community**
    
 <br>
@@ -97,7 +87,7 @@ We will reply within 48 hours.
 
 <br>
 
-Crisis Responder live training sessions take place on the 1st and 3rd Saturdays of each month.
+The calendar below includes all virtual peer support offerings, volunteer orientations, and Peer Supporter trainings.
 
 <center>
 **All times are given in the Eastern Time Zone (New York).**
